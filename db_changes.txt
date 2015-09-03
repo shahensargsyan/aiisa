@@ -1,0 +1,24 @@
+21.10.2014
+ALTER TABLE `logs` ADD `type` ENUM( 'login', 'signup', 'wrong_login', 'wrong_signup', 'logout', 'fill_information', 'choose_license', 'quick_register', 'pay', 'review_finalize', 'download', 'not_defined' ) NOT NULL DEFAULT 'not_defined' AFTER `email` ;
+ALTER TABLE `logs` ADD `blocked` TINYINT( 1 ) UNSIGNED NOT NULL DEFAULT '0' AFTER `user_ip` ;
+
+24.10.2014
+ALTER TABLE `transactions` CHANGE `type` `type` ENUM('2checkout','paypal') CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL DEFAULT 'paypal';
+ALTER TABLE `transactions` ADD `created` DATETIME NOT NULL AFTER `type`, ADD `modified` DATETIME NOT NULL AFTER `created`;
+ALTER TABLE `transactions` CHANGE `paymentstatus` `paymentstatus` ENUM('paid','pending','canceled') CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL DEFAULT 'pending';
+
+
+31.10.2014
+INSERT INTO `settings` (`id`, `name`, `data`, `created`, `modified`) VALUES
+(1, 'paypal', '{"webscr":"https:\\/\\/api-3t.paypal.com\\/nvp\\/","endpoint":"https:\\/\\/api-3t.paypal.com\\/nvp\\/","email":"payments_api1.finalearth.com","password":"Y7KYGLDTV9J2N8RU","signature":"AphyFFYL-ZFXrWOOVE9mXkbIljV8APZCAwNgxYXDdUHvHbwwT6k4tlBq"}', '2014-10-27 16:02:05', '2014-10-27 16:02:05'),
+(2, '2checkout', '{"sid":"901256349","token":"no"}', '0000-00-00 00:00:00', '2014-10-27 17:25:18'),
+(3, 'trust', '{"url":"http:\\/\\/google.com","width":"150","height":"150","image_name":"282e63197c8f4454dc583e9646bcb282.jpg"}', '0000-00-00 00:00:00', '2014-10-31 18:39:47'),
+(4, 'social', '{"facebook":"https:\\/\\/facebook.com\\/","linked_in":"https:\\/\\/linkedin.com\\/","twitter":"https:\\/\\/twitter.com","google_plus":"https:\\/\\/google.com\\/"}', '0000-00-00 00:00:00', '2014-10-31 18:53:53');
+DROP TABLE `trusts`;
+DROP TABLE `social_settings`;
+ 
+
+2014.11.03
+ALTER TABLE `reviews` DROP `email`;
+ALTER TABLE `reviews` ADD `created` DATETIME NOT NULL ,
+ADD `modified` DATETIME NOT NULL ;

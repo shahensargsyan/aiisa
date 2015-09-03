@@ -1,0 +1,1 @@
+<div class="message" style="float:left;padding:10px 50px;"><?php echo $message?></div>

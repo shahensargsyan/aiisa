@@ -1,0 +1,5697 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Woodekees\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-08-11 10:43+0400\n"
+"Last-Translator: Mark van Driel\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: Config/routes.php:56
+msgid "reviews"
+msgstr "reviews"
+
+#: Config/routes.php:57
+msgid "information"
+msgstr "information"
+
+#: Config/routes.php:58
+msgid "portfolio"
+msgstr "portfolio"
+
+#: Config/routes.php:59
+msgid "products"
+msgstr "products"
+
+#: Config/routes.php:60
+msgid "services"
+msgstr "services"
+
+#: Config/routes.php:61
+msgid "images"
+msgstr "images"
+
+#: Config/routes.php:62
+msgid "videos"
+msgstr "videos"
+
+#: Config/routes.php:63 View/Elements/footer.ctp:35
+msgid "contact"
+msgstr "contact"
+
+#: Console/Command/ConnectionsShell.php:74 Controller/AppController.php:149
+msgid "[Woodekees] %s"
+msgstr "[Woodekees] %s"
+
+#: Console/Command/ConnectionsShell.php:74
+msgid "Facebook access token refresh reminder"
+msgstr "Facebook access token refresh reminder"
+
+#: Controller/AccessibilityOptionsController.php:21;36
+msgid "Accessibility option has been saved"
+msgstr "Accessibility option has been saved"
+
+#: Controller/AccessibilityOptionsController.php:24;39
+msgid "Accessibility option could not be saved. Please, try again."
+msgstr "Accessibility option could not be saved. Please, try again."
+
+#: Controller/AccessibilityOptionsController.php:32
+msgid "Invalid accessibility option"
+msgstr "Invalid accessibility option"
+
+#: Controller/AccessibilityOptionsController.php:49
+msgid "Invalid id for accessibility option"
+msgstr "Invalid id for accessibility option"
+
+#: Controller/AccessibilityOptionsController.php:53
+msgid "Accessibility option deleted"
+msgstr "Accessibility option deleted"
+
+#: Controller/AccessibilityOptionsController.php:56
+msgid "Accessibility option was not deleted"
+msgstr "Accessibility option was not deleted"
+
+#: Controller/AdvertisementLinkTypesController.php:21;36
+msgid "Advertisement link type has been saved"
+msgstr "Advertisement link type has been saved"
+
+#: Controller/AdvertisementLinkTypesController.php:24;39
+msgid "Advertisement link type could not be saved. Please, try again."
+msgstr "Advertisement link type could not be saved. Please, try again."
+
+#: Controller/AdvertisementLinkTypesController.php:32
+msgid "Invalid advertisement link type"
+msgstr "Invalid advertisement link type"
+
+#: Controller/AdvertisementLinkTypesController.php:48
+msgid "Invalid id for advertisement link type"
+msgstr "Invalid id for advertisement link type"
+
+#: Controller/AdvertisementLinkTypesController.php:52
+msgid "Advertisement link type deleted"
+msgstr "Advertisement link type deleted"
+
+#: Controller/AdvertisementLinkTypesController.php:55
+msgid "Advertisement link type was not deleted"
+msgstr "Advertisement link type was not deleted"
+
+#: Controller/AlbumsController.php:21
+msgid "Invalid album"
+msgstr "Invalid album"
+
+#: Controller/AppController.php:97
+msgid "Login failed. Invalid username or password."
+msgstr "Login failed. Invalid username or password."
+
+#: Controller/AppController.php:98
+msgid "You are not authorized to access that location."
+msgstr "You are not authorized to access that location."
+
+#: Controller/AttachedImagesController.php:24
+#: Controller/ImagesPortfolioItemsController.php:53
+#: Controller/ImagesProductsController.php:54
+#: Controller/ImagesServicesController.php:54
+msgid "Image moved to first position."
+msgstr "Image moved to first position."
+
+#: Controller/AttachedImagesController.php:27
+#: Controller/ImagesPortfolioItemsController.php:56
+#: Controller/ImagesProductsController.php:57
+#: Controller/ImagesServicesController.php:57
+msgid "Image was not moved to first position."
+msgstr "Image was not moved to first position."
+
+#: Controller/AttachedImagesController.php:33
+#: Controller/ImagesPortfolioItemsController.php:62
+#: Controller/ImagesProductsController.php:63
+#: Controller/ImagesServicesController.php:63
+msgid "Image moved to last position."
+msgstr "Image moved to last position."
+
+#: Controller/AttachedImagesController.php:36
+#: Controller/ImagesPortfolioItemsController.php:65
+#: Controller/ImagesProductsController.php:66
+#: Controller/ImagesServicesController.php:66
+msgid "Image was not moved to last position."
+msgstr "Image was not moved to last position."
+
+#: Controller/AttachedImagesController.php:42
+#: Controller/ImagesPortfolioItemsController.php:71
+#: Controller/ImagesProductsController.php:72
+#: Controller/ImagesServicesController.php:72
+msgid "Image moved up."
+msgstr "Image moved up."
+
+#: Controller/AttachedImagesController.php:45
+#: Controller/ImagesPortfolioItemsController.php:74
+#: Controller/ImagesProductsController.php:75
+#: Controller/ImagesServicesController.php:75
+msgid "Image was not moved up."
+msgstr "Image was not moved up."
+
+#: Controller/AttachedImagesController.php:51
+#: Controller/ImagesPortfolioItemsController.php:80
+#: Controller/ImagesProductsController.php:81
+#: Controller/ImagesServicesController.php:81
+msgid "Image moved down."
+msgstr "Image moved down."
+
+#: Controller/AttachedImagesController.php:54
+#: Controller/ImagesPortfolioItemsController.php:83
+#: Controller/ImagesProductsController.php:84
+#: Controller/ImagesServicesController.php:84
+msgid "Image was not moved down."
+msgstr "Image was not moved down."
+
+#: Controller/AttachedImagesController.php:60
+msgid "Invalid id for attached image"
+msgstr "Invalid id for attached image"
+
+#: Controller/AttachedImagesController.php:64
+#: Controller/ImagesPortfolioItemsController.php:93
+#: Controller/ImagesProductsController.php:94
+#: Controller/ImagesServicesController.php:94
+msgid "The image was deleted."
+msgstr "The image was deleted."
+
+#: Controller/AttachedImagesController.php:67
+#: Controller/ImagesPortfolioItemsController.php:96
+#: Controller/ImagesProductsController.php:97
+#: Controller/ImagesServicesController.php:97
+msgid "The image was not deleted. Please, try again."
+msgstr "The image was not deleted. Please, try again."
+
+#: Controller/AttachedImagesController.php:97
+#: Controller/ImagesPortfolioItemsController.php:130
+#: Controller/ImagesProductsController.php:131
+#: Controller/ImagesServicesController.php:131
+msgid "Images have been linked."
+msgstr "Images have been linked."
+
+#: Controller/AttachedImagesController.php:108
+#: Controller/ImagesPortfolioItemsController.php:141
+#: Controller/ImagesProductsController.php:142
+#: Controller/ImagesServicesController.php:142
+msgid "Images were deleted."
+msgstr "Images were deleted."
+
+#: Controller/CategoriesController.php:21;36
+msgid "Category has been saved"
+msgstr "Category has been saved"
+
+#: Controller/CategoriesController.php:24;39
+msgid "Category could not be saved. Please, try again."
+msgstr "Category could not be saved. Please, try again."
+
+#: Controller/CategoriesController.php:32
+msgid "Invalid category"
+msgstr "Invalid category"
+
+#: Controller/CategoriesController.php:49
+msgid "Invalid id for category"
+msgstr "Invalid id for category"
+
+#: Controller/CategoriesController.php:53
+msgid "Category deleted"
+msgstr "Category deleted"
+
+#: Controller/CategoriesController.php:56
+msgid "Category was not deleted"
+msgstr "Category was not deleted"
+
+#: Controller/CompaniesController.php:59
+msgid "Company activated"
+msgstr "Company activated"
+
+#: Controller/CompaniesController.php:62
+msgid "Company was not activated"
+msgstr "Company was not activated"
+
+#: Controller/CompaniesController.php:68
+msgid "Company deactivated"
+msgstr "Company deactivated"
+
+#: Controller/CompaniesController.php:71
+msgid "Company was not deactivated"
+msgstr "Company was not deactivated"
+
+#: Controller/CompaniesController.php:77
+msgid "Company deleted"
+msgstr "Company deleted"
+
+#: Controller/CompaniesController.php:80
+msgid "Company was not deleted"
+msgstr "Company was not deleted"
+
+#: Controller/CompaniesController.php:148;239;259;345;377;423;455;488;537;580;629;746
+msgid "Invalid company"
+msgstr "Invalid company"
+
+#: Controller/CompaniesController.php:270
+msgid "Company has been added to your favorites."
+msgstr "Company has been added to your favorites."
+
+#: Controller/CompaniesController.php:272
+msgid "Company could not be added to your favorites."
+msgstr "Company could not be added to your favorites."
+
+#: Controller/CompaniesController.php:279
+msgid "Company has been removed from your favorites."
+msgstr "Company has been removed from your favorites."
+
+#: Controller/CompaniesController.php:281
+msgid "Company could not be removed from your favorites."
+msgstr "Company could not be removed from your favorites."
+
+#: Controller/CompaniesController.php:320 View/Elements/header.ctp:147
+msgid "You're going over the limit and can not add more companies."
+msgstr "You're going over the limit and can not add more companies."
+
+#: Controller/CompaniesController.php:331;356;388;434;466;499;548;591;640
+msgid "Company has been saved"
+msgstr "Company has been saved"
+
+#: Controller/CompaniesController.php:334;359;391;440;472;505;554;597;646
+msgid "Company could not be saved. Please, try again."
+msgstr "Company could not be saved. Please, try again."
+
+#: Controller/CompaniesController.php:616
+msgid "None"
+msgstr "None"
+
+#: Controller/CompaniesController.php:617
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: Controller/CompaniesController.php:618
+msgid "Vertical"
+msgstr "Vertical"
+
+#: Controller/CompaniesController.php:619
+msgid "Both"
+msgstr "Both"
+
+#: Controller/CompaniesController.php:770 Controller/UsersController.php:543
+#: View/Elements/header.ctp:79;109
+#: View/Emails/html/new_message_notification.ctp:6
+#: View/Emails/text/mark_as_offensive.ctp:3;5
+#: View/Emails/text/new_message_notification.ctp:6
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+#: Controller/CompaniesController.php:772 Controller/UsersController.php:545
+#: View/Elements/header.ctp:81;111
+msgid "New message from %s"
+msgstr "New message from %s"
+
+#: Controller/CompaniesController.php:774
+#: Controller/UsersController.php:548;616
+msgid "Your message has been sent."
+msgstr "Your message has been sent."
+
+#: Controller/CompaniesController.php:777;783
+#: Controller/UsersController.php:551;557;620
+msgid "Your message could not be sent. Please, try again."
+msgstr "Your message could not be sent. Please, try again."
+
+#: Controller/CompaniesController.php:780 Controller/UsersController.php:554
+msgid ""
+"Your message could not be sent, because of a wrong Recaptcha challenge. "
+"Please, try again."
+msgstr ""
+"Your message could not be sent, because of a wrong Recaptcha challenge. "
+"Please, try again."
+
+#: Controller/ConnectionsController.php:72
+msgid "Facebook access token has been refreshed."
+msgstr "Facebook access token has been refreshed."
+
+#: Controller/ConnectionsController.php:77
+msgid "Failed to refresh Facebook access token. Please, try again."
+msgstr "Failed to refresh Facebook access token. Please, try again."
+
+#: Controller/CountriesController.php:21;36
+msgid "Country has been saved"
+msgstr "Country has been saved"
+
+#: Controller/CountriesController.php:24;39
+msgid "Country could not be saved. Please, try again."
+msgstr "Country could not be saved. Please, try again."
+
+#: Controller/CountriesController.php:32
+msgid "Invalid country"
+msgstr "Invalid country"
+
+#: Controller/CountriesController.php:49
+msgid "Invalid id for country"
+msgstr "Invalid id for country"
+
+#: Controller/CountriesController.php:53
+msgid "Country deleted"
+msgstr "Country deleted"
+
+#: Controller/CountriesController.php:56
+msgid "Country was not deleted"
+msgstr "Country was not deleted"
+
+#: Controller/DaysController.php:21;36
+msgid "Day has been saved"
+msgstr "Day has been saved"
+
+#: Controller/DaysController.php:24;39
+msgid "Day could not be saved. Please, try again."
+msgstr "Day could not be saved. Please, try again."
+
+#: Controller/DaysController.php:32
+msgid "Invalid day"
+msgstr "Invalid day"
+
+#: Controller/DaysController.php:49
+msgid "Invalid id for day"
+msgstr "Invalid id for day"
+
+#: Controller/DaysController.php:53
+msgid "Day deleted"
+msgstr "Day deleted"
+
+#: Controller/DaysController.php:56
+msgid "Day was not deleted"
+msgstr "Day was not deleted"
+
+#: Controller/FaqsController.php:34
+msgid "Invalid FAQ"
+msgstr "Invalid FAQ"
+
+#: Controller/FaqsController.php:39;61
+msgid "FAQ has been saved"
+msgstr "FAQ has been saved"
+
+#: Controller/FaqsController.php:46;68
+msgid "FAQ could not be saved. Please, try again."
+msgstr "FAQ could not be saved. Please, try again."
+
+#: Controller/FaqsController.php:57
+msgid "Invalid faq"
+msgstr "Invalid faq"
+
+#: Controller/FaqsController.php:78
+msgid "Invalid id for FAQ"
+msgstr "Invalid id for FAQ"
+
+#: Controller/FaqsController.php:82
+msgid "FAQ deleted"
+msgstr "FAQ deleted"
+
+#: Controller/FaqsController.php:89
+msgid "FAQ was not deleted"
+msgstr "FAQ was not deleted"
+
+#: Controller/FriendsUsersController.php:29
+msgid "%s wants to be friends with you on Woodekees"
+msgstr "%s wants to be friends with you on Woodekees"
+
+#: Controller/FriendsUsersController.php:32
+msgid "User has been invited."
+msgstr "User has been invited."
+
+#: Controller/FriendsUsersController.php:35
+msgid "User could not be invited. Please, try again."
+msgstr "User could not be invited. Please, try again."
+
+#: Controller/FriendsUsersController.php:61
+msgid "%s has accepted your friend request on Woodekees"
+msgstr "%s has accepted your friend request on Woodekees"
+
+#: Controller/FriendsUsersController.php:63
+msgid "Friend request has been accepted."
+msgstr "Friend request has been accepted."
+
+#: Controller/FriendsUsersController.php:65
+msgid "Friend request could not be accepted. Please, try again."
+msgstr "Friend request could not be accepted. Please, try again."
+
+#: Controller/FriendsUsersController.php:72
+msgid "Friend request has been rejected."
+msgstr "Friend request has been rejected."
+
+#: Controller/FriendsUsersController.php:74
+msgid "Friend request could not be rejected. Please, try again."
+msgstr "Friend request could not be rejected. Please, try again."
+
+#: Controller/FriendsUsersController.php:81
+msgid "Friend has been removed."
+msgstr "Friend has been removed."
+
+#: Controller/FriendsUsersController.php:83
+msgid "Friend could not be removed. Please, try again."
+msgstr "Friend could not be removed. Please, try again."
+
+#: Controller/ImagesController.php:164
+msgid "Invalid image"
+msgstr "Invalid image"
+
+#: Controller/ImagesController.php:167
+msgid "Image deleted"
+msgstr "Image deleted"
+
+#: Controller/ImagesController.php:169
+msgid "Image was not deleted."
+msgstr "Image was not deleted."
+
+#: Controller/ImagesController.php:314;326
+msgid "Image has been saved"
+msgstr "Image has been saved"
+
+#: Controller/ImagesController.php:317;329
+msgid "Image could not be saved. Please, try again."
+msgstr "Image could not be saved. Please, try again."
+
+#: Controller/ImagesPortfolioItemsController.php:89
+msgid "Invalid id for images portfolio item"
+msgstr "Invalid id for images portfolio item"
+
+#: Controller/ImagesProductsController.php:90
+msgid "Invalid id for images product"
+msgstr "Invalid id for images product"
+
+#: Controller/ImagesServicesController.php:90
+msgid "Invalid id for images service"
+msgstr "Invalid id for images service"
+
+#: Controller/LanguagesController.php:21;36
+msgid "Language has been saved"
+msgstr "Language has been saved"
+
+#: Controller/LanguagesController.php:24;39
+msgid "Language could not be saved. Please, try again."
+msgstr "Language could not be saved. Please, try again."
+
+#: Controller/LanguagesController.php:32
+msgid "Invalid language"
+msgstr "Invalid language"
+
+#: Controller/LanguagesController.php:49
+msgid "Invalid id for language"
+msgstr "Invalid id for language"
+
+#: Controller/LanguagesController.php:53
+msgid "Language deleted"
+msgstr "Language deleted"
+
+#: Controller/LanguagesController.php:56
+msgid "Language was not deleted"
+msgstr "Language was not deleted"
+
+#: Controller/MediaWidgetTypesController.php:21;36
+msgid "Video type has been saved"
+msgstr "Video type has been saved"
+
+#: Controller/MediaWidgetTypesController.php:24;39
+msgid "Video type could not be saved. Please, try again."
+msgstr "Video type could not be saved. Please, try again."
+
+#: Controller/MediaWidgetTypesController.php:32
+msgid "Invalid video type"
+msgstr "Invalid video type"
+
+#: Controller/MediaWidgetTypesController.php:48
+msgid "Invalid id for video type"
+msgstr "Invalid id for video type"
+
+#: Controller/MediaWidgetTypesController.php:52
+msgid "Video type deleted"
+msgstr "Video type deleted"
+
+#: Controller/MediaWidgetTypesController.php:55
+msgid "Video type was not deleted"
+msgstr "Video type was not deleted"
+
+#: Controller/MediaWidgetsController.php:145
+msgid "Invalid video"
+msgstr "Invalid video"
+
+#: Controller/MediaWidgetsController.php:148
+msgid "Video deleted"
+msgstr "Video deleted"
+
+#: Controller/MediaWidgetsController.php:150
+#: Controller/MediaWidgetsPortfolioItemsController.php:147
+#: Controller/MediaWidgetsProductsController.php:147
+#: Controller/MediaWidgetsServicesController.php:142
+msgid "Video was not deleted."
+msgstr "Video was not deleted."
+
+#: Controller/MediaWidgetsPortfolioItemsController.php:18
+#: Controller/PortfolioItemsController.php:147;251;283
+msgid "Invalid portfolio item"
+msgstr "Invalid portfolio item"
+
+#: Controller/MediaWidgetsPortfolioItemsController.php:23
+#: Controller/MediaWidgetsProductsController.php:23
+#: Controller/MediaWidgetsServicesController.php:23
+msgid "Video has been saved"
+msgstr "Video has been saved"
+
+#: Controller/MediaWidgetsPortfolioItemsController.php:26
+#: Controller/MediaWidgetsProductsController.php:26
+#: Controller/MediaWidgetsServicesController.php:26
+msgid "Video could not be saved. Please, try again."
+msgstr "Video could not be saved. Please, try again."
+
+#: Controller/MediaWidgetsPortfolioItemsController.php:68
+#: Controller/MediaWidgetsProductsController.php:68
+#: Controller/MediaWidgetsServicesController.php:68
+msgid "Video moved to first position."
+msgstr "Video moved to first position."
+
+#: Controller/MediaWidgetsPortfolioItemsController.php:71;80
+#: Controller/MediaWidgetsProductsController.php:71;80
+#: Controller/MediaWidgetsServicesController.php:71
+msgid "Video was not moved to first position."
+msgstr "Video was not moved to first position."
+
+#: Controller/MediaWidgetsPortfolioItemsController.php:77
+#: Controller/MediaWidgetsProductsController.php:77
+#: Controller/MediaWidgetsServicesController.php:77
+msgid "Video moved to last position."
+msgstr "Video moved to last position."
+
+#: Controller/MediaWidgetsPortfolioItemsController.php:86
+#: Controller/MediaWidgetsProductsController.php:86
+#: Controller/MediaWidgetsServicesController.php:86
+msgid "Video moved up."
+msgstr "Video moved up."
+
+#: Controller/MediaWidgetsPortfolioItemsController.php:89
+#: Controller/MediaWidgetsProductsController.php:89
+#: Controller/MediaWidgetsServicesController.php:89
+msgid "Video was not moved up."
+msgstr "Video was not moved up."
+
+#: Controller/MediaWidgetsPortfolioItemsController.php:95
+#: Controller/MediaWidgetsProductsController.php:95
+#: Controller/MediaWidgetsServicesController.php:95
+msgid "Video moved down."
+msgstr "Video moved down."
+
+#: Controller/MediaWidgetsPortfolioItemsController.php:98
+#: Controller/MediaWidgetsProductsController.php:98
+#: Controller/MediaWidgetsServicesController.php:98
+msgid "Video was not moved down."
+msgstr "Video was not moved down."
+
+#: Controller/MediaWidgetsPortfolioItemsController.php:128
+#: Controller/MediaWidgetsProductsController.php:125
+#: Controller/MediaWidgetsServicesController.php:123
+msgid "Videos have been linked."
+msgstr "Videos have been linked."
+
+#: Controller/MediaWidgetsPortfolioItemsController.php:139
+#: Controller/MediaWidgetsProductsController.php:139
+#: Controller/MediaWidgetsServicesController.php:134
+msgid "Videos were deleted."
+msgstr "Videos were deleted."
+
+#: Controller/MediaWidgetsPortfolioItemsController.php:145
+#: Controller/MediaWidgetsProductsController.php:145
+#: Controller/MediaWidgetsServicesController.php:140
+msgid "Video was deleted."
+msgstr "Video was deleted."
+
+#: Controller/MediaWidgetsProductsController.php:18
+#: Controller/ProductsController.php:89;258;304
+msgid "Invalid product"
+msgstr "Invalid product"
+
+#: Controller/MediaWidgetsProductsController.php:127
+msgid "Videos could not be linked. Please try again."
+msgstr "Videos could not be linked. Please try again."
+
+#: Controller/MediaWidgetsServicesController.php:18
+#: Controller/NewsItemsController.php:84
+#: Controller/ServicesController.php:146;263;309
+msgid "Invalid service"
+msgstr "Invalid service"
+
+#: Controller/MediaWidgetsServicesController.php:80
+msgid "Video was not moved to last position."
+msgstr "Video was not moved to last position."
+
+#: Controller/MessagesController.php:19
+msgid "Message has been processed."
+msgstr "Message has been processed."
+
+#: Controller/MessagesController.php:21
+msgid "Message could not be processed. Please try again."
+msgstr "Message could not be processed. Please try again."
+
+#: Controller/MessagesController.php:28
+msgid "All messages have been marked as read."
+msgstr "All messages have been marked as read."
+
+#: Controller/MessagesController.php:30
+msgid "All messages could not be marked as read. Please try again."
+msgstr "All messages could not be marked as read. Please try again."
+
+#: Controller/MessagesController.php:37
+msgid "Message has been marked as read."
+msgstr "Message has been marked as read."
+
+#: Controller/MessagesController.php:39
+msgid "Message could not be marked as read. Please try again."
+msgstr "Message could not be marked as read. Please try again."
+
+#: Controller/MessagesController.php:54;65
+msgid "Your reply has been sent."
+msgstr "Your reply has been sent."
+
+#: Controller/MessagesController.php:57;60
+msgid "Your reply could not be sent. Please, try again."
+msgstr "Your reply could not be sent. Please, try again."
+
+#: Controller/MessagesController.php:90
+msgid "RE: %s"
+msgstr "RE: %s"
+
+#: Controller/NewsItemsController.php:26;94;174
+msgid "News item has been published on Facebook wall."
+msgstr "News item has been published on Facebook wall."
+
+#: Controller/NewsItemsController.php:28;96;176
+msgid "News item could not be published on Facebook wall."
+msgstr "News item could not be published on Facebook wall."
+
+#: Controller/NewsItemsController.php:39;103;183
+msgid "News item has been published on Twitter."
+msgstr "News item has been published on Twitter."
+
+#: Controller/NewsItemsController.php:41;105;185
+msgid "News item could not be published on Twitter."
+msgstr "News item could not be published on Twitter."
+
+#: Controller/NewsItemsController.php:52;112;192
+msgid "News item has been published on LinkedIn."
+msgstr "News item has been published on LinkedIn."
+
+#: Controller/NewsItemsController.php:54;114;194
+msgid "News item could not be published on LinkedIn."
+msgstr "News item could not be published on LinkedIn."
+
+#: Controller/NewsItemsController.php:65;121;201
+msgid "News item has been published on Foursquare."
+msgstr "News item has been published on Foursquare."
+
+#: Controller/NewsItemsController.php:67;123;203
+msgid "News item could not be published on Foursquare."
+msgstr "News item could not be published on Foursquare."
+
+#: Controller/NewsItemsController.php:89;169
+msgid "News item has been saved"
+msgstr "News item has been saved"
+
+#: Controller/NewsItemsController.php:130;210
+msgid "News item could not be saved. Please, try again."
+msgstr "News item could not be saved. Please, try again."
+
+#: Controller/NewsItemsController.php:165
+msgid "Invalid news item"
+msgstr "Invalid news item"
+
+#: Controller/NewsItemsController.php:235
+msgid "Invalid id for news item"
+msgstr "Invalid id for news item"
+
+#: Controller/NewsItemsController.php:239
+msgid "News item deleted"
+msgstr "News item deleted"
+
+#: Controller/NewsItemsController.php:242
+msgid "News item was not deleted"
+msgstr "News item was not deleted"
+
+#: Controller/NotificationsController.php:24
+msgid "All notifications have been marked as read."
+msgstr "All notifications have been marked as read."
+
+#: Controller/NotificationsController.php:26
+msgid "All notifications could not be marked as read. Please try again."
+msgstr "All notifications could not be marked as read. Please try again."
+
+#: Controller/NotificationsController.php:33
+msgid "The notification has been marked as read."
+msgstr "The notification has been marked as read."
+
+#: Controller/NotificationsController.php:35
+msgid "The notification could not be marked as read. Please try again."
+msgstr "The notification could not be marked as read. Please try again."
+
+#: Controller/OpeningHoursController.php:15;41
+msgid "Invalid opening hour"
+msgstr "Invalid opening hour"
+
+#: Controller/OpeningHoursController.php:20;45
+msgid "The opening hour has been saved"
+msgstr "The opening hour has been saved"
+
+#: Controller/OpeningHoursController.php:27;52
+msgid "The opening hour could not be saved. Please, try again."
+msgstr "The opening hour could not be saved. Please, try again."
+
+#: Controller/OpeningHoursController.php:64
+msgid "Invalid id for opening hour"
+msgstr "Invalid id for opening hour"
+
+#: Controller/OpeningHoursController.php:68
+msgid "Opening hour deleted"
+msgstr "Opening hour deleted"
+
+#: Controller/OpeningHoursController.php:75
+msgid "Opening hour was not deleted"
+msgstr "Opening hour was not deleted"
+
+#: Controller/OtherInformationsController.php:21;36
+msgid "The other information has been saved"
+msgstr "The other information has been saved"
+
+#: Controller/OtherInformationsController.php:24;39
+msgid "The other information could not be saved. Please, try again."
+msgstr "The other information could not be saved. Please, try again."
+
+#: Controller/OtherInformationsController.php:32
+msgid "Invalid other information"
+msgstr "Invalid other information"
+
+#: Controller/OtherInformationsController.php:49
+msgid "Invalid id for other information"
+msgstr "Invalid id for other information"
+
+#: Controller/OtherInformationsController.php:53
+msgid "Other information deleted"
+msgstr "Other information deleted"
+
+#: Controller/OtherInformationsController.php:56
+msgid "Other information was not deleted"
+msgstr "Other information was not deleted"
+
+#: Controller/PaymentMethodsController.php:21;36
+msgid "Payment method has been saved"
+msgstr "Payment method has been saved"
+
+#: Controller/PaymentMethodsController.php:24;39
+msgid "Payment method could not be saved. Please, try again."
+msgstr "Payment method could not be saved. Please, try again."
+
+#: Controller/PaymentMethodsController.php:32
+msgid "Invalid payment method"
+msgstr "Invalid payment method"
+
+#: Controller/PaymentMethodsController.php:49
+msgid "Invalid id for payment method"
+msgstr "Invalid id for payment method"
+
+#: Controller/PaymentMethodsController.php:53
+msgid "Payment method deleted"
+msgstr "Payment method deleted"
+
+#: Controller/PaymentMethodsController.php:56
+msgid "Payment method was not deleted"
+msgstr "Payment method was not deleted"
+
+#: Controller/PollAnswersPollsController.php:37
+#: Controller/PollsController.php:66
+msgid "Invalid poll"
+msgstr "Invalid poll"
+
+#: Controller/PollAnswersPollsController.php:42
+msgid "The answer has been saved"
+msgstr "The answer has been saved"
+
+#: Controller/PollAnswersPollsController.php:45
+msgid "The answer could not be saved. Please, try again."
+msgstr "The answer could not be saved. Please, try again."
+
+#: Controller/PollsController.php:18;83
+msgid "Poll has been published on Facebook wall."
+msgstr "Poll has been published on Facebook wall."
+
+#: Controller/PollsController.php:20;85
+msgid "Poll could not be published on Facebook wall."
+msgstr "Poll could not be published on Facebook wall."
+
+#: Controller/PollsController.php:31;92
+msgid "Poll has been published on Twitter."
+msgstr "Poll has been published on Twitter."
+
+#: Controller/PollsController.php:33;94
+msgid "Poll could not be published on Twitter."
+msgstr "Poll could not be published on Twitter."
+
+#: Controller/PollsController.php:44;101
+msgid "Poll has been published on LinkedIn."
+msgstr "Poll has been published on LinkedIn."
+
+#: Controller/PollsController.php:46;103
+msgid "Poll could not be published on LinkedIn."
+msgstr "Poll could not be published on LinkedIn."
+
+#: Controller/PollsController.php:57;110
+msgid "Poll has been published on Foursquare."
+msgstr "Poll has been published on Foursquare."
+
+#: Controller/PollsController.php:59;112
+msgid "Poll could not be published on Foursquare."
+msgstr "Poll could not be published on Foursquare."
+
+#: Controller/PollsController.php:78
+msgid "Poll has been saved"
+msgstr "Poll has been saved"
+
+#: Controller/PollsController.php:119
+msgid "Poll could not be saved. Please, try again."
+msgstr "Poll could not be saved. Please, try again."
+
+#: Controller/PollsController.php:147
+msgid "Invalid id for poll"
+msgstr "Invalid id for poll"
+
+#: Controller/PollsController.php:151
+msgid "Poll deleted"
+msgstr "Poll deleted"
+
+#: Controller/PollsController.php:158
+msgid "Poll was not deleted"
+msgstr "Poll was not deleted"
+
+#: Controller/PortfolioItemCategoriesController.php:26;52
+msgid "Portfolio item category has been saved"
+msgstr "Portfolio item category has been saved"
+
+#: Controller/PortfolioItemCategoriesController.php:31
+msgid "Portfolioitem category could not be saved. Please, try again."
+msgstr "Portfolioitem category could not be saved. Please, try again."
+
+#: Controller/PortfolioItemCategoriesController.php:45
+msgid "Invalid portfolio item category"
+msgstr "Invalid portfolio item category"
+
+#: Controller/PortfolioItemCategoriesController.php:57
+msgid "Portfolio item category could not be saved. Please, try again."
+msgstr "Portfolio item category could not be saved. Please, try again."
+
+#: Controller/PortfolioItemCategoriesController.php:66
+msgid "Invalid id for portfolio item category"
+msgstr "Invalid id for portfolio item category"
+
+#: Controller/PortfolioItemCategoriesController.php:70
+msgid "Portfolio item category deleted"
+msgstr "Portfolio item category deleted"
+
+#: Controller/PortfolioItemCategoriesController.php:77
+msgid "Portfolio item category was not deleted"
+msgstr "Portfolio item category was not deleted"
+
+#: Controller/PortfolioItemsController.php:30;185
+msgid "Portfolio item has been published on Facebook wall."
+msgstr "Portfolio item has been published on Facebook wall."
+
+#: Controller/PortfolioItemsController.php:32;187
+msgid "Portfolio item could not be published on Facebook wall."
+msgstr "Portfolio item could not be published on Facebook wall."
+
+#: Controller/PortfolioItemsController.php:43;194
+msgid "Portfolio item has been published on Twitter."
+msgstr "Portfolio item has been published on Twitter."
+
+#: Controller/PortfolioItemsController.php:45;196
+msgid "Portfolio item could not be published on Twitter."
+msgstr "Portfolio item could not be published on Twitter."
+
+#: Controller/PortfolioItemsController.php:56;203
+msgid "Portfolio item has been published on LinkedIn."
+msgstr "Portfolio item has been published on LinkedIn."
+
+#: Controller/PortfolioItemsController.php:58;205
+msgid "Portfolio item could not be published on LinkedIn."
+msgstr "Portfolio item could not be published on LinkedIn."
+
+#: Controller/PortfolioItemsController.php:69;212
+msgid "Portfolio item has been published on Foursquare."
+msgstr "Portfolio item has been published on Foursquare."
+
+#: Controller/PortfolioItemsController.php:71;214
+msgid "Portfolio item could not be published on Foursquare."
+msgstr "Portfolio item could not be published on Foursquare."
+
+#: Controller/PortfolioItemsController.php:111
+msgid "Portfolio item moved to first position."
+msgstr "Portfolio item moved to first position."
+
+#: Controller/PortfolioItemsController.php:114;123
+msgid "Portfolio item was not moved to first position."
+msgstr "Portfolio item was not moved to first position."
+
+#: Controller/PortfolioItemsController.php:120
+msgid "Portfolio item moved to last position."
+msgstr "Portfolio item moved to last position."
+
+#: Controller/PortfolioItemsController.php:129
+msgid "Portfolio item moved down."
+msgstr "Portfolio item moved down."
+
+#: Controller/PortfolioItemsController.php:132
+msgid "Portfolio item was not moved down."
+msgstr "Portfolio item was not moved down."
+
+#: Controller/PortfolioItemsController.php:138
+msgid "Portfolio item moved up."
+msgstr "Portfolio item moved up."
+
+#: Controller/PortfolioItemsController.php:141
+msgid "Portfolio item was not moved up."
+msgstr "Portfolio item was not moved up."
+
+#: Controller/PortfolioItemsController.php:168
+msgid "Invalid portfolio items"
+msgstr "Invalid portfolio items"
+
+#: Controller/PortfolioItemsController.php:180;258;290
+msgid "Portfolio item has been saved"
+msgstr "Portfolio item has been saved"
+
+#: Controller/PortfolioItemsController.php:221;264;301
+msgid "Portfolio item could not be saved. Please, try again."
+msgstr "Portfolio item could not be saved. Please, try again."
+
+#: Controller/PortfolioItemsController.php:313
+msgid "Invalid id for portfolio item"
+msgstr "Invalid id for portfolio item"
+
+#: Controller/PortfolioItemsController.php:317
+msgid "Portfolio item deleted"
+msgstr "Portfolio item deleted"
+
+#: Controller/PortfolioItemsController.php:324
+msgid "Portfolio item was not deleted"
+msgstr "Portfolio item was not deleted"
+
+#: Controller/PostsController.php:75
+msgid "Extra posts have been fetched."
+msgstr "Extra posts have been fetched."
+
+#: Controller/PostsController.php:77
+msgid "Failed to fetch extra posts."
+msgstr "Failed to fetch extra posts."
+
+#: Controller/PostsController.php:125
+msgid "Comment has been saved"
+msgstr "Comment has been saved"
+
+#: Controller/PostsController.php:127
+msgid "Comment could not be saved. Please, try again."
+msgstr "Comment could not be saved. Please, try again."
+
+#: Controller/PostsController.php:194
+msgid "Post has been published to Facebook."
+msgstr "Post has been published to Facebook."
+
+#: Controller/PostsController.php:196
+msgid "Post could not be published to Facebook."
+msgstr "Post could not be published to Facebook."
+
+#: Controller/PostsController.php:206
+msgid "Post has been published to Twitter."
+msgstr "Post has been published to Twitter."
+
+#: Controller/PostsController.php:208
+msgid "Post could not be published to Twitter."
+msgstr "Post could not be published to Twitter."
+
+#: Controller/PostsController.php:218
+msgid "Post has been published to LinkedIn."
+msgstr "Post has been published to LinkedIn."
+
+#: Controller/PostsController.php:220
+msgid "Post could not be published to LinkedIn."
+msgstr "Post could not be published to LinkedIn."
+
+#: Controller/PostsController.php:227
+msgid "Post could not be published to Foursquare."
+msgstr "Post could not be published to Foursquare."
+
+#: Controller/PostsController.php:235
+msgid "Post has been published to Foursquare."
+msgstr "Post has been published to Foursquare."
+
+#: Controller/PostsController.php:300
+msgid "Posts have been refreshed"
+msgstr "Posts have been refreshed"
+
+#: Controller/ProductCategoriesController.php:26;52
+msgid "Product category has been saved"
+msgstr "Product category has been saved"
+
+#: Controller/ProductCategoriesController.php:31;57
+msgid "Product category could not be saved. Please, try again."
+msgstr "Product category could not be saved. Please, try again."
+
+#: Controller/ProductCategoriesController.php:45
+msgid "Invalid product category"
+msgstr "Invalid product category"
+
+#: Controller/ProductCategoriesController.php:66
+msgid "Invalid id for product category"
+msgstr "Invalid id for product category"
+
+#: Controller/ProductCategoriesController.php:70
+msgid "Product category deleted"
+msgstr "Product category deleted"
+
+#: Controller/ProductCategoriesController.php:77
+msgid "Product category was not deleted"
+msgstr "Product category was not deleted"
+
+#: Controller/ProductsController.php:121;265;311
+msgid "Product has been saved"
+msgstr "Product has been saved"
+
+#: Controller/ProductsController.php:126;209
+msgid "Product has been published on Facebook wall."
+msgstr "Product has been published on Facebook wall."
+
+#: Controller/ProductsController.php:128;211
+msgid "Product could not be published on Facebook wall."
+msgstr "Product could not be published on Facebook wall."
+
+#: Controller/ProductsController.php:135;222
+msgid "Product has been published on Twitter."
+msgstr "Product has been published on Twitter."
+
+#: Controller/ProductsController.php:137;224
+msgid "Product could not be published on Twitter."
+msgstr "Product could not be published on Twitter."
+
+#: Controller/ProductsController.php:144;235
+msgid "Product has been published on LinkedIn."
+msgstr "Product has been published on LinkedIn."
+
+#: Controller/ProductsController.php:146;237
+msgid "Product could not be published on LinkedIn."
+msgstr "Product could not be published on LinkedIn."
+
+#: Controller/ProductsController.php:153;248
+msgid "Product has been published on Foursquare."
+msgstr "Product has been published on Foursquare."
+
+#: Controller/ProductsController.php:155;250
+msgid "Product could not be published on Foursquare."
+msgstr "Product could not be published on Foursquare."
+
+#: Controller/ProductsController.php:162;271;327
+msgid "Product could not be saved. Please, try again."
+msgstr "Product could not be saved. Please, try again."
+
+#: Controller/ProductsController.php:339
+msgid "Invalid id for product"
+msgstr "Invalid id for product"
+
+#: Controller/ProductsController.php:343
+msgid "Product deleted"
+msgstr "Product deleted"
+
+#: Controller/ProductsController.php:350
+msgid "Product was not deleted"
+msgstr "Product was not deleted"
+
+#: Controller/ProfileAccessibilitiesController.php:21;36
+msgid "The profile accessibility has been saved"
+msgstr "The profile accessibility has been saved"
+
+#: Controller/ProfileAccessibilitiesController.php:24;39
+msgid "The profile accessibility could not be saved. Please, try again."
+msgstr "The profile accessibility could not be saved. Please, try again."
+
+#: Controller/ProfileAccessibilitiesController.php:32
+msgid "Invalid profile accessibility"
+msgstr "Invalid profile accessibility"
+
+#: Controller/ProfileAccessibilitiesController.php:49
+msgid "Invalid id for profile accessibility"
+msgstr "Invalid id for profile accessibility"
+
+#: Controller/ProfileAccessibilitiesController.php:53
+msgid "Profile accessibility deleted"
+msgstr "Profile accessibility deleted"
+
+#: Controller/ProfileAccessibilitiesController.php:56
+msgid "Profile accessibility was not deleted"
+msgstr "Profile accessibility was not deleted"
+
+#: Controller/RelationTypesController.php:21;36
+msgid "The relation type has been saved"
+msgstr "The relation type has been saved"
+
+#: Controller/RelationTypesController.php:24;39
+msgid "The relation type could not be saved. Please, try again."
+msgstr "The relation type could not be saved. Please, try again."
+
+#: Controller/RelationTypesController.php:32
+msgid "Invalid relation type"
+msgstr "Invalid relation type"
+
+#: Controller/RelationTypesController.php:49
+msgid "Invalid id for relation type"
+msgstr "Invalid id for relation type"
+
+#: Controller/RelationTypesController.php:53
+msgid "Relation type deleted"
+msgstr "Relation type deleted"
+
+#: Controller/RelationTypesController.php:56
+msgid "Relation type was not deleted"
+msgstr "Relation type was not deleted"
+
+#: Controller/ReviewsController.php:66
+msgid "Review has been deleted."
+msgstr "Review has been deleted."
+
+#: Controller/ReviewsController.php:69
+msgid "Review could not be deleted. Please try again."
+msgstr "Review could not be deleted. Please try again."
+
+#: Controller/ReviewsController.php:76
+msgid "Review has been accepted."
+msgstr "Review has been accepted."
+
+#: Controller/ReviewsController.php:83;225
+msgid "Review has been published on Facebook wall."
+msgstr "Review has been published on Facebook wall."
+
+#: Controller/ReviewsController.php:85;227
+msgid "Review could not be published on Facebook wall."
+msgstr "Review could not be published on Facebook wall."
+
+#: Controller/ReviewsController.php:92;238
+msgid "Review has been published on Twitter."
+msgstr "Review has been published on Twitter."
+
+#: Controller/ReviewsController.php:94;240
+msgid "Review could not be published on Twitter."
+msgstr "Review could not be published on Twitter."
+
+#: Controller/ReviewsController.php:101;251
+msgid "Review has been published on LinkedIn."
+msgstr "Review has been published on LinkedIn."
+
+#: Controller/ReviewsController.php:103;253
+msgid "Review could not be published on LinkedIn."
+msgstr "Review could not be published on LinkedIn."
+
+#: Controller/ReviewsController.php:110;264
+msgid "Review has been published on Foursquare."
+msgstr "Review has been published on Foursquare."
+
+#: Controller/ReviewsController.php:112;266
+msgid "Review could not be published on Foursquare."
+msgstr "Review could not be published on Foursquare."
+
+#: Controller/ReviewsController.php:118
+msgid "Review could not be accepted. Please try again."
+msgstr "Review could not be accepted. Please try again."
+
+#: Controller/ReviewsController.php:125
+msgid "Review has been rejected."
+msgstr "Review has been rejected."
+
+#: Controller/ReviewsController.php:127
+msgid "Review could not be rejected. Please try again."
+msgstr "Review could not be rejected. Please try again."
+
+#: Controller/ReviewsController.php:156;198
+msgid "Thank you for your review!"
+msgstr "Thank you for your review!"
+
+#: Controller/ReviewsController.php:159;201
+msgid "Review could not be saved. Please, try again."
+msgstr "Review could not be saved. Please, try again."
+
+#: Controller/ReviewsController.php:204
+msgid ""
+"Review could not be saved, because of a wrong Recaptcha challenge. Please, "
+"try again."
+msgstr ""
+"Review could not be saved, because of a wrong Recaptcha challenge. Please, "
+"try again."
+
+#: Controller/ServiceCategoriesController.php:26;52
+msgid "Service category has been saved"
+msgstr "Service category has been saved"
+
+#: Controller/ServiceCategoriesController.php:31;57
+msgid "Service category could not be saved. Please, try again."
+msgstr "Service category could not be saved. Please, try again."
+
+#: Controller/ServiceCategoriesController.php:45
+msgid "Invalid service category"
+msgstr "Invalid service category"
+
+#: Controller/ServiceCategoriesController.php:66
+msgid "Invalid id for service category"
+msgstr "Invalid id for service category"
+
+#: Controller/ServiceCategoriesController.php:70
+msgid "Service category deleted"
+msgstr "Service category deleted"
+
+#: Controller/ServiceCategoriesController.php:77
+msgid "Service category was not deleted"
+msgstr "Service category was not deleted"
+
+#: Controller/ServicesController.php:38;183
+msgid "Service has been published on Facebook wall."
+msgstr "Service has been published on Facebook wall."
+
+#: Controller/ServicesController.php:40;185
+msgid "Service could not be published on Facebook wall."
+msgstr "Service could not be published on Facebook wall."
+
+#: Controller/ServicesController.php:51;192
+msgid "Service has been published on Twitter."
+msgstr "Service has been published on Twitter."
+
+#: Controller/ServicesController.php:53;194
+msgid "Service could not be published on Twitter."
+msgstr "Service could not be published on Twitter."
+
+#: Controller/ServicesController.php:64;201
+msgid "Service has been published on LinkedIn."
+msgstr "Service has been published on LinkedIn."
+
+#: Controller/ServicesController.php:66;203
+msgid "Service could not be published on LinkedIn."
+msgstr "Service could not be published on LinkedIn."
+
+#: Controller/ServicesController.php:77;210
+msgid "Service has been published on Foursquare."
+msgstr "Service has been published on Foursquare."
+
+#: Controller/ServicesController.php:79;212
+msgid "Service could not be published on Foursquare."
+msgstr "Service could not be published on Foursquare."
+
+#: Controller/ServicesController.php:178;270;316
+msgid "Service has been saved"
+msgstr "Service has been saved"
+
+#: Controller/ServicesController.php:219;276;332
+msgid "Service could not be saved. Please, try again."
+msgstr "Service could not be saved. Please, try again."
+
+#: Controller/ServicesController.php:344
+msgid "Invalid id for service"
+msgstr "Invalid id for service"
+
+#: Controller/ServicesController.php:348
+msgid "Service deleted"
+msgstr "Service deleted"
+
+#: Controller/ServicesController.php:355
+msgid "Service was not deleted"
+msgstr "Service was not deleted"
+
+#: Controller/SystemMessagesController.php:37
+msgid "The system message has been sent"
+msgstr "The system message has been sent"
+
+#: Controller/SystemMessagesController.php:40
+msgid "The system message could not be sent. Please, try again."
+msgstr "The system message could not be sent. Please, try again."
+
+#: Controller/SystemMessagesController.php:47
+msgid "The system message has been deleted."
+msgstr "The system message has been deleted."
+
+#: Controller/SystemMessagesController.php:49
+msgid "The system message could not be deleted. Please try again."
+msgstr "The system message could not be deleted. Please try again."
+
+#: Controller/UnitsController.php:21;36
+msgid "Unit has been saved"
+msgstr "Unit has been saved"
+
+#: Controller/UnitsController.php:24;39
+msgid "Unit could not be saved. Please, try again."
+msgstr "Unit could not be saved. Please, try again."
+
+#: Controller/UnitsController.php:32
+msgid "Invalid unit"
+msgstr "Invalid unit"
+
+#: Controller/UnitsController.php:49
+msgid "Invalid id for unit"
+msgstr "Invalid id for unit"
+
+#: Controller/UnitsController.php:53
+msgid "Unit deleted"
+msgstr "Unit deleted"
+
+#: Controller/UnitsController.php:56
+msgid "Unit was not deleted"
+msgstr "Unit was not deleted"
+
+#: Controller/UsersController.php:53;63
+msgid "Your registration has been confirmed."
+msgstr "Your registration has been confirmed."
+
+#: Controller/UsersController.php:56;65
+msgid "The confirmation of your registration failed."
+msgstr "The confirmation of your registration failed."
+
+#: Controller/UsersController.php:77
+msgid "The user has been activated."
+msgstr "The user has been activated."
+
+#: Controller/UsersController.php:80
+msgid "The user could not be activated."
+msgstr "The user could not be activated."
+
+#: Controller/UsersController.php:86
+msgid "The user has been deactivated."
+msgstr "The user has been deactivated."
+
+#: Controller/UsersController.php:89
+msgid "The user could not be deactivated."
+msgstr "The user could not be deactivated."
+
+#: Controller/UsersController.php:95
+msgid "The user has been deleted."
+msgstr "The user has been deleted."
+
+#: Controller/UsersController.php:97
+msgid "The user could not be deleted."
+msgstr "The user could not be deleted."
+
+#: Controller/UsersController.php:110
+msgid "Your account has been deactivated."
+msgstr "Your account has been deactivated."
+
+#: Controller/UsersController.php:113
+msgid "Your account could not be deactivated."
+msgstr "Your account could not be deactivated."
+
+#: Controller/UsersController.php:165;186;207;228
+msgid "The user has been saved"
+msgstr "The user has been saved"
+
+#: Controller/UsersController.php:170;191;212;233;386
+msgid "The user could not be saved. Please, try again."
+msgstr "The user could not be saved. Please, try again."
+
+#: Controller/UsersController.php:246
+msgid "Your password has been changed"
+msgstr "Your password has been changed"
+
+#: Controller/UsersController.php:249
+msgid "Your password could not be changed. Please, try again."
+msgstr "Your password could not be changed. Please, try again."
+
+#: Controller/UsersController.php:259
+msgid "The privacy settings have been saved"
+msgstr "The privacy settings have been saved"
+
+#: Controller/UsersController.php:262
+msgid "The privacy settings could not be saved. Please, try again."
+msgstr "The privacy settings could not be saved. Please, try again."
+
+#: Controller/UsersController.php:282
+msgid "Please check your email to reset your password."
+msgstr "Please check your email to reset your password."
+
+#: Controller/UsersController.php:285
+msgid "Username unknown."
+msgstr "Username unknown."
+
+#: Controller/UsersController.php:296
+msgid "Your password has been reset."
+msgstr "Your password has been reset."
+
+#: Controller/UsersController.php:299
+msgid "Your password could not be saved. Please try again."
+msgstr "Your password could not be saved. Please try again."
+
+#: Controller/UsersController.php:324
+msgid "Please check your email to confirm your account."
+msgstr "Please check your email to confirm your account."
+
+#: Controller/UsersController.php:326
+msgid "Failed to send activation mail."
+msgstr "Failed to send activation mail."
+
+#: Controller/UsersController.php:358
+msgid "Your account has not been activated yet."
+msgstr "Your account has not been activated yet."
+
+#: Controller/UsersController.php:370
+msgid "You have successfully logged out."
+msgstr "You have successfully logged out."
+
+#: Controller/UsersController.php:383;404
+msgid ""
+"Your account has been created, please check your email to confirm your "
+"account."
+msgstr ""
+"Your account has been created, please check your email to confirm your "
+"account."
+
+#: Controller/UsersController.php:393
+msgid "You have already registered and signed in."
+msgstr "You have already registered and signed in."
+
+#: Controller/UsersController.php:412
+msgid "Invalid user"
+msgstr "Invalid user"
+
+#: Controller/UsersController.php:440
+msgid "Password reset request"
+msgstr "Password reset request"
+
+#: Controller/UsersController.php:450;460
+msgid "Confirm your registration"
+msgstr "Confirm your registration"
+
+#: Controller/UsersController.php:615 View/Common/company.ctp:135;142
+#: View/Companies/information.ctp:208 View/Faqs/paging.ctp:30
+#: View/NewsItems/paging.ctp:71 View/PortfolioItems/view.ctp:58
+#: View/Products/view.ctp:54 View/Reviews/paging.ctp:67;103
+#: View/Services/view.ctp:58 View/Users/limited_view.ctp:18
+#: View/Users/mark_as_offensive.ctp:3 View/Users/view.ctp:67
+msgid "Mark as offensive"
+msgstr "Report abuse"
+
+#: Model/AppModel.php:180
+msgid "View image"
+msgstr "View image"
+
+#: Model/AppModel.php:182
+msgid "View album"
+msgstr "View album"
+
+#: Model/NewsItem.php:119;196
+msgid "added a news item."
+msgstr "added a news item."
+
+#: Model/NewsItem.php:145
+msgid "%s %s"
+msgstr "%s %s"
+
+#: Model/NewsItem.php:146 View/Messages/paging.ctp:33
+#: View/NewsItems/paging.ctp:80 View/Reviews/paging.ctp:80
+msgid "%s - %s"
+msgstr "%s - %s"
+
+#: Model/NewsItem.php:170
+msgid "added a news item: %s - %s"
+msgstr "added a news item: %s - %s"
+
+#: Model/Poll.php:137;193
+msgid "added a poll."
+msgstr "added a poll."
+
+#: Model/Poll.php:139
+msgid "Click here to see this poll on Woodekees"
+msgstr "Click here to see this poll on Woodekees"
+
+#: Model/Poll.php:158;175
+msgid "added a poll: %s"
+msgstr "added a poll: %s"
+
+#: Model/PortfolioItem.php:341;405
+msgid "added a portfolio item."
+msgstr "added a portfolio item."
+
+#: Model/PortfolioItem.php:343
+msgid "Click here to see this portfolio item on Woodekees"
+msgstr "Click here to see this portfolio item on Woodekees"
+
+#: Model/PortfolioItem.php:370
+msgid "added a portfolio item: %s"
+msgstr "added a portfolio item: %s"
+
+#: Model/PortfolioItem.php:387
+msgid "added a portfolio item: %s."
+msgstr "added a portfolio item: %s."
+
+#: Model/Product.php:452;515
+msgid "added a product."
+msgstr "added a product."
+
+#: Model/Product.php:454
+msgid "Click here to see this product on Woodekees"
+msgstr "Click here to see this product on Woodekees"
+
+#: Model/Product.php:481;498
+msgid "added a product: %s."
+msgstr "added a product: %s."
+
+#: Model/Review.php:251
+msgid "received a review."
+msgstr "received a review."
+
+#: Model/Review.php:253
+msgid "Click here to see this review on Woodekees"
+msgstr "Click here to see this review on Woodekees"
+
+#: Model/Review.php:254
+msgid "New review"
+msgstr "New review"
+
+#: Model/Review.php:272;289;306
+msgid "received a review: %s"
+msgstr "received a review: %s"
+
+#: Model/Service.php:389;453
+msgid "added a service."
+msgstr "added a service."
+
+#: Model/Service.php:391
+msgid "Click here to see this service on Woodekees"
+msgstr "Click here to see this service on Woodekees"
+
+#: Model/Service.php:418;435
+msgid "added a service: %s."
+msgstr "added a service: %s."
+
+#: View/AccessibilityOptions/admin_add.ctp:2
+#: View/AccessibilityOptions/admin_edit.ctp:2
+#: View/AccessibilityOptions/admin_index.ctp:2;10
+#: View/Companies/information.ctp:153 View/Elements/Users/settings_menu.ctp:6
+msgid "Accessibility options"
+msgstr "Accessibility options"
+
+#: View/AccessibilityOptions/admin_add.ctp:4
+#: View/AccessibilityOptions/admin_edit.ctp:4
+#: View/AccessibilityOptions/admin_index.ctp:4;16
+#: View/AdvertisementLinkTypes/admin_add.ctp:4
+#: View/AdvertisementLinkTypes/admin_edit.ctp:4
+#: View/AdvertisementLinkTypes/admin_index.ctp:4;18
+#: View/Categories/admin_add.ctp:4 View/Categories/admin_edit.ctp:4
+#: View/Categories/admin_index.ctp:4;15 View/Common/company.ctp:43
+#: View/Companies/portfolio.ctp:20 View/Companies/products.ctp:20
+#: View/Companies/services.ctp:20 View/Countries/admin_add.ctp:4
+#: View/Countries/admin_edit.ctp:4 View/Countries/admin_index.ctp:4;15
+#: View/Days/admin_add.ctp:4 View/Days/admin_edit.ctp:4
+#: View/Days/admin_index.ctp:4;15 View/Languages/admin_add.ctp:4
+#: View/Languages/admin_edit.ctp:4 View/Languages/admin_index.ctp:4;15
+#: View/MediaWidgetTypes/admin_add.ctp:4
+#: View/MediaWidgetTypes/admin_edit.ctp:4
+#: View/MediaWidgetTypes/admin_index.ctp:4;16 View/NewsItems/paging.ctp:31
+#: View/OtherInformations/admin_add.ctp:4
+#: View/OtherInformations/admin_edit.ctp:4
+#: View/OtherInformations/admin_index.ctp:4;16
+#: View/PaymentMethods/admin_add.ctp:4 View/PaymentMethods/admin_edit.ctp:4
+#: View/PaymentMethods/admin_index.ctp:4;16 View/PortfolioItems/view.ctp:16
+#: View/Products/view.ctp:16 View/ProfileAccessibilities/admin_add.ctp:4
+#: View/ProfileAccessibilities/admin_edit.ctp:4
+#: View/ProfileAccessibilities/admin_index.ctp:4;15
+#: View/RelationTypes/admin_add.ctp:4 View/RelationTypes/admin_edit.ctp:4
+#: View/RelationTypes/admin_index.ctp:4;15 View/Reviews/paging.ctp:37
+#: View/Services/view.ctp:16 View/SystemMessages/admin_add.ctp:4
+#: View/SystemMessages/admin_index.ctp:4 View/Units/admin_add.ctp:4
+#: View/Units/admin_edit.ctp:4 View/Units/admin_index.ctp:4;15
+#: View/Users/admin_index.ctp:29
+msgid "Actions"
+msgstr "Actions"
+
+#: View/AccessibilityOptions/admin_add.ctp:6
+#: View/AccessibilityOptions/admin_edit.ctp:6
+#: View/AdvertisementLinkTypes/admin_add.ctp:6
+#: View/AdvertisementLinkTypes/admin_edit.ctp:7
+#: View/Categories/admin_add.ctp:6 View/Categories/admin_edit.ctp:7
+#: View/Countries/admin_add.ctp:6 View/Countries/admin_edit.ctp:7
+#: View/Days/admin_add.ctp:6 View/Days/admin_edit.ctp:7
+#: View/Languages/admin_add.ctp:6 View/Languages/admin_edit.ctp:7
+#: View/MediaWidgetTypes/admin_add.ctp:6
+#: View/MediaWidgetTypes/admin_edit.ctp:7
+#: View/OtherInformations/admin_add.ctp:6
+#: View/OtherInformations/admin_edit.ctp:7 View/PaymentMethods/admin_add.ctp:6
+#: View/PaymentMethods/admin_edit.ctp:7
+#: View/ProfileAccessibilities/admin_add.ctp:6
+#: View/ProfileAccessibilities/admin_edit.ctp:7
+#: View/RelationTypes/admin_add.ctp:6 View/RelationTypes/admin_edit.ctp:7
+#: View/SystemMessages/admin_add.ctp:6 View/Units/admin_add.ctp:6
+#: View/Units/admin_edit.ctp:7 View/Users/admin_index.ctp:4
+msgid "List"
+msgstr "List"
+
+#: View/AccessibilityOptions/admin_add.ctp:10
+msgid "Add accessibility option"
+msgstr "Add accessibility option"
+
+#: View/AccessibilityOptions/admin_add.ctp:14
+#: View/AccessibilityOptions/admin_edit.ctp:16
+#: View/Categories/admin_add.ctp:14 View/Categories/admin_edit.ctp:16
+#: View/Countries/admin_add.ctp:14 View/Countries/admin_edit.ctp:16
+#: View/Days/admin_add.ctp:14 View/Days/admin_edit.ctp:16
+#: View/Languages/admin_add.ctp:14 View/Languages/admin_edit.ctp:16
+#: View/OtherInformations/admin_add.ctp:14
+#: View/OtherInformations/admin_edit.ctp:16
+#: View/PaymentMethods/admin_add.ctp:14 View/PaymentMethods/admin_edit.ctp:16
+#: View/ProfileAccessibilities/admin_add.ctp:14
+#: View/ProfileAccessibilities/admin_edit.ctp:16
+#: View/RelationTypes/admin_add.ctp:14 View/RelationTypes/admin_edit.ctp:16
+#: View/Units/admin_add.ctp:14 View/Units/admin_edit.ctp:16
+msgid "Name (English)"
+msgstr "Name (English)"
+
+#: View/AccessibilityOptions/admin_add.ctp:15
+#: View/AccessibilityOptions/admin_edit.ctp:17
+#: View/Categories/admin_add.ctp:15 View/Categories/admin_edit.ctp:17
+#: View/Countries/admin_add.ctp:15 View/Countries/admin_edit.ctp:17
+#: View/Days/admin_add.ctp:15 View/Days/admin_edit.ctp:17
+#: View/Languages/admin_add.ctp:15 View/Languages/admin_edit.ctp:17
+#: View/OtherInformations/admin_add.ctp:15
+#: View/OtherInformations/admin_edit.ctp:17
+#: View/PaymentMethods/admin_add.ctp:15 View/PaymentMethods/admin_edit.ctp:17
+#: View/ProfileAccessibilities/admin_add.ctp:15
+#: View/ProfileAccessibilities/admin_edit.ctp:17
+#: View/RelationTypes/admin_add.ctp:15 View/RelationTypes/admin_edit.ctp:17
+#: View/Units/admin_add.ctp:15 View/Units/admin_edit.ctp:17
+msgid "Name (Dutch)"
+msgstr "Name (Dutch)"
+
+#: View/AccessibilityOptions/admin_add.ctp:16
+#: View/AccessibilityOptions/admin_edit.ctp:18
+#: View/AccessibilityOptions/admin_index.ctp:15
+#: View/AdvertisementLinkTypes/admin_add.ctp:17
+#: View/AdvertisementLinkTypes/admin_edit.ctp:19
+#: View/AdvertisementLinkTypes/admin_index.ctp:17
+#: View/OtherInformations/admin_add.ctp:16
+#: View/OtherInformations/admin_edit.ctp:18
+#: View/OtherInformations/admin_index.ctp:15
+#: View/PaymentMethods/admin_add.ctp:16 View/PaymentMethods/admin_edit.ctp:18
+#: View/PaymentMethods/admin_index.ctp:15
+msgid "Filename image"
+msgstr "Filename image"
+
+#: View/AccessibilityOptions/admin_add.ctp:19
+#: View/AccessibilityOptions/admin_edit.ctp:21
+#: View/AdvertisementLinkTypes/admin_add.ctp:20
+#: View/AdvertisementLinkTypes/admin_edit.ctp:22
+#: View/Categories/admin_add.ctp:18 View/Categories/admin_edit.ctp:20
+#: View/Companies/edit_connections.ctp:25 View/Companies/edit_general.ctp:56
+#: View/Companies/edit_logo.ctp:19 View/Companies/edit_main_image.ctp:19
+#: View/Companies/edit_other.ctp:60 View/Companies/edit_theme.ctp:66
+#: View/Countries/admin_add.ctp:18 View/Countries/admin_edit.ctp:20
+#: View/Days/admin_add.ctp:18 View/Days/admin_edit.ctp:20 View/Faqs/add.ctp:16
+#: View/Faqs/edit.ctp:19 View/Languages/admin_add.ctp:18
+#: View/Languages/admin_edit.ctp:20 View/MediaWidgetTypes/admin_add.ctp:18
+#: View/MediaWidgetTypes/admin_edit.ctp:20
+#: View/MediaWidgetsPortfolioItems/add_from_desktop.ctp:21
+#: View/MediaWidgetsProducts/add_from_desktop.ctp:17
+#: View/MediaWidgetsServices/add_from_desktop.ctp:17 View/NewsItems/add.ctp:64
+#: View/NewsItems/edit.ctp:68 View/OpeningHours/add.ctp:17
+#: View/OpeningHours/edit.ctp:20 View/OtherInformations/admin_add.ctp:19
+#: View/OtherInformations/admin_edit.ctp:21
+#: View/PaymentMethods/admin_add.ctp:19 View/PaymentMethods/admin_edit.ctp:21
+#: View/PortfolioItemCategories/add.ctp:22
+#: View/PortfolioItemCategories/edit.ctp:22 View/PortfolioItems/add.ctp:77
+#: View/PortfolioItems/edit.ctp:30 View/PortfolioItems/edit_links.ctp:33
+#: View/ProductCategories/add.ctp:22 View/ProductCategories/edit.ctp:22
+#: View/Products/add.ctp:84 View/Products/edit.ctp:37
+#: View/Products/edit_links.ctp:52
+#: View/ProfileAccessibilities/admin_add.ctp:18
+#: View/ProfileAccessibilities/admin_edit.ctp:20
+#: View/RelationTypes/admin_add.ctp:18 View/RelationTypes/admin_edit.ctp:20
+#: View/ServiceCategories/add.ctp:22 View/ServiceCategories/edit.ctp:22
+#: View/Services/add.ctp:82 View/Services/edit.ctp:35
+#: View/Services/edit_links.ctp:52 View/Units/admin_add.ctp:18
+#: View/Units/admin_edit.ctp:20 View/Users/change_password.ctp:13
+#: View/Users/change_privacy_settings.ctp:33 View/Users/edit_general.ctp:47
+#: View/Users/edit_main_image.ctp:20 View/Users/edit_notifications.ctp:26
+#: View/Users/edit_privacy.ctp:23 View/Users/reset_password.ctp:13
+msgid "Save"
+msgstr "Save"
+
+#: View/AccessibilityOptions/admin_edit.ctp:7
+#: View/AccessibilityOptions/admin_index.ctp:25
+#: View/AdvertisementLinkTypes/admin_edit.ctp:6
+#: View/AdvertisementLinkTypes/admin_index.ctp:29
+#: View/AdvertisementLinksProducts/add.ctp:10
+#: View/AdvertisementLinksServices/add.ctp:10 View/Categories/admin_edit.ctp:6
+#: View/Categories/admin_index.ctp:23 View/Countries/admin_edit.ctp:6
+#: View/Countries/admin_index.ctp:23 View/Days/admin_edit.ctp:6
+#: View/Days/admin_index.ctp:23 View/Elements/Companies/edit_menu.ctp:26
+#: View/Elements/Faqs/manage_overview.ctp:10
+#: View/Elements/NewsItems/manage_overview.ctp:10
+#: View/Elements/OpeningHours/manage_overview.ctp:20
+#: View/Elements/Polls/manage_overview.ctp:22 View/Faqs/paging.ctp:20
+#: View/Images/editable_paging.ctp:78 View/Images/paging.ctp:55;71
+#: View/Languages/admin_edit.ctp:6 View/Languages/admin_index.ctp:23
+#: View/LinksPortfolioItems/add.ctp:10 View/LinksProducts/add.ctp:10
+#: View/LinksServices/add.ctp:10 View/MediaWidgetTypes/admin_edit.ctp:6
+#: View/MediaWidgetTypes/admin_index.ctp:26
+#: View/MediaWidgets/editable_paging.ctp:72 View/MediaWidgets/paging.ctp:41
+#: View/Messages/paging.ctp:16 View/NewsItems/paging.ctp:39
+#: View/Notifications/paging.ctp:71;187
+#: View/OtherInformations/admin_edit.ctp:6
+#: View/OtherInformations/admin_index.ctp:25
+#: View/PaymentMethods/admin_edit.ctp:6 View/PaymentMethods/admin_index.ctp:25
+#: View/PortfolioItems/paging.ctp:26 View/PortfolioItems/view.ctp:24
+#: View/Products/paging.ctp:23 View/Products/view.ctp:22
+#: View/ProfileAccessibilities/admin_edit.ctp:6
+#: View/ProfileAccessibilities/admin_index.ctp:23
+#: View/RelationTypes/admin_edit.ctp:6 View/RelationTypes/admin_index.ctp:23
+#: View/Reviews/paging.ctp:43 View/Services/paging.ctp:23
+#: View/Services/view.ctp:24 View/Units/admin_edit.ctp:6
+#: View/Units/admin_index.ctp:23 View/Users/admin_index.ctp:56
+msgid "Delete"
+msgstr "Delete"
+
+#: View/AccessibilityOptions/admin_edit.ctp:7
+#: View/AccessibilityOptions/admin_index.ctp:25
+#: View/AdvertisementLinkTypes/admin_edit.ctp:6
+#: View/AdvertisementLinkTypes/admin_index.ctp:29
+#: View/Categories/admin_edit.ctp:6 View/Categories/admin_index.ctp:23
+#: View/Countries/admin_edit.ctp:6 View/Countries/admin_index.ctp:23
+#: View/Days/admin_edit.ctp:6 View/Days/admin_index.ctp:23
+#: View/Languages/admin_edit.ctp:6 View/Languages/admin_index.ctp:23
+#: View/MediaWidgetTypes/admin_edit.ctp:6
+#: View/MediaWidgetTypes/admin_index.ctp:26
+#: View/OtherInformations/admin_edit.ctp:6
+#: View/OtherInformations/admin_index.ctp:25
+#: View/PaymentMethods/admin_edit.ctp:6 View/PaymentMethods/admin_index.ctp:25
+#: View/ProfileAccessibilities/admin_edit.ctp:6
+#: View/ProfileAccessibilities/admin_index.ctp:23
+#: View/RelationTypes/admin_edit.ctp:6 View/RelationTypes/admin_index.ctp:23
+#: View/Units/admin_edit.ctp:6 View/Units/admin_index.ctp:23
+msgid "Are you sure you want to delete # %s?"
+msgstr "Are you sure you want to delete # %s?"
+
+#: View/AccessibilityOptions/admin_edit.ctp:11
+msgid "Edit accessibility option"
+msgstr "Edit accessibility option"
+
+#: View/AccessibilityOptions/admin_index.ctp:6
+#: View/AdvertisementLinkTypes/admin_index.ctp:6
+#: View/AdvertisementLinksProducts/add.ctp:40
+#: View/AdvertisementLinksServices/add.ctp:38
+#: View/Categories/admin_index.ctp:6 View/Countries/admin_add.ctp:10
+#: View/Countries/admin_index.ctp:6 View/Days/admin_add.ctp:10
+#: View/Days/admin_index.ctp:6 View/Elements/AttachedImages/manage_menu.ctp:8
+#: View/Elements/Faqs/manage_overview.ctp:22
+#: View/Elements/Images/manage_menu.ctp:17 View/Elements/Images/paging.ctp:43
+#: View/Elements/MediaWidgets/manage_menu.ctp:17
+#: View/Elements/MediaWidgets/paging.ctp:28
+#: View/Elements/NewsItems/manage_overview.ctp:23
+#: View/Elements/OpeningHours/manage_overview.ctp:38
+#: View/Elements/Polls/item.ctp:8 View/Elements/Polls/manage_overview.ctp:35
+#: View/Faqs/add.ctp:5 View/Images/editable_paging.ctp:76
+#: View/Languages/admin_add.ctp:10 View/Languages/admin_index.ctp:6
+#: View/LinksPortfolioItems/add.ctp:38 View/LinksProducts/add.ctp:40
+#: View/LinksServices/add.ctp:40 View/MediaWidgetTypes/admin_add.ctp:10
+#: View/MediaWidgetTypes/admin_index.ctp:6
+#: View/MediaWidgets/editable_paging.ctp:70 View/NewsItems/add.ctp:7
+#: View/OpeningHours/add.ctp:7 View/OtherInformations/admin_add.ctp:10
+#: View/OtherInformations/admin_index.ctp:6
+#: View/PaymentMethods/admin_add.ctp:10 View/PaymentMethods/admin_index.ctp:6
+#: View/Polls/add.ctp:5 View/ProfileAccessibilities/admin_add.ctp:10
+#: View/ProfileAccessibilities/admin_index.ctp:6
+#: View/RelationTypes/admin_add.ctp:10 View/RelationTypes/admin_index.ctp:6
+#: View/Units/admin_index.ctp:6
+msgid "Add"
+msgstr "Add"
+
+#: View/AccessibilityOptions/admin_index.ctp:14
+#: View/AdvertisementLinkTypes/admin_add.ctp:14
+#: View/AdvertisementLinkTypes/admin_edit.ctp:16
+#: View/AdvertisementLinkTypes/admin_index.ctp:14
+#: View/AdvertisementLinksProducts/add.ctp:33
+#: View/AdvertisementLinksServices/add.ctp:32
+#: View/Categories/admin_index.ctp:14 View/Companies/add.ctp:14
+#: View/Companies/edit_general.ctp:14 View/Companies/overview.ctp:25
+#: View/Companies/send_message.ctp:16 View/Countries/admin_index.ctp:14
+#: View/Days/admin_index.ctp:14 View/Languages/admin_index.ctp:14
+#: View/LinksPortfolioItems/add.ctp:32 View/LinksProducts/add.ctp:33
+#: View/LinksServices/add.ctp:33 View/MediaWidgetTypes/admin_add.ctp:14
+#: View/MediaWidgetTypes/admin_edit.ctp:16
+#: View/MediaWidgetTypes/admin_index.ctp:14
+#: View/OtherInformations/admin_index.ctp:14
+#: View/PaymentMethods/admin_index.ctp:14
+#: View/PortfolioItemCategories/add.ctp:13
+#: View/PortfolioItemCategories/edit.ctp:14 View/PortfolioItems/add.ctp:17
+#: View/PortfolioItems/edit.ctp:19 View/ProductCategories/add.ctp:13
+#: View/ProductCategories/edit.ctp:14 View/Products/add.ctp:17
+#: View/Products/edit.ctp:19 View/ProfileAccessibilities/admin_index.ctp:14
+#: View/RelationTypes/admin_index.ctp:14 View/Reviews/write.ctp:59
+#: View/ServiceCategories/add.ctp:13 View/ServiceCategories/edit.ctp:14
+#: View/Services/add.ctp:17 View/Services/edit.ctp:19
+#: View/SystemMessages/admin_add.ctp:13 View/SystemMessages/admin_index.ctp:14
+#: View/Units/admin_index.ctp:14 View/Users/admin_index.ctp:9
+#: View/Users/edit_general.ctp:14 View/Users/mark_as_offensive.ctp:15
+#: View/Users/register_company_step1.ctp:10 View/Users/send_message.ctp:13
+#: View/Users/view.ctp:140
+msgid "Name"
+msgstr "Name"
+
+#: View/AccessibilityOptions/admin_index.ctp:24
+#: View/AdvertisementLinkTypes/admin_index.ctp:28
+#: View/Categories/admin_index.ctp:22 View/Countries/admin_edit.ctp:11
+#: View/Countries/admin_index.ctp:22 View/Days/admin_edit.ctp:11
+#: View/Days/admin_index.ctp:22 View/Elements/Images/manage_menu.ctp:9
+#: View/Elements/MediaWidgets/manage_menu.ctp:9 View/Faqs/edit.ctp:8
+#: View/Languages/admin_edit.ctp:11 View/Languages/admin_index.ctp:22
+#: View/MediaWidgetTypes/admin_edit.ctp:11
+#: View/MediaWidgetTypes/admin_index.ctp:25 View/NewsItems/edit.ctp:10
+#: View/OpeningHours/edit.ctp:10 View/OtherInformations/admin_edit.ctp:11
+#: View/OtherInformations/admin_index.ctp:24
+#: View/PaymentMethods/admin_edit.ctp:11
+#: View/PaymentMethods/admin_index.ctp:24
+#: View/ProfileAccessibilities/admin_edit.ctp:11
+#: View/ProfileAccessibilities/admin_index.ctp:22
+#: View/RelationTypes/admin_edit.ctp:11 View/RelationTypes/admin_index.ctp:22
+#: View/Units/admin_index.ctp:22 View/Users/view.ctp:109
+msgid "Edit"
+msgstr "Edit"
+
+#: View/Activities/paging.ctp:16
+msgid "No recent activities found."
+msgstr "No recent activities found."
+
+#: View/Activities/paging.ctp:52
+msgid "%s: %s has been created"
+msgstr "%s: %s has been created"
+
+#: View/Activities/paging.ctp:54
+msgid "%s: %s has been updated"
+msgstr "%s: %s has been updated"
+
+#: View/AdvertisementLinkTypes/admin_add.ctp:2
+#: View/AdvertisementLinkTypes/admin_edit.ctp:2
+#: View/AdvertisementLinkTypes/admin_index.ctp:2;10
+msgid "Advertisement link types"
+msgstr "Advertisement link types"
+
+#: View/AdvertisementLinkTypes/admin_add.ctp:10
+msgid "Add advertisement link type"
+msgstr "Add advertisement link type"
+
+#: View/AdvertisementLinkTypes/admin_add.ctp:15
+#: View/AdvertisementLinkTypes/admin_edit.ctp:17
+#: View/AdvertisementLinkTypes/admin_index.ctp:15
+msgid "Regular expression"
+msgstr "Regular expression"
+
+#: View/AdvertisementLinkTypes/admin_add.ctp:16
+#: View/AdvertisementLinkTypes/admin_edit.ctp:18
+#: View/AdvertisementLinkTypes/admin_index.ctp:16
+#: View/AdvertisementLinksProducts/add.ctp:34
+#: View/AdvertisementLinksServices/add.ctp:33
+#: View/LinksPortfolioItems/add.ctp:33 View/LinksProducts/add.ctp:34
+#: View/LinksServices/add.ctp:34
+msgid "Url"
+msgstr "Url"
+
+#: View/AdvertisementLinkTypes/admin_edit.ctp:11
+msgid "Edit advertisement link type"
+msgstr "Edit advertisement link type"
+
+#: View/AdvertisementLinksProducts/add.ctp:2
+#: View/AdvertisementLinksServices/add.ctp:2
+msgid "Advertisement link"
+msgstr "Advertisement link"
+
+#: View/AdvertisementLinksProducts/add.ctp:15
+#: View/AdvertisementLinksServices/add.ctp:15 View/Companies/portfolio.ctp:64
+#: View/Companies/products.ctp:64 View/Companies/services.ctp:64
+#: View/Elements/Faqs/manage_overview.ctp:15
+#: View/Elements/NewsItems/manage_overview.ctp:15
+#: View/Elements/Polls/manage_overview.ctp:27
+#: View/LinksPortfolioItems/add.ctp:15 View/LinksProducts/add.ctp:15
+#: View/LinksServices/add.ctp:15 View/PortfolioItems/view.ctp:28
+#: View/Products/view.ctp:26 View/Services/view.ctp:28
+msgid "Are you sure you want to delete \"%s\"?"
+msgstr "Are you sure you want to delete \"%s\"?"
+
+#: View/AdvertisementLinksProducts/add.ctp:30
+#: View/AdvertisementLinksServices/add.ctp:29
+#: View/Elements/PortfolioItems/edit_menu.ctp:6
+#: View/Elements/Products/edit_menu.ctp:6
+#: View/Elements/Services/edit_menu.ctp:6 View/LinksPortfolioItems/add.ctp:29
+#: View/LinksProducts/add.ctp:30 View/LinksServices/add.ctp:30
+#: View/Polls/add.ctp:8 View/PortfolioItemCategories/add.ctp:9
+#: View/PortfolioItemCategories/edit.ctp:12 View/PortfolioItems/add.ctp:13
+#: View/PortfolioItems/edit.ctp:15 View/ProductCategories/add.ctp:9
+#: View/ProductCategories/edit.ctp:12 View/Products/add.ctp:13
+#: View/Products/edit.ctp:15 View/ServiceCategories/add.ctp:9
+#: View/ServiceCategories/edit.ctp:12 View/Services/add.ctp:13
+#: View/Services/edit.ctp:15
+msgid "General"
+msgstr "General"
+
+#: View/AttachedImages/add_from_desktop.ctp:3
+#: View/ImagesPortfolioItems/add_from_desktop.ctp:3
+#: View/ImagesProducts/add_from_desktop.ctp:3
+#: View/ImagesServices/add_from_desktop.ctp:3
+#: View/MediaWidgetsPortfolioItems/add_from_desktop.ctp:5
+#: View/MediaWidgetsProducts/add_from_desktop.ctp:5
+#: View/MediaWidgetsServices/add_from_desktop.ctp:5
+msgid "Add from desktop"
+msgstr "Add from desktop"
+
+#: View/AttachedImages/add_from_woodekees.ctp:3
+#: View/ImagesPortfolioItems/add_from_woodekees.ctp:3
+#: View/ImagesProducts/add_from_woodekees.ctp:3
+#: View/ImagesServices/add_from_woodekees.ctp:3
+#: View/MediaWidgetsPortfolioItems/add_from_woodekees.ctp:4
+#: View/MediaWidgetsProducts/add_from_woodekees.ctp:4
+#: View/MediaWidgetsServices/add_from_woodekees.ctp:4
+msgid "Add from Woodekees"
+msgstr "Add from Woodekees"
+
+#: View/Categories/admin_add.ctp:2 View/Categories/admin_edit.ctp:2
+#: View/Categories/admin_index.ctp:2;10
+#: View/Elements/Users/settings_menu.ctp:7
+msgid "Categories"
+msgstr "Categories"
+
+#: View/Categories/admin_add.ctp:10
+#: View/Elements/Companies/column1.ctp:54;83;113
+msgid "Add category"
+msgstr "Add category"
+
+#: View/Categories/admin_edit.ctp:11
+msgid "Edit category"
+msgstr "Edit category"
+
+#: View/Common/company.ctp:51;83 View/Elements/Companies/edit_menu.ctp:2
+msgid "Edit company"
+msgstr "Edit company"
+
+#: View/Common/company.ctp:64 View/Users/admin_index.ctp:65
+#: View/Users/view.ctp:40
+msgid "Deactivate"
+msgstr "Deactivate"
+
+#: View/Common/company.ctp:64
+msgid "Are you sure you want to deactive your company \"%s\"?"
+msgstr "Are you sure you want to deactive your company \"%s\"?"
+
+#: View/Common/company.ctp:102;108 View/Elements/Posts/actions.ctp:162;169
+msgid "Add to favorites"
+msgstr "Add to favorites"
+
+#: View/Common/company.ctp:117;123 View/Elements/Posts/actions.ctp:150;157
+msgid "Remove from favorites"
+msgstr "Remove from favorites"
+
+#: View/Common/company.ctp:150;156 View/Companies/send_message.ctp:3
+#: View/Users/admin_index.ctp:82 View/Users/limited_view.ctp:19
+#: View/Users/send_message.ctp:6 View/Users/view.ctp:68
+msgid "Send message"
+msgstr "Send message"
+
+#: View/Common/company.ctp:180 View/Companies/add.ctp:16
+#: View/Companies/edit_general.ctp:16 View/Companies/overview.ctp:30
+#: View/Companies/search_paging.ctp:50 View/Users/edit_general.ctp:33
+#: View/Users/register_company_step1.ctp:11
+msgid "Address line 1"
+msgstr "Address line 1"
+
+#: View/Common/company.ctp:186 View/Companies/add.ctp:17
+#: View/Companies/edit_general.ctp:17 View/Companies/overview.ctp:36
+#: View/Companies/search_paging.ctp:56 View/Users/edit_general.ctp:34
+#: View/Users/register_company_step1.ctp:12
+msgid "Address line 2"
+msgstr "Address line 2"
+
+#: View/Common/company.ctp:192 View/Companies/add.ctp:18
+#: View/Companies/edit_general.ctp:18 View/Companies/overview.ctp:42
+#: View/Companies/search_paging.ctp:62 View/Users/edit_general.ctp:35
+#: View/Users/register.ctp:17 View/Users/register_company.ctp:36
+#: View/Users/register_company_step1.ctp:13
+msgid "Postal code"
+msgstr "Postal code"
+
+#: View/Common/company.ctp:198 View/Companies/add.ctp:19
+#: View/Companies/edit_general.ctp:19 View/Companies/overview.ctp:48
+#: View/Companies/search_paging.ctp:68 View/Users/edit_general.ctp:36
+#: View/Users/register_company_step1.ctp:14
+msgid "City"
+msgstr "City"
+
+#: View/Common/company.ctp:204 View/Companies/add.ctp:20
+#: View/Companies/edit_general.ctp:20 View/Companies/overview.ctp:54
+#: View/Companies/search_paging.ctp:74 View/Users/edit_general.ctp:37
+#: View/Users/register_company_step1.ctp:15
+msgid "State"
+msgstr "Province/State"
+
+#: View/Common/company.ctp:210 View/Companies/add.ctp:21
+#: View/Companies/edit_general.ctp:21 View/Companies/overview.ctp:60
+#: View/Companies/search_paging.ctp:80 View/Users/edit_general.ctp:38
+#: View/Users/register_company_step1.ctp:16
+msgid "Country"
+msgstr "Country"
+
+#: View/Common/company.ctp:218 View/Companies/search_paging.ctp:88
+msgid "Specialities:"
+msgstr "Specialities:"
+
+#: View/Common/company.ctp:221 View/Companies/add.ctp:15
+#: View/Companies/edit_general.ctp:15 View/Companies/search_paging.ctp:91
+#: View/PortfolioItems/add.ctp:18 View/PortfolioItems/edit.ctp:20
+#: View/Products/add.ctp:18 View/Products/edit.ctp:20 View/Search/index.ctp:77
+#: View/Services/add.ctp:18 View/Services/edit.ctp:20
+msgid "Category"
+msgstr "Category"
+
+#: View/Common/company.ctp:222 View/Companies/search_paging.ctp:92
+msgid "n/a"
+msgstr "n/a"
+
+#: View/Common/company.ctp:226 View/Companies/add.ctp:30
+#: View/Companies/contact.ctp:69 View/Companies/edit_general.ctp:30
+#: View/Companies/overview.ctp:72 View/Companies/search_paging.ctp:96
+msgid "Website"
+msgstr "Website"
+
+#: View/Common/company.ctp:227 View/Companies/search_paging.ctp:97
+msgid "Visit website"
+msgstr "Visit website"
+
+#: View/Common/company.ctp:232 View/Companies/add.ctp:31
+#: View/Companies/contact.ctp:75;137 View/Companies/edit_general.ctp:31;44
+#: View/Companies/information.ctp:113 View/Companies/overview.ctp:78
+#: View/Companies/search_paging.ctp:102 View/Users/edit_general.ctp:30
+msgid "Phone number"
+msgstr "Phone number"
+
+#: View/Companies/add.ctp:7
+msgid "Fill in your details."
+msgstr "Fill in your details."
+
+#: View/Companies/add.ctp:8
+msgid "(company name, address, coc, bank account)"
+msgstr "(company name, address, coc, bank account)"
+
+#: View/Companies/add.ctp:11 View/Companies/edit_general.ctp:10
+#: View/Users/register_company_step1.ctp:7
+msgid "Company"
+msgstr "Company"
+
+#: View/Companies/add.ctp:22 View/Companies/contact.ctp:21;143
+#: View/Companies/edit_general.ctp:22;45 View/Companies/information.ctp:119
+#: View/Companies/overview.ctp:66 View/Companies/send_message.ctp:17
+#: View/Elements/header.ctp:166 View/Users/forgot_password.ctp:8
+#: View/Users/login.ctp:9 View/Users/mark_as_offensive.ctp:16
+#: View/Users/register.ctp:14 View/Users/register_company.ctp:33
+#: View/Users/send_message.ctp:14
+msgid "Email"
+msgstr "Email"
+
+#: View/Companies/add.ctp:23 View/Companies/contact.ctp:27
+#: View/Companies/edit_general.ctp:23 View/Companies/information.ctp:21
+msgid "CoC number"
+msgstr "CoC number"
+
+#: View/Companies/add.ctp:24 View/Companies/contact.ctp:33
+#: View/Companies/edit_general.ctp:24 View/Companies/information.ctp:27
+msgid "VAT number"
+msgstr "VAT number"
+
+#: View/Companies/add.ctp:25 View/Companies/contact.ctp:39
+#: View/Companies/edit_general.ctp:25 View/Companies/information.ctp:33
+msgid "Bank account"
+msgstr "Bank account"
+
+#: View/Companies/add.ctp:26 View/Companies/contact.ctp:45
+#: View/Companies/edit_general.ctp:26 View/Companies/information.ctp:39
+msgid "IBAN"
+msgstr "IBAN nr"
+
+#: View/Companies/add.ctp:27 View/Companies/contact.ctp:51
+#: View/Companies/edit_general.ctp:27 View/Companies/information.ctp:45
+msgid "SEPA"
+msgstr "SEPA"
+
+#: View/Companies/add.ctp:28 View/Companies/contact.ctp:57
+#: View/Companies/edit_general.ctp:28 View/Companies/information.ctp:51
+msgid "BIC"
+msgstr "BIC"
+
+#: View/Companies/add.ctp:29 View/Companies/contact.ctp:63
+#: View/Companies/edit_general.ctp:29 View/Companies/information.ctp:57
+msgid "SWIFT"
+msgstr "SWIFT"
+
+#: View/Companies/add.ctp:32 View/Companies/contact.ctp:81
+#: View/Companies/edit_general.ctp:32 View/Companies/overview.ctp:84
+msgid "Fax"
+msgstr "Fax"
+
+#: View/Companies/add.ctp:38 View/Companies/add_other.ctp:61
+#: View/ProfileAccessibilities/admin_index.ctp:32
+msgid "Next"
+msgstr "Next"
+
+#: View/Companies/add_connections.ctp:11
+msgid "Connect your social media."
+msgstr "Connect your social media."
+
+#: View/Companies/add_connections.ctp:12
+msgid "(Woodekees retrieves all your posts and displays them in a overview)"
+msgstr "(Woodekees retrieves all your posts and displays them in a overview)"
+
+#: View/Companies/add_connections.ctp:15
+#: View/Companies/edit_connections.ctp:11
+#: View/Companies/register_company_finish.ctp:9
+#: View/Elements/register_steps.ctp:6
+#: View/Elements/Companies/add_menu.ctp:31;36
+#: View/Elements/Companies/edit_menu.ctp:21
+#: View/Users/change_privacy_settings.ctp:22
+#: View/Users/register_company.ctp:15
+msgid "Connections"
+msgstr "Connections"
+
+#: View/Companies/add_connections.ctp:17
+#: View/Companies/edit_connections.ctp:13
+#: View/Companies/register_company_finish.ctp:12
+msgid "Facebook account"
+msgstr "Facebook account"
+
+#: View/Companies/add_connections.ctp:18
+#: View/Companies/edit_connections.ctp:14
+#: View/Companies/register_company_finish.ctp:13
+msgid "Twitter account"
+msgstr "Twitter account"
+
+#: View/Companies/add_connections.ctp:19
+#: View/Companies/edit_connections.ctp:15
+#: View/Companies/register_company_finish.ctp:14
+msgid "LinkedIn account"
+msgstr "LinkedIn account"
+
+#: View/Companies/add_connections.ctp:20
+#: View/Companies/edit_connections.ctp:16
+#: View/Companies/register_company_finish.ctp:15
+msgid "YouTube account"
+msgstr "YouTube account"
+
+#: View/Companies/add_connections.ctp:21
+#: View/Companies/edit_connections.ctp:17
+#: View/Companies/register_company_finish.ctp:16
+msgid "Foursquare account"
+msgstr "Foursquare account"
+
+#: View/Companies/add_connections.ctp:26
+#: View/Companies/register_company_finish.ctp:20
+msgid "Finish"
+msgstr "Finish"
+
+#: View/Companies/add_other.ctp:11
+msgid "Fill in your other information."
+msgstr "Fill in your other information."
+
+#: View/Companies/add_other.ctp:12
+msgid "(about us, specialty, accessibility, payment methods)"
+msgstr "(about us, specialty, accessibility, payment methods)"
+
+#: View/Companies/add_other.ctp:15 View/Companies/edit_other.ctp:11
+#: View/Companies/information.ctp:14
+#: View/Elements/Companies/add_menu.ctp:20;25
+#: View/Elements/Companies/edit_menu.ctp:18
+msgid "Other"
+msgstr "Other"
+
+#: View/Companies/add_other.ctp:18 View/Companies/edit_other.ctp:14
+#: View/Companies/information.ctp:147 View/Elements/footer.ctp:33
+msgid "General conditions"
+msgstr "General conditions"
+
+#: View/Companies/add_other.ctp:19 View/Companies/edit_other.ctp:15
+#: View/Companies/information.ctp:141 View/PortfolioItems/add.ctp:19
+#: View/PortfolioItems/edit.ctp:21 View/Products/add.ctp:19
+#: View/Products/edit.ctp:21 View/Services/add.ctp:19
+#: View/Services/edit.ctp:21
+msgid "Description"
+msgstr "Description"
+
+#: View/Companies/add_other.ctp:20 View/Companies/edit_other.ctp:16
+msgid "Specialities"
+msgstr "Specialities"
+
+#: View/Companies/add_other.ctp:21;30 View/Companies/contact.ctp:165
+#: View/Companies/edit_other.ctp:17;26
+#: View/Users/change_privacy_settings.ctp:13 View/Users/edit_privacy.ctp:10
+msgid "Accessibility"
+msgstr "Accessibility"
+
+#: View/Companies/add_other.ctp:22 View/Companies/contact.ctp:171
+#: View/Companies/edit_other.ctp:18
+msgid "Directions"
+msgstr "Directions"
+
+#: View/Companies/add_other.ctp:27 View/Companies/edit_other.ctp:23
+msgid "Extra"
+msgstr "Extra"
+
+#: View/Companies/add_other.ctp:31 View/Companies/edit_other.ctp:27
+#: View/Companies/overview.ctp:126
+msgid "Spoken languages"
+msgstr "Spoken languages"
+
+#: View/Companies/add_other.ctp:32 View/Companies/edit_other.ctp:28
+#: View/Companies/information.ctp:171 View/Elements/Users/settings_menu.ctp:11
+#: View/OtherInformations/admin_add.ctp:2
+#: View/OtherInformations/admin_edit.ctp:2
+#: View/OtherInformations/admin_index.ctp:2;10
+msgid "Other information"
+msgstr "Other information"
+
+#: View/Companies/add_other.ctp:33 View/Companies/edit_other.ctp:29
+#: View/Companies/information.ctp:189
+msgid "Accepted payment methods"
+msgstr "Accepted payment methods"
+
+#: View/Companies/add_other.ctp:38 View/Companies/edit_other.ctp:34
+msgid "Urls"
+msgstr "Urls"
+
+#: View/Companies/add_other.ctp:41 View/Companies/edit_other.ctp:37
+msgid "Facebook url"
+msgstr "Facebook url"
+
+#: View/Companies/add_other.ctp:42 View/Companies/edit_other.ctp:38
+msgid "Twitter url"
+msgstr "Twitter url"
+
+#: View/Companies/add_other.ctp:43 View/Companies/edit_other.ctp:39
+msgid "LinkedIn url"
+msgstr "LinkedIn url"
+
+#: View/Companies/add_other.ctp:44 View/Companies/edit_other.ctp:40
+msgid "YouTube url"
+msgstr "YouTube url"
+
+#: View/Companies/add_other.ctp:45 View/Companies/edit_other.ctp:41
+msgid "Foursquare url"
+msgstr "Foursquare url"
+
+#: View/Companies/add_other.ctp:46 View/Companies/edit_other.ctp:42
+msgid "Google+ url"
+msgstr "Google+ url"
+
+#: View/Companies/add_other.ctp:47 View/Companies/edit_other.ctp:43
+msgid "Tumblr url"
+msgstr "Tumblr url"
+
+#: View/Companies/add_other.ctp:48 View/Companies/edit_other.ctp:44
+msgid "Hyves url"
+msgstr "Hyves url"
+
+#: View/Companies/add_other.ctp:49 View/Companies/edit_other.ctp:45
+msgid "Pinterest url"
+msgstr "Pinterest url"
+
+#: View/Companies/add_other.ctp:50 View/Companies/edit_other.ctp:46
+msgid "Yelp url"
+msgstr "Yelp url"
+
+#: View/Companies/add_other.ctp:51 View/Companies/edit_other.ctp:47
+msgid "Flickr url"
+msgstr "Flickr url"
+
+#: View/Companies/add_other.ctp:52 View/Companies/edit_other.ctp:48
+msgid "eBay url"
+msgstr "eBay url"
+
+#: View/Companies/add_other.ctp:53 View/Companies/edit_other.ctp:49
+msgid "iTunes url"
+msgstr "iTunes url"
+
+#: View/Companies/add_other.ctp:54 View/Companies/edit_other.ctp:50
+msgid "Google Play url"
+msgstr "Google Play url"
+
+#: View/Companies/add_other.ctp:55 View/Companies/edit_other.ctp:51
+msgid "Instagram url"
+msgstr "Instagram url"
+
+#: View/Companies/contact.ctp:3
+msgid "Contact %s"
+msgstr "Contact %s"
+
+#: View/Companies/contact.ctp:9;14 View/Elements/footer.ctp:35
+#: View/Elements/Companies/column1.ctp:155
+msgid "Contact"
+msgstr "Contact"
+
+#: View/Companies/contact.ctp:16
+msgid "Owner"
+msgstr "Owner"
+
+#: View/Companies/contact.ctp:97 View/Companies/edit_general.ctp:37
+#: View/Companies/information.ctp:73
+msgid "Contact person"
+msgstr "Contact"
+
+#: View/Companies/contact.ctp:102 View/Companies/edit_general.ctp:40
+#: View/Companies/information.ctp:78 View/Users/edit_general.ctp:15
+#: View/Users/register.ctp:16 View/Users/register_company.ctp:35
+#: View/Users/view.ctp:123
+msgid "Gender"
+msgstr "Gender"
+
+#: View/Companies/contact.ctp:107 View/Companies/edit_general.ctp:40
+#: View/Companies/information.ctp:83 View/Users/edit_general.ctp:15
+#: View/Users/register.ctp:16 View/Users/register_company.ctp:35
+#: View/Users/view.ctp:128
+msgid "Female"
+msgstr "Female"
+
+#: View/Companies/contact.ctp:110 View/Companies/edit_general.ctp:40
+#: View/Companies/information.ctp:86 View/Users/edit_general.ctp:15
+#: View/Users/register.ctp:16 View/Users/register_company.ctp:35
+#: View/Users/view.ctp:131
+msgid "Male"
+msgstr "Male"
+
+#: View/Companies/contact.ctp:119 View/Companies/edit_general.ctp:41
+#: View/Companies/information.ctp:95 View/Users/edit_general.ctp:16
+#: View/Users/register.ctp:11 View/Users/register_company.ctp:30
+msgid "First name"
+msgstr "First name"
+
+#: View/Companies/contact.ctp:125 View/Companies/edit_general.ctp:42
+#: View/Companies/information.ctp:101 View/Users/edit_general.ctp:17
+#: View/Users/register.ctp:12 View/Users/register_company.ctp:31
+msgid "Middle name"
+msgstr "Middle name"
+
+#: View/Companies/contact.ctp:131 View/Companies/edit_general.ctp:43
+#: View/Companies/information.ctp:107 View/Users/edit_general.ctp:18
+#: View/Users/register.ctp:13 View/Users/register_company.ctp:32
+msgid "Last name"
+msgstr "Last name"
+
+#: View/Companies/contact.ctp:149 View/Companies/edit_general.ctp:46
+#: View/Companies/information.ctp:125 View/Users/edit_general.ctp:31
+#: View/Users/view.ctp:162
+msgid "Skype"
+msgstr "Skype"
+
+#: View/Companies/contact.ctp:155 View/Companies/edit_general.ctp:47
+#: View/Companies/information.ctp:131 View/Users/edit_general.ctp:32
+#: View/Users/view.ctp:168
+msgid "MSN"
+msgstr "MSN"
+
+#: View/Companies/contact.ctp:179 View/Helper/GoogleMapV3Helper.php:1092
+msgid "Map"
+msgstr "Map"
+
+#: View/Companies/edit_connections.ctp:23 View/Companies/edit_general.ctp:54
+#: View/Companies/edit_logo.ctp:17 View/Companies/edit_main_image.ctp:17
+#: View/Companies/edit_other.ctp:58 View/Companies/edit_theme.ctp:64
+#: View/PortfolioItemCategories/add.ctp:20
+#: View/PortfolioItemCategories/edit.ctp:20 View/PortfolioItems/add.ctp:75
+#: View/PortfolioItems/edit.ctp:28 View/PortfolioItems/edit_links.ctp:31
+#: View/ProductCategories/add.ctp:20 View/ProductCategories/edit.ctp:20
+#: View/Products/add.ctp:82 View/Products/edit.ctp:35
+#: View/Products/edit_links.ctp:50 View/ServiceCategories/add.ctp:20
+#: View/ServiceCategories/edit.ctp:20 View/Services/add.ctp:80
+#: View/Services/edit.ctp:33 View/Services/edit_links.ctp:50
+#: View/Users/edit_general.ctp:45 View/Users/edit_main_image.ctp:18
+#: View/Users/edit_notifications.ctp:24 View/Users/edit_privacy.ctp:21
+msgid "Apply"
+msgstr "Apply"
+
+#: View/Companies/edit_connections.ctp:24 View/Companies/edit_general.ctp:55
+#: View/Companies/edit_logo.ctp:18 View/Companies/edit_main_image.ctp:18
+#: View/Companies/edit_other.ctp:59 View/Companies/edit_theme.ctp:65
+#: View/PortfolioItemCategories/add.ctp:21
+#: View/PortfolioItemCategories/edit.ctp:21 View/PortfolioItems/add.ctp:76
+#: View/PortfolioItems/edit.ctp:29 View/PortfolioItems/edit_links.ctp:32
+#: View/ProductCategories/add.ctp:21 View/ProductCategories/edit.ctp:21
+#: View/Products/add.ctp:83 View/Products/edit.ctp:36
+#: View/Products/edit_links.ctp:51 View/ServiceCategories/add.ctp:21
+#: View/ServiceCategories/edit.ctp:21 View/Services/add.ctp:81
+#: View/Services/edit.ctp:34 View/Services/edit_links.ctp:51
+#: View/Users/edit_general.ctp:46 View/Users/edit_main_image.ctp:19
+#: View/Users/edit_notifications.ctp:25 View/Users/edit_privacy.ctp:22
+msgid "Cancel"
+msgstr "Cancel"
+
+#: View/Companies/edit_logo.ctp:11 View/Elements/Companies/edit_menu.ctp:9
+msgid "Profile logo"
+msgstr "Profile logo"
+
+#: View/Companies/edit_logo.ctp:12 View/Companies/edit_main_image.ctp:12
+#: View/Companies/edit_theme.ctp:54 View/Users/edit_main_image.ctp:12
+msgid "Image"
+msgstr "Image"
+
+#: View/Companies/edit_main_image.ctp:11
+#: View/Elements/Companies/edit_menu.ctp:6 View/Elements/Users/edit_menu.ctp:6
+#: View/Users/edit_main_image.ctp:10
+msgid "Profile image"
+msgstr "Profile image"
+
+#: View/Companies/edit_theme.ctp:11
+msgid "Layout color"
+msgstr "Layout color"
+
+#: View/Companies/edit_theme.ctp:14
+msgid "Header"
+msgstr "Header"
+
+#: View/Companies/edit_theme.ctp:15
+#: View/Elements/PortfolioItems/edit_menu.ctp:9
+#: View/Elements/Products/edit_menu.ctp:9
+#: View/Elements/Services/edit_menu.ctp:9
+#: View/PortfolioItems/edit_links.ctp:10 View/Products/edit_links.ctp:29
+#: View/Services/edit_links.ctp:29
+msgid "Links"
+msgstr "Links"
+
+#: View/Companies/edit_theme.ctp:16
+msgid "Background"
+msgstr "Background"
+
+#: View/Companies/edit_theme.ctp:22
+msgid "Reset layout"
+msgstr "Reset layout"
+
+#: View/Companies/edit_theme.ctp:42
+msgid "There is a maximum of two activated tabs at the same time."
+msgstr "There is a maximum of two activated tabs at the same time."
+
+#: View/Companies/edit_theme.ctp:51
+msgid "Background image"
+msgstr "Background image"
+
+#: View/Companies/edit_theme.ctp:55
+msgid "Attachment"
+msgstr "Attachment"
+
+#: View/Companies/edit_theme.ctp:55
+msgid "Scrolling"
+msgstr "Scrolling"
+
+#: View/Companies/edit_theme.ctp:55
+msgid "Not scrolling"
+msgstr "Not scrolling"
+
+#: View/Companies/edit_theme.ctp:56
+msgid "Repeat"
+msgstr "Repeat"
+
+#: View/Companies/edit_theme.ctp:57
+msgid "Fade to background color"
+msgstr "Fade to background color"
+
+#: View/Companies/images.ctp:4
+msgid "Images of %s"
+msgstr "Images of %s"
+
+#: View/Companies/images.ctp:16 View/Elements/Companies/column1.ctp:128
+#: View/Elements/Images/editable_paging.ctp:9
+#: View/Elements/Images/paging.ctp:12
+#: View/Elements/MediaWidgets/editable_paging.ctp:6
+#: View/Elements/MediaWidgets/select_paging.ctp:6
+#: View/ImagesPortfolioItems/overview.ctp:8 View/ImagesProducts/overview.ctp:8
+#: View/ImagesServices/overview.ctp:8 View/Users/admin_index.ctp:23;26
+#: View/Users/welcome.ctp:73
+msgid "Images"
+msgstr "Images"
+
+#: View/Companies/images.ctp:22 View/Images/paging.ctp:42
+msgid "No images found."
+msgstr "No images found."
+
+#: View/Companies/images.ctp:32 View/Companies/media_widgets.ctp:29
+#: View/Elements/Posts/post.ctp:57 View/Faqs/paging.ctp:14
+#: View/Images/paging.ctp:66 View/MediaWidgets/paging.ctp:36
+#: View/Messages/paging.ctp:14 View/PortfolioItems/paging.ctp:21
+#: View/Products/paging.ctp:18 View/Services/paging.ctp:18
+msgid "v"
+msgstr "v"
+
+#: View/Companies/images.ctp:37 View/Companies/media_widgets.ctp:34
+msgid "Delete everywhere"
+msgstr "Delete everywhere"
+
+#: View/Companies/images.ctp:44
+msgid ""
+"This image is still in use on other places. Are you sure you want to delete "
+"this image anyway?"
+msgstr ""
+"This image is still in use on other places. Are you sure you want to delete "
+"this image anyway?"
+
+#: View/Companies/information.ctp:3
+msgid "Information about %s"
+msgstr "Information about %s"
+
+#: View/Companies/information.ctp:9 View/Elements/Companies/column1.ctp:35
+msgid "Information"
+msgstr "Information"
+
+#: View/Companies/information.ctp:16 View/Products/view.ctp:181
+#: View/Services/view.ctp:156 View/Users/view.ctp:74
+msgid "Hit counter"
+msgstr "Hit counter"
+
+#: View/Companies/information.ctp:17
+msgid "%s since %s"
+msgstr "%s since %s"
+
+#: View/Companies/media_widgets.ctp:4
+msgid "Videos of %s"
+msgstr "Videos of %s"
+
+#: View/Companies/media_widgets.ctp:16 View/Elements/Companies/column1.ctp:142
+#: View/Elements/MediaWidgets/paging.ctp:30 View/Users/welcome.ctp:89
+msgid "Videos"
+msgstr "Videos"
+
+#: View/Companies/media_widgets.ctp:22 View/MediaWidgets/paging.ctp:29
+msgid "No videos found."
+msgstr "No videos found."
+
+#: View/Companies/media_widgets.ctp:41
+msgid ""
+"This video is still in use on other places. Are you sure you want to delete "
+"this video anyway?"
+msgstr ""
+"This video is still in use on other places. Are you sure you want to delete "
+"this video anyway?"
+
+#: View/Companies/overview.ctp:18 View/Elements/Companies/column1.ctp:29
+#: View/Elements/Images/manage_menu.ctp:12
+#: View/Elements/MediaWidgets/manage_menu.ctp:12
+msgid "Overview"
+msgstr "Overview"
+
+#: View/Companies/overview.ctp:23 View/Elements/Companies/add_menu.ctp:9;14
+#: View/Elements/Companies/edit_menu.ctp:15
+#: View/Elements/Users/edit_menu.ctp:9 View/Users/view.ctp:116
+msgid "Data"
+msgstr "Data"
+
+#: View/Companies/overview.ctp:95
+msgid "Opening hours"
+msgstr "Opening hours"
+
+#: View/Companies/overview.ctp:98 View/Elements/Faqs/paging.ctp:8
+#: View/Elements/NewsItems/paging.ctp:8
+msgid "Manage"
+msgstr "Manage"
+
+#: View/Companies/overview.ctp:112
+msgid "No opening hours available."
+msgstr "No opening hours available."
+
+#: View/Companies/paging.ctp:9 View/Companies/search_paging.ctp:9
+msgid "No companies found."
+msgstr "No companies found."
+
+#: View/Companies/portfolio.ctp:5
+msgid "Portfolio of %s"
+msgstr "Portfolio of %s"
+
+#: View/Companies/portfolio.ctp:26;33;73;81 View/PortfolioItems/add.ctp:2
+msgid "Add portfolio item"
+msgstr "Add portfolio item"
+
+#: View/Companies/portfolio.ctp:28;75
+msgid "You're going over the limit and can not add more portfolio items."
+msgstr "You're going over the limit and can not add more portfolio items."
+
+#: View/Companies/portfolio.ctp:47 View/PortfolioItemCategories/edit.ctp:2
+msgid "Edit portfolio item category"
+msgstr "Edit portfolio item category"
+
+#: View/Companies/portfolio.ctp:58
+msgid "Delete portfolio item category"
+msgstr "Delete portfolio item category"
+
+#: View/Companies/portfolio.ctp:94 View/Elements/Companies/column1.ctp:98
+#: View/PortfolioItems/view.ctp:78
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: View/Companies/products.ctp:5
+msgid "Products of %s"
+msgstr "Products of %s"
+
+#: View/Companies/products.ctp:26;33;73;81 View/Products/add.ctp:2
+msgid "Add product"
+msgstr "Add product"
+
+#: View/Companies/products.ctp:28;75
+msgid "You're going over the limit and can not add more products."
+msgstr "You're going over the limit and can not add more products."
+
+#: View/Companies/products.ctp:47 View/ProductCategories/edit.ctp:2
+msgid "Edit product category"
+msgstr "Edit product category"
+
+#: View/Companies/products.ctp:58
+msgid "Delete product category"
+msgstr "Delete product category"
+
+#: View/Companies/products.ctp:95 View/Elements/Companies/column1.ctp:39
+#: View/Products/view.ctp:73 View/Search/index.ctp:24;118
+#: View/Users/admin_index.ctp:14 View/Users/welcome.ctp:43
+msgid "Products"
+msgstr "Products"
+
+#: View/Companies/reviews.ctp:18;34 View/Elements/Companies/column1.ctp:32
+#: View/Elements/Reviews/paging.ctp:9 View/Users/welcome.ctp:33
+msgid "Reviews"
+msgstr "Reviews"
+
+#: View/Companies/search_paging.ctp:108
+msgid "Rating"
+msgstr "Rating"
+
+#: View/Companies/send_message.ctp:19 View/Messages/reply.ctp:44
+#: View/Users/mark_as_offensive.ctp:18 View/Users/send_message.ctp:16
+msgid "Subject"
+msgstr "Subject"
+
+#: View/Companies/send_message.ctp:20 View/FriendsUsers/invite.ctp:8
+#: View/Messages/reply.ctp:45 View/Users/mark_as_offensive.ctp:19
+#: View/Users/send_message.ctp:17
+msgid "Message"
+msgstr "Message"
+
+#: View/Companies/send_message.ctp:29 View/FriendsUsers/invite.ctp:11
+#: View/Messages/reply.ctp:48 View/SystemMessages/admin_add.ctp:10;15
+#: View/Users/mark_as_offensive.ctp:27 View/Users/send_message.ctp:23
+msgid "Send"
+msgstr "Send"
+
+#: View/Companies/services.ctp:5
+msgid "Services of %s"
+msgstr "Services of %s"
+
+#: View/Companies/services.ctp:26;33;73;81 View/Services/add.ctp:2
+msgid "Add service"
+msgstr "Add service"
+
+#: View/Companies/services.ctp:28;75
+msgid "You're going over the limit and can not add more services."
+msgstr "You're going over the limit and can not add more services."
+
+#: View/Companies/services.ctp:47 View/ServiceCategories/edit.ctp:2
+msgid "Edit service category"
+msgstr "Edit service category"
+
+#: View/Companies/services.ctp:58
+msgid "Delete service category"
+msgstr "Delete service category"
+
+#: View/Companies/services.ctp:95 View/Elements/Companies/column1.ctp:67
+#: View/Search/index.ctp:31;132 View/Services/view.ctp:77
+#: View/Users/admin_index.ctp:17 View/Users/welcome.ctp:53
+msgid "Services"
+msgstr "Services"
+
+#: View/Connections/posts_poller.ctp:3
+msgid "%s new posts fetched since %s. Click here to refresh."
+msgstr "%s new posts fetched since %s. Click here to refresh."
+
+#: View/Countries/admin_add.ctp:2 View/Countries/admin_edit.ctp:2
+#: View/Countries/admin_index.ctp:2;10 View/Elements/Users/settings_menu.ctp:8
+msgid "Countries"
+msgstr "Countries"
+
+#: View/Countries/admin_index.ctp:13 View/Days/admin_index.ctp:13
+#: View/Languages/admin_index.ctp:13 View/MediaWidgetTypes/admin_index.ctp:13
+#: View/OtherInformations/admin_index.ctp:13
+#: View/PaymentMethods/admin_index.ctp:13
+#: View/ProfileAccessibilities/admin_index.ctp:13
+#: View/RelationTypes/admin_index.ctp:13
+#: View/SystemMessages/admin_index.ctp:13
+msgid "ID"
+msgstr "ID"
+
+#: View/Days/admin_add.ctp:2 View/Days/admin_edit.ctp:2
+#: View/Days/admin_index.ctp:2;10 View/Elements/Users/settings_menu.ctp:9
+msgid "Days"
+msgstr "Days"
+
+#: View/Elements/footer.ctp:29
+msgid "Home"
+msgstr "Home"
+
+#: View/Elements/footer.ctp:30
+msgid "Blog"
+msgstr "Blog"
+
+#: View/Elements/footer.ctp:30;31;32;33;34;35 View/Users/register.ctp:21
+#: View/Users/register_company.ctp:40
+msgid "about.woodekees.com"
+msgstr "about.woodekees.com"
+
+#: View/Elements/footer.ctp:31
+msgid "Advertise"
+msgstr "Advertise"
+
+#: View/Elements/footer.ctp:31
+msgid "advertise"
+msgstr "advertise"
+
+#: View/Elements/footer.ctp:32 View/Elements/Users/edit_menu.ctp:12
+msgid "Privacy"
+msgstr "Privacy"
+
+#: View/Elements/footer.ctp:32
+msgid "privacy"
+msgstr "privacy"
+
+#: View/Elements/footer.ctp:33 View/Users/register.ctp:21
+#: View/Users/register_company.ctp:40
+msgid "general-conditions"
+msgstr "general-conditions"
+
+#: View/Elements/footer.ctp:34 View/Elements/Faqs/paging.ctp:10
+msgid "FAQs"
+msgstr "FAQs"
+
+#: View/Elements/footer.ctp:34
+msgid "faqs"
+msgstr "faqs"
+
+#: View/Elements/header.ctp:8
+msgid "Search..."
+msgstr "Search..."
+
+#: View/Elements/header.ctp:52
+msgid "Friend-request from %s"
+msgstr "Friend-request from %s"
+
+#: View/Elements/header.ctp:64
+msgid "New review of \"%s\""
+msgstr "New review of \"%s\""
+
+#: View/Elements/header.ctp:69
+msgid "New system message"
+msgstr "New system message"
+
+#: View/Elements/header.ctp:88
+msgid "Mark all notifications as read"
+msgstr "Mark all notifications as read"
+
+#: View/Elements/header.ctp:115
+msgid "Mark all messages as read"
+msgstr "Mark all messages as read"
+
+#: View/Elements/header.ctp:143;147 View/Elements/Companies/add_menu.ctp:2
+#: View/Users/view.ctp:98
+msgid "Add company"
+msgstr "Add company"
+
+#: View/Elements/header.ctp:158 View/Elements/Users/dashboard_menu.ctp:2
+msgid "Dashboard"
+msgstr "Startpage"
+
+#: View/Elements/header.ctp:160 View/Elements/Users/settings_menu.ctp:25
+msgid "Account"
+msgstr "Account"
+
+#: View/Elements/header.ctp:161
+msgid "Logout"
+msgstr "Logout"
+
+#: View/Elements/header.ctp:167 View/Users/login.ctp:10
+#: View/Users/register.ctp:15 View/Users/register_company.ctp:34
+#: View/Users/reset_password.ctp:9
+msgid "Password"
+msgstr "Password"
+
+#: View/Elements/header.ctp:168 View/Elements/Users/login_menu.ctp:5
+#: View/Users/login.ctp:5;14
+msgid "Login"
+msgstr "Login"
+
+#: View/Elements/header.ctp:169 View/Users/login.ctp:11
+msgid "Remember me"
+msgstr "Remember me"
+
+#: View/Elements/register_steps.ctp:2 View/Users/register_company.ctp:3
+msgid "Register your company"
+msgstr "Register your company"
+
+#: View/Elements/register_steps.ctp:4 View/Users/register_company.ctp:6
+msgid "1"
+msgstr "1"
+
+#: View/Elements/register_steps.ctp:4 View/Users/register_company.ctp:11
+msgid "Company information"
+msgstr "Company information"
+
+#: View/Elements/register_steps.ctp:5 View/Users/register_company.ctp:10
+msgid "2"
+msgstr "2"
+
+#: View/Elements/register_steps.ctp:5 View/Users/register_company.ctp:7;23
+msgid "Personal information"
+msgstr "Personal information"
+
+#: View/Elements/register_steps.ctp:6 View/Users/register_company.ctp:14
+msgid "3"
+msgstr "3"
+
+#: View/Elements/share_buttons.ctp:14;15
+msgid "Share via Twitter"
+msgstr "Share via Twitter"
+
+#: View/Elements/share_buttons.ctp:27;28
+msgid "Share on Hyves"
+msgstr "Share on Hyves"
+
+#: View/Elements/share_buttons.ctp:40;41
+msgid "Share on Facebook"
+msgstr "Share on Facebook"
+
+#: View/Elements/share_buttons.ctp:53;54
+msgid "Mail"
+msgstr "Mail"
+
+#: View/Elements/Activities/paging.ctp:2
+msgid "Recent activities"
+msgstr "Recent activities"
+
+#: View/Elements/AttachedImages/manage_menu.ctp:11
+#: View/Elements/Images/manage_menu.ctp:20
+#: View/Elements/MediaWidgets/manage_menu.ctp:20
+msgid "From desktop"
+msgstr "From desktop"
+
+#: View/Elements/AttachedImages/manage_menu.ctp:14
+#: View/Elements/Images/manage_menu.ctp:23
+#: View/Elements/MediaWidgets/manage_menu.ctp:23
+msgid "From Woodekees"
+msgstr "From Woodekees"
+
+#: View/Elements/Comments/actions.ctp:7;14
+#: View/Elements/Posts/actions.ctp:92;99
+msgid "Unlike"
+msgstr "Unlike"
+
+#: View/Elements/Comments/actions.ctp:19;26
+#: View/Elements/Posts/actions.ctp:104;111
+msgid "Like"
+msgstr "Like"
+
+#: View/Elements/Companies/column1.ctp:43;72;102;132;146
+msgid "All"
+msgstr "All"
+
+#: View/Elements/Companies/column1.ctp:171
+#: View/Elements/Posts/post_form.ctp:36
+#: View/Elements/Users/dashboard_menu.ctp:41
+msgid "Facebook"
+msgstr "Facebook"
+
+#: View/Elements/Companies/column1.ctp:172
+#: View/Elements/Posts/post_form.ctp:39
+#: View/Elements/Users/dashboard_menu.ctp:63
+msgid "Twitter"
+msgstr "Twitter"
+
+#: View/Elements/Companies/column1.ctp:173
+#: View/Elements/Posts/post_form.ctp:42
+#: View/Elements/Users/dashboard_menu.ctp:85
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: View/Elements/Companies/column1.ctp:174
+#: View/Elements/Users/dashboard_menu.ctp:107
+msgid "YouTube"
+msgstr "YouTube"
+
+#: View/Elements/Companies/column1.ctp:175
+#: View/Elements/Posts/post_form.ctp:45
+#: View/Elements/Users/dashboard_menu.ctp:129
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: View/Elements/Companies/column1.ctp:176
+msgid "Google+"
+msgstr "Google+"
+
+#: View/Elements/Companies/column1.ctp:177
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: View/Elements/Companies/column1.ctp:178
+msgid "Hyves"
+msgstr "Hyves"
+
+#: View/Elements/Companies/column1.ctp:179
+msgid "Pintereset"
+msgstr "Pintereset"
+
+#: View/Elements/Companies/column1.ctp:180
+msgid "Yelp"
+msgstr "Yelp"
+
+#: View/Elements/Companies/column1.ctp:181
+msgid "Flickr"
+msgstr "Flickr"
+
+#: View/Elements/Companies/column1.ctp:182
+msgid "eBay"
+msgstr "eBay"
+
+#: View/Elements/Companies/column1.ctp:183
+msgid "iTunes"
+msgstr "iTunes"
+
+#: View/Elements/Companies/column1.ctp:184
+msgid "Google Play"
+msgstr "Google Play"
+
+#: View/Elements/Companies/column1.ctp:185
+msgid "Instagram"
+msgstr "Instagram"
+
+#: View/Elements/Companies/edit_menu.ctp:12
+msgid "Theme"
+msgstr "Theme"
+
+#: View/Elements/Companies/edit_menu.ctp:32
+msgid "Are you sure you want to delete company \"%s\"?"
+msgstr "Are you sure you want to delete company \"%s\"?"
+
+#: View/Elements/Companies/latest.ctp:2
+msgid "Companies using Woodekees"
+msgstr "Companies using Woodekees"
+
+#: View/Elements/Companies/latest.ctp:3
+msgid ""
+"The following companies are already taking their social media strategy to "
+"the next level..."
+msgstr ""
+"The following companies are already taking their social media strategy to "
+"the next level..."
+
+#: View/Elements/Companies/paging.ctp:3 View/Search/index.ctp:17;104
+#: View/Users/admin_index.ctp:11 View/Users/limited_view.ctp:23
+#: View/Users/view.ctp:81
+msgid "Companies"
+msgstr "Companies"
+
+#: View/Elements/Companies/paging.ctp:39 View/Elements/Images/paging.ctp:55
+#: View/Elements/Users/paging.ctp:43
+msgid "Maximize"
+msgstr "Maximize"
+
+#: View/Elements/Companies/paging.ctp:51 View/Elements/Images/paging.ctp:67
+#: View/Elements/Users/paging.ctp:55
+msgid "Previous size"
+msgstr "Previous size"
+
+#: View/Elements/Faqs/manage_overview.ctp:2
+msgid "Manage FAQs"
+msgstr "Manage FAQs"
+
+#: View/Elements/Images/manage_menu.ctp:7
+msgid "Manage images"
+msgstr "Manage images"
+
+#: View/Elements/MediaWidgets/manage_menu.ctp:7
+msgid "Manage videos"
+msgstr "Manage videos"
+
+#: View/Elements/Messages/paging.ctp:2
+#: View/Elements/Users/dashboard_menu.ctp:6
+msgid "Messages"
+msgstr "Messages"
+
+#: View/Elements/NewsItems/manage_overview.ctp:2
+msgid "Manage news items"
+msgstr "Manage news items"
+
+#: View/Elements/NewsItems/paging.ctp:10
+msgid "News"
+msgstr "News"
+
+#: View/Elements/Notifications/paging.ctp:8
+msgid "Friend requests only"
+msgstr "Friend requests only"
+
+#: View/Elements/Notifications/paging.ctp:9
+msgid "Reviews only"
+msgstr "Reviews only"
+
+#: View/Elements/Notifications/paging.ctp:10
+msgid "System messages only"
+msgstr "System messages only"
+
+#: View/Elements/Notifications/paging.ctp:11
+msgid "Accepted friend request only"
+msgstr "Accepted friend request only"
+
+#: View/Elements/Notifications/paging.ctp:13
+msgid "All notifications"
+msgstr "All notifications"
+
+#: View/Elements/Notifications/paging.ctp:31
+#: View/Elements/Users/dashboard_menu.ctp:5
+#: View/Elements/Users/edit_menu.ctp:15 View/Users/edit_notifications.ctp:10
+msgid "Notifications"
+msgstr "Notifications"
+
+#: View/Elements/OpeningHours/manage_overview.ctp:2
+msgid "Manage opening hours"
+msgstr "Manage opening hours"
+
+#: View/Elements/OpeningHours/manage_overview.ctp:26
+msgid "Are you sure you want to delete \"%s: %s - %s\"?"
+msgstr "Are you sure you want to delete \"%s: %s - %s\"?"
+
+#: View/Elements/Polls/item.ctp:10
+msgid "Poll"
+msgstr "Poll"
+
+#: View/Elements/Polls/manage_overview.ctp:2
+msgid "Manage polls"
+msgstr "Manage polls"
+
+#: View/Elements/Polls/manage_overview.ctp:10 View/NewsItems/add.ctp:21
+#: View/NewsItems/edit.ctp:24 View/NewsItems/paging.ctp:51
+#: View/Notifications/paging.ctp:110 View/Polls/add.ctp:33
+#: View/PortfolioItems/add.ctp:30 View/PortfolioItems/view.ctp:35
+#: View/Products/add.ctp:37 View/Products/view.ctp:33
+#: View/Reviews/paging.ctp:47 View/Services/add.ctp:35
+#: View/Services/view.ctp:35
+msgid "Publish on Facebook wall"
+msgstr "Publish on Facebook wall"
+
+#: View/Elements/Polls/manage_overview.ctp:13 View/NewsItems/add.ctp:32
+#: View/NewsItems/edit.ctp:35 View/NewsItems/paging.ctp:56
+#: View/Notifications/paging.ctp:121 View/Polls/add.ctp:44
+#: View/PortfolioItems/add.ctp:41 View/PortfolioItems/view.ctp:40
+#: View/Products/add.ctp:48 View/Products/view.ctp:38
+#: View/Reviews/paging.ctp:52 View/Services/add.ctp:46
+#: View/Services/view.ctp:40
+msgid "Publish on Twitter"
+msgstr "Publish on Twitter"
+
+#: View/Elements/Polls/manage_overview.ctp:16 View/NewsItems/add.ctp:43
+#: View/NewsItems/edit.ctp:46 View/NewsItems/paging.ctp:61
+#: View/Notifications/paging.ctp:132 View/Polls/add.ctp:55
+#: View/PortfolioItems/add.ctp:52 View/PortfolioItems/view.ctp:45
+#: View/Products/add.ctp:59 View/Products/view.ctp:43
+#: View/Reviews/paging.ctp:57 View/Services/add.ctp:57
+#: View/Services/view.ctp:45
+msgid "Publish on LinkedIn"
+msgstr "Publish on LinkedIn"
+
+#: View/Elements/Polls/manage_overview.ctp:19 View/NewsItems/add.ctp:54
+#: View/NewsItems/edit.ctp:57 View/NewsItems/paging.ctp:66
+#: View/Notifications/paging.ctp:143 View/Polls/add.ctp:66
+#: View/PortfolioItems/add.ctp:63 View/PortfolioItems/view.ctp:50
+#: View/Products/add.ctp:70 View/Products/view.ctp:48
+#: View/Reviews/paging.ctp:62 View/Services/add.ctp:68
+#: View/Services/view.ctp:50
+msgid "Publish on Foursquare"
+msgstr "Publish on Foursquare"
+
+#: View/Elements/PortfolioItems/edit_menu.ctp:2
+#: View/PortfolioItems/view.ctp:66
+msgid "Edit portfolio item"
+msgstr "Edit portfolio item"
+
+#: View/Elements/Posts/actions.ctp:8;17 View/Elements/Posts/comments.ctp:174
+msgid "To reply"
+msgstr "Reply"
+
+#: View/Elements/Posts/actions.ctp:36;44;51
+msgid "Undo retweet"
+msgstr "Undo retweet"
+
+#: View/Elements/Posts/actions.ctp:53
+msgid "Are you sure you want to undo the retweet of this post?"
+msgstr "Are you sure you want to undo the retweet of this post?"
+
+#: View/Elements/Posts/actions.ctp:59;63;68;75
+msgid "Retweet"
+msgstr "Retweet"
+
+#: View/Elements/Posts/actions.ctp:77
+msgid "Are you sure you want to retweet this post?"
+msgstr "Are you sure you want to retweet this post?"
+
+#: View/Elements/Posts/actions.ctp:125
+msgid "Disliked"
+msgstr "Disliked"
+
+#: View/Elements/Posts/actions.ctp:128;135
+msgid "Dislike"
+msgstr "Dislike"
+
+#: View/Elements/Posts/actions.ctp:183
+#: View/MediaWidgetTypes/admin_index.ctp:24
+msgid "View"
+msgstr "View"
+
+#: View/Elements/Posts/actions.ctp:187
+msgid "Number of views"
+msgstr "Number of views"
+
+#: View/Elements/Posts/actions.ctp:200
+msgid "Checkins"
+msgstr "Checkins"
+
+#: View/Elements/Posts/actions.ctp:204
+msgid "Number of checkins"
+msgstr "Number of checkins"
+
+#: View/Elements/Posts/comments.ctp:9
+msgid "Show previous comments"
+msgstr "Show previous comments"
+
+#: View/Elements/Posts/comments.ctp:21
+msgid "Hide comments"
+msgstr "Hide comments"
+
+#: View/Elements/Posts/comments.ctp:86
+msgid "via Woodekees"
+msgstr "via Woodekees"
+
+#: View/Elements/Posts/post.ctp:59
+msgid "Original message"
+msgstr "Original message"
+
+#: View/Elements/Posts/post.ctp:78
+msgid "has checked in at your venue %s."
+msgstr "has checked in at your venue %s."
+
+#: View/Elements/Posts/post.ctp:163
+msgid "Read more"
+msgstr "Read more"
+
+#: View/Elements/Posts/post.ctp:173
+msgid "Hide"
+msgstr "Hide"
+
+#: View/Elements/Posts/post.ctp:188
+msgid "Posted via Woodekees"
+msgstr "Posted via Woodekees"
+
+#: View/Elements/Posts/post_form.ctp:19
+msgid "Attach images"
+msgstr "Attach images"
+
+#: View/Elements/Posts/post_form.ctp:24
+msgid "Attached images"
+msgstr "Attached images"
+
+#: View/Elements/Posts/post_form.ctp:29
+msgid "Post on:"
+msgstr "Post on:"
+
+#: View/Elements/Posts/post_form.ctp:54 View/Images/editable_paging.ctp:81
+#: View/MediaWidgets/editable_paging.ctp:75
+#: View/PollAnswersPolls/answer.ctp:16 View/Reviews/confirm_write.ctp:34
+#: View/Reviews/write.ctp:70 View/Users/forgot_password.ctp:10
+msgid "Submit"
+msgstr "Submit"
+
+#: View/Elements/Products/edit_menu.ctp:2 View/Products/view.ctp:59
+msgid "Edit product"
+msgstr "Edit product"
+
+#: View/Elements/Services/edit_menu.ctp:2 View/Services/view.ctp:63
+msgid "Edit service"
+msgstr "Edit service"
+
+#: View/Elements/Users/dashboard_menu.ctp:4
+msgid "Welcome"
+msgstr "Welcome"
+
+#: View/Elements/Users/dashboard_menu.ctp:14
+msgid "%s monitor"
+msgstr "%s monitor"
+
+#: View/Elements/Users/dashboard_menu.ctp:149
+msgid "Add connection"
+msgstr "Add connection"
+
+#: View/Elements/Users/edit_menu.ctp:2
+msgid "Edit personal profile"
+msgstr "Edit personal profile"
+
+#: View/Elements/Users/login_menu.ctp:7
+msgid "Resend activation mail"
+msgstr "Resend activation mail"
+
+#: View/Elements/Users/login_menu.ctp:9 View/Users/forgot_password.ctp:5
+msgid "Forgot password"
+msgstr "Forgot password"
+
+#: View/Elements/Users/paging.ctp:6
+msgid "Friends"
+msgstr "Friends"
+
+#: View/Elements/Users/settings_menu.ctp:3
+msgid "Admin"
+msgstr "Admin"
+
+#: View/Elements/Users/settings_menu.ctp:5 View/Users/admin_index.ctp:2
+msgid "User list"
+msgstr "User list"
+
+#: View/Elements/Users/settings_menu.ctp:10 View/Languages/admin_add.ctp:2
+#: View/Languages/admin_edit.ctp:2 View/Languages/admin_index.ctp:2;10
+msgid "Languages"
+msgstr "Languages"
+
+#: View/Elements/Users/settings_menu.ctp:12
+#: View/PaymentMethods/admin_add.ctp:2 View/PaymentMethods/admin_edit.ctp:2
+#: View/PaymentMethods/admin_index.ctp:2;10
+msgid "Payment methods"
+msgstr "Payment methods"
+
+#: View/Elements/Users/settings_menu.ctp:13 View/RelationTypes/admin_add.ctp:2
+#: View/RelationTypes/admin_edit.ctp:2 View/RelationTypes/admin_index.ctp:2;10
+msgid "Relation types"
+msgstr "Relation types"
+
+#: View/Elements/Users/settings_menu.ctp:14
+#: View/SystemMessages/admin_add.ctp:2 View/SystemMessages/admin_index.ctp:2
+msgid "System messages"
+msgstr "System messages"
+
+#: View/Elements/Users/settings_menu.ctp:15 View/Units/admin_add.ctp:2
+#: View/Units/admin_edit.ctp:2 View/Units/admin_index.ctp:2;10
+msgid "Units"
+msgstr "Units"
+
+#: View/Elements/Users/settings_menu.ctp:27 View/Users/change_password.ctp:6
+msgid "Change password"
+msgstr "Change password"
+
+#: View/Elements/Users/settings_menu.ctp:28
+msgid "Privacy settings"
+msgstr "Privacy settings"
+
+#: View/Elements/Users/settings_menu.ctp:29
+msgid "Deactivate account"
+msgstr "Deactivate account"
+
+#: View/Elements/Users/settings_menu.ctp:29
+msgid "Are you sure you want to deactivate your account?"
+msgstr "Are you sure you want to deactivate your account?"
+
+#: View/Emails/html/accepted_friend_request_notification.ctp:6
+#: View/Emails/text/accepted_friend_request_notification.ctp:6
+msgid ""
+"Hi %s,\n"
+"\n"
+"\n"
+"%s has accepted your friend request on Woodekees (%s).\n"
+"\n"
+"\n"
+"Kind regards,\n"
+"\n"
+"%s\n"
+"\n"
+"Joey Woodekees\n"
+msgstr ""
+"Hi %s,\n"
+"\n"
+"\n"
+"%s has accepted your friend request on Woodekees (%s).\n"
+"\n"
+"\n"
+"Kind regards,\n"
+"\n"
+"%s\n"
+"\n"
+"Joey Woodekees\n"
+
+#: View/Emails/html/business_account_verification.ctp:4
+#: View/Emails/html/facebook_token_refresh_reminder.ctp:3
+#: View/Emails/html/password_reset_request.ctp:3
+#: View/Emails/html/personal_account_verification.ctp:4;5
+msgid "here"
+msgstr "here"
+
+#: View/Emails/html/business_account_verification.ctp:6
+#: View/Emails/text/business_account_verification.ctp:6
+msgid ""
+"Hi %s,\n"
+"\n"
+"\n"
+"Thank you for signing up for Woodekees!\n"
+"Before you can start, you have to confirm your account.\n"
+"\n"
+"Click %s to confirm\n"
+"\n"
+"Username: %s\n"
+"\n"
+"\n"
+"Kind regards,\n"
+"\n"
+"%s\n"
+"\n"
+"Joey Woodekees\n"
+msgstr ""
+"Hi %s,\n"
+"\n"
+"\n"
+"Thank you for signing up for Woodekees!\n"
+"Before you can start, you have to confirm your account.\n"
+"\n"
+"Click %s to confirm\n"
+"\n"
+"Username: %s\n"
+"\n"
+"\n"
+"Kind regards,\n"
+"\n"
+"%s\n"
+"\n"
+"Joey Woodekees\n"
+
+#: View/Emails/html/facebook_token_refresh_reminder.ctp:5
+#: View/Emails/text/facebook_token_refresh_reminder.ctp:5
+msgid ""
+"Hi %s,\n"
+"\n"
+"\n"
+"Your Facebook connection is about to expire. If you have the Facebook "
+"permission to expire, we can no posts to pick you up.\n"
+"Click %s to login and renew your Facebook permission.\n"
+"\n"
+"\n"
+"Kind regards,\n"
+"\n"
+"%s\n"
+"\n"
+"Joey Woodekees\n"
+msgstr ""
+"Hi %s,\n"
+"\n"
+"\n"
+"Your Facebook connection is about to expire. If you have the Facebook "
+"permission to expire, we can no posts to pick you up.\n"
+"Click %s to login and renew your Facebook permission.\n"
+"\n"
+"\n"
+"Kind regards,\n"
+"\n"
+"%s\n"
+"\n"
+"Joey Woodekees\n"
+
+#: View/Emails/html/mark_as_offensive.ctp:9
+#: View/Emails/text/mark_as_offensive.ctp:9
+msgid "Offensive link"
+msgstr "Offensive link"
+
+#: View/Emails/html/mark_as_offensive.ctp:12
+#: View/Emails/text/mark_as_offensive.ctp:12
+msgid ""
+"\n"
+"\n"
+"From: %s\n"
+"Subject: %s\n"
+"Message:\n"
+"%s\n"
+"\n"
+"\n"
+"%s\n"
+"Model: %s\n"
+"ID: %s\n"
+"\n"
+"\n"
+msgstr ""
+"\n"
+"\n"
+"From: %s\n"
+"Subject: %s\n"
+"Message:\n"
+"%s\n"
+"\n"
+"\n"
+"%s\n"
+"Model: %s\n"
+"ID: %s\n"
+"\n"
+"\n"
+
+#: View/Emails/html/new_friend_request_notification.ctp:7
+#: View/Emails/text/new_friend_request_notification.ctp:7
+msgid ""
+"Hi %s,\n"
+"\n"
+"\n"
+"%s wants to be friends with you on Woodekees (%s).\n"
+"\n"
+"\n"
+"Personal message:\n"
+"\n"
+"%s\n"
+"\n"
+"\n"
+"Confirm by going to Woodekees.\n"
+"\n"
+"\n"
+"Kind regards,\n"
+"\n"
+"%s\n"
+"\n"
+"Joey Woodekees\n"
+msgstr ""
+"Hi %s,\n"
+"\n"
+"\n"
+"%s wants to be friends with you on Woodekees (%s).\n"
+"\n"
+"\n"
+"Personal message:\n"
+"\n"
+"%s\n"
+"\n"
+"\n"
+"Confirm by going to Woodekees.\n"
+"\n"
+"\n"
+"Kind regards,\n"
+"\n"
+"%s\n"
+"\n"
+"Joey Woodekees\n"
+
+#: View/Emails/html/new_message_notification.ctp:9
+#: View/Emails/text/new_message_notification.ctp:9
+msgid "\"%s\""
+msgstr "\"%s\""
+
+#: View/Emails/html/new_message_notification.ctp:11
+#: View/Emails/text/new_message_notification.ctp:11
+#: View/Messages/paging.ctp:40
+msgid "you"
+msgstr "you"
+
+#: View/Emails/html/new_message_notification.ctp:18
+#: View/Emails/text/new_message_notification.ctp:18
+msgid ""
+"Hi %s,\n"
+"\n"
+"\n"
+"You've received a message from %s to %s (%s):\n"
+"\n"
+"%s\n"
+"\n"
+"%s\n"
+"\n"
+"\n"
+"Kind regards,\n"
+"\n"
+"%s\n"
+"\n"
+"Joey Woodekees\n"
+msgstr ""
+"Hi %s,\n"
+"\n"
+"\n"
+"You've received a message from %s to %s (%s):\n"
+"\n"
+"%s\n"
+"\n"
+"%s\n"
+"\n"
+"\n"
+"Kind regards,\n"
+"\n"
+"%s\n"
+"\n"
+"Joey Woodekees\n"
+
+#: View/Emails/html/new_review_notification.ctp:13
+#: View/Emails/text/new_review_notification.ctp:13
+msgid ""
+"Hi %s,\n"
+"\n"
+"\n"
+"%s has written a review about your company \"%s\" (%s).\n"
+"\n"
+"%s\n"
+"\n"
+"\n"
+"Kind regards,\n"
+"\n"
+"%s\n"
+"\n"
+"Joey Woodekees\n"
+msgstr ""
+"Hi %s,\n"
+"\n"
+"\n"
+"%s has written a review about your company \"%s\" (%s).\n"
+"\n"
+"%s\n"
+"\n"
+"\n"
+"Kind regards,\n"
+"\n"
+"%s\n"
+"\n"
+"Joey Woodekees\n"
+
+#: View/Emails/html/new_system_message_notification.ctp:5
+#: View/Emails/text/new_system_message_notification.ctp:5
+msgid ""
+"Hi %s,\n"
+"\n"
+"\n"
+"%s\n"
+"\n"
+"\n"
+"Kind regards,\n"
+"\n"
+"%s\n"
+"\n"
+"Joey Woodekees\n"
+msgstr ""
+"Hi %s,\n"
+"\n"
+"\n"
+"%s\n"
+"\n"
+"\n"
+"Kind regards,\n"
+"\n"
+"%s\n"
+"\n"
+"Joey Woodekees\n"
+
+#: View/Emails/html/password_reset_request.ctp:5
+#: View/Emails/text/password_reset_request.ctp:5
+msgid ""
+"Hi %s,\n"
+"\n"
+"\n"
+"Click this link to reset your Woodekees-password: %s\n"
+"\n"
+"\n"
+"Kind regards,\n"
+"\n"
+"%s\n"
+"\n"
+"Joey Woodekees\n"
+msgstr ""
+"Hi %s,\n"
+"\n"
+"\n"
+"Click this link to reset your Woodekees-password: %s\n"
+"\n"
+"\n"
+"Kind regards,\n"
+"\n"
+"%s\n"
+"\n"
+"Joey Woodekees\n"
+
+#: View/Emails/html/personal_account_verification.ctp:7
+#: View/Emails/text/personal_account_verification.ctp:7
+msgid ""
+"Hi %s,\n"
+"\n"
+"\n"
+"Thank you for signing up for Woodekees!\n"
+"Before you can start, you have to confirm your account.\n"
+"\n"
+"Click %s to only confirm\n"
+"\n"
+"Click %s to confirm and to directly add a company\n"
+"\n"
+"Username: %s\n"
+"\n"
+"\n"
+"Kind regards,\n"
+"\n"
+"%s\n"
+"\n"
+"Joey Woodekees\n"
+msgstr ""
+"Hi %s,\n"
+"\n"
+"\n"
+"Thank you for signing up for Woodekees!\n"
+"Before you can start, you have to confirm your account.\n"
+"\n"
+"Click %s to only confirm\n"
+"\n"
+"Click %s to confirm and to directly add a company\n"
+"\n"
+"Username: %s\n"
+"\n"
+"\n"
+"Kind regards,\n"
+"\n"
+"%s\n"
+"\n"
+"Joey Woodekees\n"
+
+#: View/Emails/html/reply_message.ctp:4 View/Messages/reply.ctp:23
+msgid "%s on behalf of %s"
+msgstr "%s on behalf of %s"
+
+#: View/Emails/html/reply_message.ctp:15 View/Emails/text/reply_message.ctp:17
+msgid ""
+"Hi %s,\n"
+"\n"
+"\n"
+"You've received a reply message from %s:\n"
+"\n"
+"%s\n"
+"\n"
+"%s\n"
+"\n"
+"\n"
+"Kind regards,\n"
+"\n"
+"%s\n"
+"\n"
+"Joey Woodekees\n"
+msgstr ""
+"Hi %s,\n"
+"\n"
+"\n"
+"You've received a reply message from %s:\n"
+"\n"
+"%s\n"
+"\n"
+"%s\n"
+"\n"
+"\n"
+"Kind regards,\n"
+"\n"
+"%s\n"
+"\n"
+"Joey Woodekees\n"
+
+#: View/Emails/text/reply_message.ctp:4
+msgid "%s (%s) on behalf of %s (%s)"
+msgstr "%s (%s) on behalf of %s (%s)"
+
+#: View/Errors/error404.ctp:2
+msgid "404 - Page Not Found"
+msgstr "404 - Page Not Found"
+
+#: View/Errors/error404.ctp:3
+msgid ""
+"You are looking for something that could not be found. Please go back to the "
+"homepage, by clicking on the Woodekees logo in the top-left corner."
+msgstr ""
+"You are looking for something that could not be found. Please go back to the "
+"homepage, by clicking on the Woodekees logo in the top-left corner."
+
+#: View/Errors/security.ctp:2
+msgid "Page not found"
+msgstr "Page not found"
+
+#: View/Errors/security.ctp:3
+msgid "Security Error"
+msgstr "Security Error"
+
+#: View/Errors/security.ctp:5
+msgid "The requested address was not found on this server."
+msgstr "The requested address was not found on this server."
+
+#: View/Faqs/add.ctp:10 View/Faqs/edit.ctp:13 View/Polls/add.ctp:11
+msgid "Question"
+msgstr "Question"
+
+#: View/Faqs/add.ctp:11 View/Faqs/edit.ctp:14
+msgid "Answer"
+msgstr "Answer"
+
+#: View/Faqs/paging.ctp:8
+msgid "No FAQs available."
+msgstr "No FAQs available."
+
+#: View/Faqs/paging.ctp:25
+msgid "Are you sure you want to delete faq \"%s\"?"
+msgstr "Are you sure you want to delete faq \"%s\"?"
+
+#: View/Faqs/paging.ctp:35
+msgid "Q: "
+msgstr "Q: "
+
+#: View/Faqs/paging.ctp:41
+msgid "A: "
+msgstr "A: "
+
+#: View/FriendsUsers/invite.ctp:3 View/Users/limited_view.ctp:16
+#: View/Users/view.ctp:63
+msgid "Invite as friend"
+msgstr "Invite as friend"
+
+#: View/Helper/CollapsibleFieldsetHelper.php:27
+msgid "Collapse"
+msgstr "Collapse"
+
+#: View/Helper/CollapsibleFieldsetHelper.php:41
+msgid "Expand"
+msgstr "Expand"
+
+#: View/Helper/DatetimeHelper.php:11
+msgid "Today, %s"
+msgstr "Today, %s"
+
+#: View/Helper/DatetimeHelper.php:13
+msgid "Yesterday, %s"
+msgstr "Yesterday, %s"
+
+#: View/Helper/DatetimeHelper.php:16
+msgid "%b %eS, %H:%M"
+msgstr "%b %eS, %H:%M"
+
+#: View/Helper/DatetimeHelper.php:18
+msgid "%b %eS %Y, %H:%M"
+msgstr "%b %eS %Y, %H:%M"
+
+#: View/Helper/DatetimeHelper.php:28
+msgid "%H:%M"
+msgstr "%H:%M"
+
+#: View/Helper/DatetimeHelper.php:36
+msgid "Today"
+msgstr "Today"
+
+#: View/Helper/DatetimeHelper.php:38
+msgid "Yesterday"
+msgstr "Yesterday"
+
+#: View/Helper/DatetimeHelper.php:41
+msgid "%b %eS"
+msgstr "%b %eS"
+
+#: View/Helper/DatetimeHelper.php:43
+msgid "%b %eS %Y"
+msgstr "%b %eS %Y"
+
+#: View/Helper/DatetimeHelper.php:63
+msgid "j/n/y"
+msgstr "j/n/y"
+
+#: View/Helper/DatetimeHelper.php:167
+msgid "on %s"
+msgstr "on %s"
+
+#: View/Helper/DatetimeHelper.php:186
+msgid "%s ago"
+msgstr "%s ago"
+
+#: View/Helper/DatetimeHelper.php:170
+msgid "more than %d year"
+msgid_plural "more than %d years"
+msgstr[0] "more than %d year"
+msgstr[1] "more than %d years"
+
+#: View/Helper/DatetimeHelper.php:172
+msgid "more than %d month"
+msgid_plural "more than %d months"
+msgstr[0] "more than %d month"
+msgstr[1] "more than %d months"
+
+#: View/Helper/DatetimeHelper.php:174
+msgid "more than %d week"
+msgid_plural "more than %d weeks"
+msgstr[0] "more than %d week"
+msgstr[1] "more than %d weeks"
+
+#: View/Helper/DatetimeHelper.php:176
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d day"
+msgstr[1] "%d days"
+
+#: View/Helper/DatetimeHelper.php:178
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d hour"
+msgstr[1] "%d hours"
+
+#: View/Helper/DatetimeHelper.php:180
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d minute"
+msgstr[1] "%d minutes"
+
+#: View/Helper/DatetimeHelper.php:182
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d second"
+msgstr[1] "%d seconds"
+
+#: View/Helper/FacebookHelper.php:15;71 View/Helper/FoursquareHelper.php:15;70
+#: View/Helper/LinkedinHelper.php:15;61 View/Helper/TwitterHelper.php:14;60
+#: View/Helper/YoutubeHelper.php:15;53
+msgid "Connect"
+msgstr "Connect"
+
+#: View/Helper/FacebookHelper.php:16;68 View/Helper/FoursquareHelper.php:16;67
+#: View/Helper/LinkedinHelper.php:16;57 View/Helper/TwitterHelper.php:15;56
+#: View/Helper/YoutubeHelper.php:16;49
+msgid "Disconnect"
+msgstr "Disconnect"
+
+#: View/Helper/FacebookHelper.php:22 View/Helper/FoursquareHelper.php:22
+msgid "Publish posts on:"
+msgstr "Publish posts on:"
+
+#: View/Helper/FacebookHelper.php:23;77
+msgid "My private wall"
+msgstr "My private wall"
+
+#: View/Helper/FacebookHelper.php:25 View/Helper/FoursquareHelper.php:25
+msgid "Refresh"
+msgstr "Refresh"
+
+#: View/Helper/FacebookHelper.php:87
+msgid "From Woodekees to Facebook"
+msgstr "From Woodekees to Facebook"
+
+#: View/Helper/FacebookHelper.php:88
+msgid "Post on Facebook when:"
+msgstr "Post on Facebook when:"
+
+#: View/Helper/FacebookHelper.php:89 View/Helper/FoursquareHelper.php:88
+#: View/Helper/LinkedinHelper.php:67 View/Helper/TwitterHelper.php:66
+msgid "I add a product"
+msgstr "I add a product"
+
+#: View/Helper/FacebookHelper.php:90 View/Helper/FoursquareHelper.php:89
+#: View/Helper/LinkedinHelper.php:68 View/Helper/TwitterHelper.php:67
+msgid "I add a service"
+msgstr "I add a service"
+
+#: View/Helper/FacebookHelper.php:91 View/Helper/FoursquareHelper.php:90
+#: View/Helper/LinkedinHelper.php:69 View/Helper/TwitterHelper.php:68
+msgid "I add a news item"
+msgstr "I add a news item"
+
+#: View/Helper/FacebookHelper.php:92 View/Helper/FoursquareHelper.php:91
+#: View/Helper/LinkedinHelper.php:70 View/Helper/TwitterHelper.php:69
+msgid "I add a poll"
+msgstr "I add a poll"
+
+#: View/Helper/FacebookHelper.php:93 View/Helper/FoursquareHelper.php:92
+#: View/Helper/LinkedinHelper.php:71 View/Helper/TwitterHelper.php:70
+msgid "I add a portfolio item"
+msgstr "I add a portfolio item"
+
+#: View/Helper/FacebookHelper.php:94 View/Helper/FoursquareHelper.php:93
+#: View/Helper/LinkedinHelper.php:72 View/Helper/TwitterHelper.php:71
+msgid "I accept a review"
+msgstr "I accept a review"
+
+#: View/Helper/FacebookHelper.php:95
+msgid "From Facebook to Woodekees"
+msgstr "From Facebook to Woodekees"
+
+#: View/Helper/FacebookHelper.php:96 View/Helper/FoursquareHelper.php:95
+#: View/Helper/LinkedinHelper.php:74 View/Helper/TwitterHelper.php:73
+#: View/Helper/YoutubeHelper.php:60
+msgid "Show posts in the monitor"
+msgstr "Show posts in the monitor"
+
+#: View/Helper/FacebookHelper.php:97 View/Helper/FoursquareHelper.php:96
+#: View/Helper/LinkedinHelper.php:75 View/Helper/TwitterHelper.php:74
+#: View/Helper/YoutubeHelper.php:61
+msgid "Show social network icon in the page footer"
+msgstr "Show social network icon in the page footer"
+
+#: View/Helper/FoursquareHelper.php:86
+msgid "From Woodekees to Foursquare"
+msgstr "From Woodekees to Foursquare"
+
+#: View/Helper/FoursquareHelper.php:87
+msgid "Post on Foursquare when:"
+msgstr "Post on Foursquare when:"
+
+#: View/Helper/FoursquareHelper.php:94
+msgid "From Foursquare to Woodekees"
+msgstr "From Foursquare to Woodekees"
+
+#: View/Helper/GoogleMapV3Helper.php:416
+msgid "Map cannot be displayed!"
+msgstr "Map cannot be displayed!"
+
+#: View/Helper/GoogleMapV3Helper.php:561
+msgid "Enter your address"
+msgstr "Enter your address"
+
+#: View/Helper/GoogleMapV3Helper.php:562
+msgid "Get directions"
+msgstr "Get directions"
+
+#: View/Helper/ImageSelectHelper.php:45
+msgid "Empty"
+msgstr "Empty"
+
+#: View/Helper/ImageSelectHelper.php:54
+msgid "Upload limit exceeded."
+msgstr "Upload limit exceeded."
+
+#: View/Helper/ImageSelectHelper.php:57
+msgid "Add image"
+msgstr "Add image"
+
+#: View/Helper/ImageSelectHelper.php:58
+msgid "(Max.: 5 MB, Extensions: .jpg, .png, .gif)"
+msgstr "(Max.: 5 MB, Extensions: .jpg, .png, .gif)"
+
+#: View/Helper/ImageSelectHelper.php:97
+msgid "Image files"
+msgstr "Image files"
+
+#: View/Helper/LinkedinHelper.php:65
+msgid "From Woodekees to LinkedIn"
+msgstr "From Woodekees to LinkedIn"
+
+#: View/Helper/LinkedinHelper.php:66
+msgid "Post on Linkedin when:"
+msgstr "Post on Linkedin when:"
+
+#: View/Helper/LinkedinHelper.php:73
+msgid "From LinkedIn to Woodekees"
+msgstr "From LinkedIn to Woodekees"
+
+#: View/Helper/PriceHelper.php:8;14
+msgid "DECIMAL_POINT"
+msgstr "."
+
+#: View/Helper/PriceHelper.php:15
+msgid "THOUSANDS_SEPARATOR"
+msgstr ","
+
+#: View/Helper/RabidRatingsHelper.php:66
+msgid "%s stars of %s (%s votes)"
+msgstr "%s stars of %s (%s votes)"
+
+#: View/Helper/RabidRatingsHelper.php:97
+msgid "Rating: "
+msgstr "Rating: "
+
+#: View/Helper/RabidRatingsHelper.php:94
+msgid "%s vote"
+msgid_plural "%s votes"
+msgstr[0] "%s vote"
+msgstr[1] "%s votes"
+
+#: View/Helper/TwitterHelper.php:64
+msgid "From Woodekees to Twitter"
+msgstr "From Woodekees to Twitter"
+
+#: View/Helper/TwitterHelper.php:65
+msgid "Post on Twitter when:"
+msgstr "Post on Twitter when:"
+
+#: View/Helper/TwitterHelper.php:72
+msgid "From Twitter to Woodekees"
+msgstr "From Twitter to Woodekees"
+
+#: View/Helper/YoutubeHelper.php:57
+msgid "From YouTube to Woodekees"
+msgstr "From YouTube to Woodekees"
+
+#: View/Helper/YoutubeHelper.php:58 View/Helper/YoutubeHelper.php:59
+#: View/Images/editable_paging.ctp:50 View/MediaWidgets/editable_paging.ctp:44
+msgid "Move to first"
+msgstr "Move to first"
+
+#: View/Images/editable_paging.ctp:51 View/MediaWidgets/editable_paging.ctp:45
+msgid "Move up"
+msgstr "Move up"
+
+#: View/Images/editable_paging.ctp:54 View/MediaWidgets/editable_paging.ctp:48
+msgid "Move down"
+msgstr "Move down"
+
+#: View/Images/editable_paging.ctp:55 View/MediaWidgets/editable_paging.ctp:49
+msgid "Move to last"
+msgstr "Move to last"
+
+#: View/Images/editable_paging.ctp:80
+msgid "Selected images"
+msgstr "Selected images"
+
+#: View/Images/paging.ctp:62;77
+msgid "Are you sure you want to delete this image?"
+msgstr "Are you sure you want to delete this image?"
+
+#: View/Layouts/clean.ctp:6
+msgid "Woodekees:"
+msgstr "Woodekees:"
+
+#: View/LinksPortfolioItems/add.ctp:2 View/LinksProducts/add.ctp:2
+#: View/LinksServices/add.ctp:2
+msgid "Link"
+msgstr "Link"
+
+#: View/MediaWidgetTypes/admin_add.ctp:2
+#: View/MediaWidgetTypes/admin_edit.ctp:2
+#: View/MediaWidgetTypes/admin_index.ctp:2;10
+msgid "Video types"
+msgstr "Video types"
+
+#: View/MediaWidgetTypes/admin_add.ctp:15
+#: View/MediaWidgetTypes/admin_edit.ctp:17
+#: View/MediaWidgetTypes/admin_index.ctp:15
+msgid "Code"
+msgstr "Code"
+
+#: View/MediaWidgets/editable_paging.ctp:74
+msgid "Selected videos"
+msgstr "Selected videos"
+
+#: View/MediaWidgets/paging.ctp:47
+msgid "Are you sure you want to delete this video?"
+msgstr "Are you sure you want to delete this video?"
+
+#: View/MediaWidgetsPortfolioItems/add_from_desktop.ctp:13
+#: View/MediaWidgetsProducts/add_from_desktop.ctp:10
+#: View/MediaWidgetsServices/add_from_desktop.ctp:10
+msgid "Video url"
+msgstr "Video url"
+
+#: View/MediaWidgetsPortfolioItems/add_from_desktop.ctp:14
+#: View/MediaWidgetsProducts/add_from_desktop.ctp:11
+#: View/MediaWidgetsServices/add_from_desktop.ctp:11
+msgid "Only YouTube allowed"
+msgstr "Only YouTube allowed"
+
+#: View/MediaWidgetsPortfolioItems/add_from_woodekees.ctp:8
+#: View/MediaWidgetsProducts/add_from_woodekees.ctp:8
+#: View/MediaWidgetsServices/add_from_woodekees.ctp:8
+msgid "Unlinked videos"
+msgstr "Unlinked videos"
+
+#: View/MediaWidgetsPortfolioItems/overview.ctp:8
+#: View/MediaWidgetsProducts/overview.ctp:8
+#: View/MediaWidgetsServices/overview.ctp:8
+msgid "Linked videos"
+msgstr "Linked videos"
+
+#: View/Messages/paging.ctp:8
+msgid "No messages found."
+msgstr "No messages found."
+
+#: View/Messages/paging.ctp:35
+msgid "%s - %s (%s)"
+msgstr "%s - %s (%s)"
+
+#: View/Messages/paging.ctp:44
+msgid "From:"
+msgstr "From:"
+
+#: View/Messages/paging.ctp:46
+msgid "To:"
+msgstr "To:"
+
+#: View/Messages/paging.ctp:48
+msgid "Subject:"
+msgstr "Subject:"
+
+#: View/Messages/paging.ctp:53 View/Messages/reply.ctp:6
+msgid "Reply"
+msgstr "Reply"
+
+#: View/Messages/paging.ctp:56 View/Notifications/paging.ctp:39;74;154;190
+msgid "Mark as read"
+msgstr "Mark as read"
+
+#: View/Messages/reply.ctp:18 View/OpeningHours/add.ctp:10
+#: View/OpeningHours/edit.ctp:13
+msgid "From"
+msgstr "From"
+
+#: View/Messages/reply.ctp:32
+msgid "To"
+msgstr "To"
+
+#: View/NewsItems/add.ctp:10 View/NewsItems/edit.ctp:13
+msgid "Title"
+msgstr "Title"
+
+#: View/NewsItems/add.ctp:11 View/NewsItems/edit.ctp:14
+#: View/SystemMessages/admin_add.ctp:14 View/SystemMessages/admin_index.ctp:15
+msgid "Contents"
+msgstr "Contents"
+
+#: View/NewsItems/add.ctp:15 View/NewsItems/edit.ctp:18
+#: View/Notifications/paging.ctp:104 View/Polls/add.ctp:27;77
+#: View/PortfolioItems/add.ctp:24 View/Products/add.ctp:31
+#: View/Services/add.ctp:29
+msgid "Publish"
+msgstr "Publish"
+
+#: View/NewsItems/add.ctp:24 View/NewsItems/edit.ctp:27
+msgid ""
+"To publish new news items automatically on Facebook wall, first connect your "
+"Facebook account to your company on Woodekees."
+msgstr ""
+"To publish new news items automatically on Facebook wall, first connect your "
+"Facebook account to your company on Woodekees."
+
+#: View/NewsItems/add.ctp:35 View/NewsItems/edit.ctp:38
+msgid ""
+"To publish new news items automatically on Twitter, first connect your "
+"Twitter account to your company on Woodekees."
+msgstr ""
+"To publish new news items automatically on Twitter, first connect your "
+"Twitter account to your company on Woodekees."
+
+#: View/NewsItems/add.ctp:46 View/NewsItems/edit.ctp:49
+msgid ""
+"To publish new news items automatically on LinkedIn, first connect your "
+"LinkedIn account to your company on Woodekees."
+msgstr ""
+"To publish new news items automatically on LinkedIn, first connect your "
+"LinkedIn account to your company on Woodekees."
+
+#: View/NewsItems/add.ctp:57 View/NewsItems/edit.ctp:60
+msgid ""
+"To publish new news items automatically on Foursquare, first connect your "
+"Foursquare account to your company on Woodekees."
+msgstr ""
+"To publish new news items automatically on Foursquare, first connect your "
+"Foursquare account to your company on Woodekees."
+
+#: View/NewsItems/paging.ctp:8
+msgid "No news items found."
+msgstr "No news items found."
+
+#: View/NewsItems/paging.ctp:44
+msgid "Are you sure you want to delete news item \"%s\"?"
+msgstr "Are you sure you want to delete news item \"%s\"?"
+
+#: View/Notifications/paging.ctp:8
+msgid "No notifications found."
+msgstr "No notifications found."
+
+#: View/Notifications/paging.ctp:35
+msgid "wants to become friends"
+msgstr "wants to become friends"
+
+#: View/Notifications/paging.ctp:42;157
+msgid "Reject"
+msgstr "Reject"
+
+#: View/Notifications/paging.ctp:44;159
+msgid "Accept"
+msgstr "Accept"
+
+#: View/Notifications/paging.ctp:68
+msgid "has accepted your friend request"
+msgstr "has accepted your friend request"
+
+#: View/Notifications/paging.ctp:99
+msgid "has written a review about your company \"%s\"."
+msgstr "has written a review about your company \"%s\"."
+
+#: View/Notifications/paging.ctp:113
+msgid ""
+"To publish accepted reviews automatically on Facebook wall, first connect "
+"your Facebook account to your company on Woodekees."
+msgstr ""
+"To publish accepted reviews automatically on Facebook wall, first connect "
+"your Facebook account to your company on Woodekees."
+
+#: View/Notifications/paging.ctp:124
+msgid ""
+"To publish accepted reviews automatically on Twitter, first connect your "
+"Twitter account to your company on Woodekees."
+msgstr ""
+"To publish accepted reviews automatically on Twitter, first connect your "
+"Twitter account to your company on Woodekees."
+
+#: View/Notifications/paging.ctp:135
+msgid ""
+"To publish accepted reviews automatically on LinkedIn, first connect your "
+"LinkedIn account to your company on Woodekees."
+msgstr ""
+"To publish accepted reviews automatically on LinkedIn, first connect your "
+"LinkedIn account to your company on Woodekees."
+
+#: View/Notifications/paging.ctp:146
+msgid ""
+"To publish accepted reviews automatically on Foursquare, first connect your "
+"Foursquare account to your company on Woodekees."
+msgstr ""
+"To publish accepted reviews automatically on Foursquare, first connect your "
+"Foursquare account to your company on Woodekees."
+
+#: View/Notifications/paging.ctp:181
+msgid "Administrator"
+msgstr "Administrator"
+
+#: View/Notifications/paging.ctp:184
+msgid "System message \"%s\""
+msgstr "System message \"%s\""
+
+#: View/OpeningHours/add.ctp:10;11 View/OpeningHours/edit.ctp:13;14
+msgid "%TIME_FORMAT%"
+msgstr "12"
+
+#: View/OpeningHours/add.ctp:11 View/OpeningHours/edit.ctp:14
+msgid "Until"
+msgstr "until"
+
+#: View/OpeningHours/add.ctp:12 View/OpeningHours/edit.ctp:15
+msgid "Day"
+msgstr "Day"
+
+#: View/Pages/home.ctp:62
+msgid "Reach your audience"
+msgstr "Reach your audience"
+
+#: View/Pages/home.ctp:63
+msgid ""
+"Share your company, products and services through the most popular social "
+"media channels such as YouTube, LinkedIn, Facebook and Twitter. Know what "
+"people leave at your company's page and react by a single mouse-click."
+msgstr ""
+"Share your company, products and services through the most popular social "
+"media channels such as YouTube, LinkedIn, Facebook and Twitter. Know what "
+"people leave at your company's page and react by a single mouse-click."
+
+#: View/Pages/home.ctp:64
+msgid "Improve your social media strategy, use Woodekees."
+msgstr "Improve your social media strategy, use Woodekees."
+
+#: View/Pages/home.ctp:68;69;70
+msgid "Comic"
+msgstr "Comic"
+
+#: View/Pages/home.ctp:124
+msgid "How Woodekees works"
+msgstr "How Woodekees works"
+
+#: View/Pages/home.ctp:125
+msgid ""
+"Woodekees connects with your social media pages. This enables you to "
+"directly post on all of them at the same time. Also, Woodekees filters all "
+"incoming messages for you. Woodekees calls this 'the dialogue'. The dialogue "
+"will take your social media strategy to the next level. Use it, it's free!"
+msgstr ""
+"Woodekees connects with your social media pages. This enables you to "
+"directly post on all of them at the same time. Also, Woodekees filters all "
+"incoming messages for you. Woodekees calls this 'the dialogue'. The dialogue "
+"will take your social media strategy to the next level. Use it, it's free!"
+
+#: View/Pages/home.ctp:129
+msgid "Get closer to your costumers"
+msgstr "Get closer to your costumers"
+
+#: View/Pages/home.ctp:130
+msgid ""
+"Woodekees enables you to react to different platform posts by a single "
+"click. Learn from your customers and start a dialogue."
+msgstr ""
+"Woodekees enables you to react to different platform posts by a single "
+"click. Learn from your customers and start a dialogue."
+
+#: View/Pages/home.ctp:134
+msgid "Smart filtering"
+msgstr "Smart filtering"
+
+#: View/Pages/home.ctp:135
+msgid ""
+"Woodekees smart filtering will only show relevant client interaction. "
+"Scrolling through unimportant friend updates is history."
+msgstr ""
+"Woodekees smart filtering will only show relevant client interaction. "
+"Scrolling through unimportant friend updates is history."
+
+#: View/Pages/home.ctp:139
+msgid "Not a bussiness owner?"
+msgstr "Not a bussiness owner?"
+
+#: View/Pages/home.ctp:140
+msgid ""
+"Create a personal account to ask direct questions and give personal "
+"feedback. Become part of our great community."
+msgstr ""
+"Create a personal account to ask direct questions and give personal "
+"feedback. Become part of our great community."
+
+#: View/PollAnswersPolls/answer.ctp:7
+msgid "No poll available."
+msgstr "No poll available."
+
+#: View/PollAnswersPolls/finish.ctp:6
+msgid "Results"
+msgstr "Results"
+
+#: View/PollAnswersPolls/finish.ctp:15
+msgid "Total"
+msgstr "Total"
+
+#: View/Polls/add.ctp:17;19;21
+msgid "Answer %s"
+msgstr "Answer %s"
+
+#: View/Polls/add.ctp:36
+msgid ""
+"To publish new polls automatically on Facebook wall, first connect your "
+"Facebook account to your company on Woodekees."
+msgstr ""
+"To publish new polls automatically on Facebook wall, first connect your "
+"Facebook account to your company on Woodekees."
+
+#: View/Polls/add.ctp:47
+msgid ""
+"To publish new polls automatically on Twitter, first connect your Twitter "
+"account to your company on Woodekees."
+msgstr ""
+"To publish new polls automatically on Twitter, first connect your Twitter "
+"account to your company on Woodekees."
+
+#: View/Polls/add.ctp:58
+msgid ""
+"To publish new polls automatically on LinkedIn, first connect your LinkedIn "
+"account to your company on Woodekees."
+msgstr ""
+"To publish new polls automatically on LinkedIn, first connect your LinkedIn "
+"account to your company on Woodekees."
+
+#: View/Polls/add.ctp:69
+msgid ""
+"To publish new polls automatically on Foursquare, first connect your "
+"Foursquare account to your company on Woodekees."
+msgstr ""
+"To publish new polls automatically on Foursquare, first connect your "
+"Foursquare account to your company on Woodekees."
+
+#: View/PortfolioItemCategories/add.ctp:2
+msgid "Add portfolio item category"
+msgstr "Add portfolio item category"
+
+#: View/PortfolioItems/add.ctp:9 View/PortfolioItems/edit.ctp:11
+#: View/Products/add.ctp:9 View/Products/edit.ctp:11 View/Services/add.ctp:9
+#: View/Services/edit.ctp:11
+msgid "Main image"
+msgstr "Main image"
+
+#: View/PortfolioItems/add.ctp:10 View/PortfolioItems/edit.ctp:12
+#: View/Products/add.ctp:10 View/Products/edit.ctp:12 View/Services/add.ctp:10
+#: View/Services/edit.ctp:12
+msgid "Image (main)"
+msgstr "Image (main)"
+
+#: View/PortfolioItems/add.ctp:33
+msgid ""
+"To publish new portfolio items automatically on Facebook wall, first connect "
+"your Facebook account to your company on Woodekees."
+msgstr ""
+"To publish new portfolio items automatically on Facebook wall, first connect "
+"your Facebook account to your company on Woodekees."
+
+#: View/PortfolioItems/add.ctp:44
+msgid ""
+"To publish new portfolio items automatically on Twitter, first connect your "
+"Twitter account to your company on Woodekees."
+msgstr ""
+"To publish new portfolio items automatically on Twitter, first connect your "
+"Twitter account to your company on Woodekees."
+
+#: View/PortfolioItems/add.ctp:55
+msgid ""
+"To publish new portfolio items automatically on LinkedIn, first connect your "
+"LinkedIn account to your company on Woodekees."
+msgstr ""
+"To publish new portfolio items automatically on LinkedIn, first connect your "
+"LinkedIn account to your company on Woodekees."
+
+#: View/PortfolioItems/add.ctp:66
+msgid ""
+"To publish new portfolio items automatically on Foursquare, first connect "
+"your Foursquare account to your company on Woodekees."
+msgstr ""
+"To publish new portfolio items automatically on Foursquare, first connect "
+"your Foursquare account to your company on Woodekees."
+
+#: View/PortfolioItems/edit_links.ctp:18;20;22
+#: View/Products/edit_links.ctp:18;20;22;37;39;41
+#: View/Services/edit_links.ctp:18;20;22;37;39;41
+msgid "Url %s"
+msgstr "Url %s"
+
+#: View/PortfolioItems/other_paging.ctp:11 View/PortfolioItems/paging.ctp:11
+msgid "No portfolio items found."
+msgstr "No portfolio items found."
+
+#: View/PortfolioItems/paging.ctp:31
+msgid "Are you sure you want to delete portfolio item \"%s\"?"
+msgstr "Are you sure you want to delete portfolio item \"%s\"?"
+
+#: View/PortfolioItems/view.ctp:4 View/Products/view.ctp:4
+#: View/Services/view.ctp:4 View/Users/welcome.ctp:31;41;51;61;71;86;97
+msgid "%s of %s"
+msgstr "%s of %s"
+
+#: View/PortfolioItems/view.ctp:54 View/Products/view.ctp:52
+#: View/Services/view.ctp:54 View/Users/view.ctp:47
+msgid "Edit image"
+msgstr "Edit image"
+
+#: View/PortfolioItems/view.ctp:117 View/Products/view.ctp:183
+#: View/Services/view.ctp:158 View/Users/view.ctp:76
+msgid "Created"
+msgstr "Created"
+
+#: View/Posts/index.ctp:63
+msgid "Monitor"
+msgstr "Monitor"
+
+#: View/Posts/index.ctp:108
+msgid "No posts found."
+msgstr "No posts found."
+
+#: View/Posts/index.ctp:112
+msgid ""
+"There are no posts found. Connect your social media so Woodekees can make an "
+"inventory of your posts."
+msgstr ""
+"There are no posts found. Connect your social media so Woodekees can make an "
+"inventory of your posts."
+
+#: View/Posts/index.ctp:165 View/Posts/index_ajax.ctp:45
+msgid "Fetch more posts"
+msgstr "Fetch more posts"
+
+#: View/Posts/index.ctp:174
+msgid "Please wait posts are fetched."
+msgstr "Please wait posts are fetched."
+
+#: View/ProductCategories/add.ctp:2
+msgid "Add product category"
+msgstr "Add product category"
+
+#: View/Products/add.ctp:20 View/Products/edit.ctp:22
+#: View/Products/paging.ctp:67 View/Products/view.ctp:158
+msgid "Brand"
+msgstr "Brand"
+
+#: View/Products/add.ctp:21 View/Products/edit.ctp:23
+#: View/Products/paging.ctp:85 View/Products/view.ctp:176
+#: View/Services/add.ctp:20 View/Services/edit.ctp:22
+#: View/Services/paging.ctp:67 View/Services/view.ctp:145
+msgid "Price"
+msgstr "Price"
+
+#: View/Products/add.ctp:22 View/Products/edit.ctp:24 View/Services/add.ctp:21
+#: View/Services/edit.ctp:23
+msgid "Currency"
+msgstr "Currency"
+
+#: View/Products/add.ctp:23 View/Products/edit.ctp:25 View/Services/add.ctp:22
+#: View/Services/edit.ctp:24
+msgid "Unit"
+msgstr "Unit"
+
+#: View/Products/add.ctp:24 View/Products/edit.ctp:26 View/Services/add.ctp:23
+#: View/Services/edit.ctp:25
+msgid "VAT"
+msgstr "VAT"
+
+#: View/Products/add.ctp:25 View/Products/edit.ctp:27
+#: View/Products/paging.ctp:73 View/Products/view.ctp:164
+msgid "Minimal quantity"
+msgstr "Minimal quantity"
+
+#: View/Products/add.ctp:26 View/Products/edit.ctp:28
+#: View/Products/paging.ctp:79 View/Products/view.ctp:170
+msgid "Product code"
+msgstr "Product code"
+
+#: View/Products/add.ctp:40
+msgid ""
+"To publish new products automatically on Facebook wall, first connect your "
+"Facebook account to your company on Woodekees."
+msgstr ""
+"To publish new products automatically on Facebook wall, first connect your "
+"Facebook account to your company on Woodekees."
+
+#: View/Products/add.ctp:51
+msgid ""
+"To publish new products automatically on Twitter, first connect your Twitter "
+"account to your company on Woodekees."
+msgstr ""
+"To publish new products automatically on Twitter, first connect your Twitter "
+"account to your company on Woodekees."
+
+#: View/Products/add.ctp:62
+msgid ""
+"To publish new products automatically on LinkedIn, first connect your "
+"LinkedIn account to your company on Woodekees."
+msgstr ""
+"To publish new products automatically on LinkedIn, first connect your "
+"LinkedIn account to your company on Woodekees."
+
+#: View/Products/add.ctp:73
+msgid ""
+"To publish new products automatically on Foursquare, first connect your "
+"Foursquare account to your company on Woodekees."
+msgstr ""
+"To publish new products automatically on Foursquare, first connect your "
+"Foursquare account to your company on Woodekees."
+
+#: View/Products/edit_links.ctp:10 View/Services/edit_links.ctp:10
+msgid "Advertisement Links"
+msgstr "Advertisement Links"
+
+#: View/Products/other_paging.ctp:11 View/Products/paging.ctp:11
+msgid "No products found."
+msgstr "No products found."
+
+#: View/Products/paging.ctp:28
+msgid "Are you sure you want to delete product \"%s\"?"
+msgstr "Are you sure you want to delete product \"%s\"?"
+
+#: View/Products/paging.ctp:94 View/Products/view.ctp:104
+#: View/Services/paging.ctp:82 View/Services/view.ctp:108
+msgid "Buy it now"
+msgstr "Buy it now"
+
+#: View/Products/paging.ctp:101 View/Products/view.ctp:111
+#: View/Services/paging.ctp:89 View/Services/view.ctp:115
+msgid "Click here"
+msgstr "Click here"
+
+#: View/ProfileAccessibilities/admin_add.ctp:2
+#: View/ProfileAccessibilities/admin_edit.ctp:2
+#: View/ProfileAccessibilities/admin_index.ctp:2;10
+msgid "Profile accessibilities"
+msgstr "Profile accessibilities"
+
+#: View/ProfileAccessibilities/admin_index.ctp:29
+msgid "Previous"
+msgstr "Previous"
+
+#: View/Reviews/confirm_write.ctp:2
+msgid "Confirm review"
+msgstr "Confirm review"
+
+#: View/Reviews/confirm_write.ctp:15
+msgid "Review"
+msgstr "Review"
+
+#: View/Reviews/paging.ctp:8
+msgid "No reviews found."
+msgstr "No reviews found."
+
+#: View/Reviews/paging.ctp:43
+msgid "Are you sure you want to delete this review?"
+msgstr "Are you sure you want to delete this review?"
+
+#: View/Reviews/paging.ctp:94
+msgid "%s @ %s"
+msgstr "%s @ %s"
+
+#: View/Reviews/write.ctp:44
+msgid "Very poor"
+msgstr "Very poor"
+
+#: View/Reviews/write.ctp:45
+msgid "Poor"
+msgstr "Poor"
+
+#: View/Reviews/write.ctp:46
+msgid "Not that bad"
+msgstr "Not that bad"
+
+#: View/Reviews/write.ctp:47
+msgid "Fair"
+msgstr "Fair"
+
+#: View/Reviews/write.ctp:48
+msgid "Average"
+msgstr "Average"
+
+#: View/Reviews/write.ctp:49
+msgid "Almost good"
+msgstr "Almost good"
+
+#: View/Reviews/write.ctp:50
+msgid "Good"
+msgstr "Good"
+
+#: View/Reviews/write.ctp:51
+msgid "Very good"
+msgstr "Very good"
+
+#: View/Reviews/write.ctp:52
+msgid "Excellent"
+msgstr "Excellent"
+
+#: View/Reviews/write.ctp:53
+msgid "Perfect"
+msgstr "Perfect"
+
+#: View/Search/index.ctp:4
+msgid "..."
+msgstr "..."
+
+#: View/Search/index.ctp:6
+msgid "Search for %s"
+msgstr "Search for %s"
+
+#: View/Search/index.ctp:38;91
+msgid "Users"
+msgstr "Users"
+
+#: View/Search/index.ctp:48;81
+msgid "Search"
+msgstr "Search"
+
+#: View/Search/index.ctp:52
+msgid "Search for"
+msgstr "Search for"
+
+#: View/Search/index.ctp:77
+msgid "All categories"
+msgstr "All categories"
+
+#: View/ServiceCategories/add.ctp:2
+msgid "Add service category"
+msgstr "Add service category"
+
+#: View/Services/add.ctp:24 View/Services/edit.ctp:26
+#: View/Services/paging.ctp:73 View/Services/view.ctp:151
+msgid "Time to wait"
+msgstr "Time to wait"
+
+#: View/Services/add.ctp:24 View/Services/edit.ctp:26
+msgid "Minutes"
+msgstr "Minutes"
+
+#: View/Services/add.ctp:38
+msgid ""
+"To publish new services automatically on Facebook wall, first connect your "
+"Facebook account to your company on Woodekees."
+msgstr ""
+"To publish new services automatically on Facebook wall, first connect your "
+"Facebook account to your company on Woodekees."
+
+#: View/Services/add.ctp:49
+msgid ""
+"To publish new servies automatically on Twitter, first connect your Twitter "
+"account to your company on Woodekees."
+msgstr ""
+"To publish new servies automatically on Twitter, first connect your Twitter "
+"account to your company on Woodekees."
+
+#: View/Services/add.ctp:60
+msgid ""
+"To publish new servies automatically on LinkedIn, first connect your "
+"LinkedIn account to your company on Woodekees."
+msgstr ""
+"To publish new servies automatically on LinkedIn, first connect your "
+"LinkedIn account to your company on Woodekees."
+
+#: View/Services/add.ctp:71
+msgid ""
+"To publish new servies automatically on Foursquare, first connect your "
+"Foursquare account to your company on Woodekees."
+msgstr ""
+"To publish new servies automatically on Foursquare, first connect your "
+"Foursquare account to your company on Woodekees."
+
+#: View/Services/other_paging.ctp:11 View/Services/paging.ctp:11
+msgid "No services found."
+msgstr "No services found."
+
+#: View/Services/paging.ctp:28
+msgid "Are you sure you want to delete service \"%s\"?"
+msgstr "Are you sure you want to delete service \"%s\"?"
+
+#: View/Services/paging.ctp:74 View/Services/view.ctp:152
+msgid "%s minutes"
+msgstr "%s minutes"
+
+#: View/SystemMessages/admin_index.ctp:6
+msgid "New"
+msgstr "New"
+
+#: View/SystemMessages/admin_index.ctp:10
+msgid "Sent messages"
+msgstr "Sent messages"
+
+#: View/SystemMessages/admin_index.ctp:16
+msgid "Sent"
+msgstr "Sent"
+
+#: View/Units/admin_add.ctp:10
+msgid "Add unit"
+msgstr "Add unit"
+
+#: View/Units/admin_edit.ctp:11
+msgid "Edit unit"
+msgstr "Edit unit"
+
+#: View/Users/admin_index.ctp:8
+msgid "Username"
+msgstr "Username"
+
+#: View/Users/admin_index.ctp:10
+msgid "Total number of companies"
+msgstr "Total number of companies"
+
+#: View/Users/admin_index.ctp:13
+msgid "Total number of products"
+msgstr "Total number of products"
+
+#: View/Users/admin_index.ctp:16
+msgid "Total number of services"
+msgstr "Total number of services"
+
+#: View/Users/admin_index.ctp:19
+msgid "Total number of portfolio items"
+msgstr "Total number of portfolio items"
+
+#: View/Users/admin_index.ctp:20 View/Users/welcome.ctp:63
+msgid "Portfolio items"
+msgstr "Portfolio items"
+
+#: View/Users/admin_index.ctp:22
+msgid "Total number of images"
+msgstr "Total number of images"
+
+#: View/Users/admin_index.ctp:25
+msgid "Total size of images"
+msgstr "Total size of images"
+
+#: View/Users/admin_index.ctp:28
+msgid "Last login"
+msgstr "Last login"
+
+#: View/Users/admin_index.ctp:61
+msgid "Are you sure you want to delete user \"%s\"?"
+msgstr "Are you sure you want to delete user \"%s\"?"
+
+#: View/Users/admin_index.ctp:70
+msgid "Are you sure you want to deactivate user \"%s\"?"
+msgstr "Are you sure you want to deactivate user \"%s\"?"
+
+#: View/Users/admin_index.ctp:74
+msgid "Activate"
+msgstr "Activate"
+
+#: View/Users/admin_index.ctp:79
+msgid "Are you sure you want to activate user \"%s\"?"
+msgstr "Are you sure you want to activate user \"%s\"?"
+
+#: View/Users/change_password.ctp:10
+msgid "Current password"
+msgstr "Current password"
+
+#: View/Users/change_password.ctp:11
+msgid "New password"
+msgstr "New password"
+
+#: View/Users/change_password.ctp:12
+msgid "Confirm new password"
+msgstr "Confirm new password"
+
+#: View/Users/change_privacy_settings.ctp:6
+msgid "Change privacy settings"
+msgstr "Change privacy settings"
+
+#: View/Users/change_privacy_settings.ctp:16 View/Users/edit_privacy.ctp:13
+msgid "My business profiles"
+msgstr "My business profiles"
+
+#: View/Users/change_privacy_settings.ctp:16 View/Users/edit_privacy.ctp:13
+msgid "Everybody"
+msgstr "Everybody"
+
+#: View/Users/change_privacy_settings.ctp:17 View/Users/edit_privacy.ctp:14
+msgid "Personal profile"
+msgstr "Personal profile"
+
+#: View/Users/change_privacy_settings.ctp:25
+#: View/Users/edit_notifications.ctp:13
+msgid "Send friend requests to email"
+msgstr "Send friend requests to email"
+
+#: View/Users/change_privacy_settings.ctp:26
+#: View/Users/edit_notifications.ctp:14
+msgid "Send reviews to email"
+msgstr "Send reviews to email"
+
+#: View/Users/change_privacy_settings.ctp:27
+#: View/Users/edit_notifications.ctp:15
+msgid "Send system messages to email"
+msgstr "Send system messages to email"
+
+#: View/Users/change_privacy_settings.ctp:28
+#: View/Users/edit_notifications.ctp:16
+msgid "Send messages to email"
+msgstr "Send messages to email"
+
+#: View/Users/change_privacy_settings.ctp:29
+#: View/Users/edit_notifications.ctp:17
+msgid "Send accepted friend request to email"
+msgstr "Send accepted friend request to email"
+
+#: View/Users/edit_general.ctp:10
+msgid "Person"
+msgstr "Person"
+
+#: View/Users/edit_general.ctp:21
+msgid "YMD"
+msgstr "YMD"
+
+#: View/Users/edit_general.ctp:22 View/Users/view.ctp:150
+msgid "Date of birth"
+msgstr "Date of birth"
+
+#: View/Users/edit_general.ctp:29 View/Users/view.ctp:156
+msgid "Relation"
+msgstr "Relation"
+
+#: View/Users/limited_view.ctp:11 View/Users/view.ctp:58
+msgid "Remove friend"
+msgstr "Remove friend"
+
+#: View/Users/limited_view.ctp:33
+msgid "Limited profile %s"
+msgstr "Limited profile %s"
+
+#: View/Users/paging.ctp:11 View/Users/search_paging.ctp:11
+msgid "No friends available."
+msgstr "No friends available."
+
+#: View/Users/paging.ctp:13 View/Users/search_paging.ctp:13
+msgid "No users found."
+msgstr "No users found."
+
+#: View/Users/register.ctp:5
+msgid "Register - Personal information"
+msgstr "Register - Personal information"
+
+#: View/Users/register.ctp:6 View/Users/register_company.ctp:26
+msgid ""
+"Enter details of the person who will manage this account (not the corporate "
+"form, this comes later)."
+msgstr ""
+"Enter details of the person who will manage this account (not the corporate "
+"form, this comes later)."
+
+#: View/Users/register.ctp:9
+msgid "Personal details"
+msgstr "Personal details"
+
+#: View/Users/register.ctp:21 View/Users/register_company.ctp:40
+msgid "I accept the %s"
+msgstr "I accept the %s"
+
+#: View/Users/register.ctp:21 View/Users/register_company.ctp:40
+msgid "general conditions"
+msgstr "general conditions"
+
+#: View/Users/register.ctp:26
+msgid "Register"
+msgstr "Sign up"
+
+#: View/Users/register_company.ctp:46 View/Users/register_company_step1.ctp:21
+msgid "Next >"
+msgstr "Next >"
+
+#: View/Users/reset_password.ctp:3
+msgid "Reset password"
+msgstr "Reset password"
+
+#: View/Users/reset_password.ctp:10
+msgid "Confirm password"
+msgstr "Confirm password"
+
+#: View/Users/view.ctp:40
+msgid "Are you sure you want to deactive user \"%s\"?"
+msgstr "Are you sure you want to deactive user \"%s\"?"
+
+#: View/Users/view.ctp:103
+msgid "Personal profile %s"
+msgstr "Personal profile %s"
+
+#: View/Users/view.ctp:174
+msgid "Profile accessibility"
+msgstr "Profile accessibility"
+
+#: View/Users/view.ctp:196
+msgid "Favorite companies"
+msgstr "Favorite companies"
+
+#: View/Users/welcome.ctp:9
+msgid ""
+"You will be redirected to Facebook, because your Facebook access token is "
+"going to expire soon."
+msgstr ""
+"You will be redirected to Facebook, because your Facebook access token is "
+"going to expire soon."
+
+#: View/Users/welcome.ctp:20
+msgid "Profile status: free"
+msgstr "Profile status: free"
+
+#: View/Users/welcome.ctp:21
+msgid "Profile usage"
+msgstr "Profile usage"
+
+#: View/Users/welcome.ctp:23
+msgid "News items"
+msgstr "News items"
+
+#: View/Users/welcome.ctp:31;41;51;61;71;86;97
+msgid "unlimited"
+msgstr "unlimited"
+
+#: View/Users/welcome.ctp:100
+msgid "STEP 1. CREATE A COMPANY PROFILE"
+msgstr "STEP 1. CREATE A COMPANY PROFILE"
+
+#: View/Users/welcome.ctp:101 View/Users/welcome.ctp:105
+msgid "Complete your company profile"
+msgstr "Complete your company profile"
+
+#: View/Users/welcome.ctp:107
+msgid "Create a company profile"
+msgstr "Create a company profile"
+
+#: View/Users/welcome.ctp:111
+msgid "STEP 2. CONNECT TO SOCIAL MEDIA"
+msgstr "STEP 2. CONNECT TO SOCIAL MEDIA"
+
+#: View/Users/welcome.ctp:112
+msgid ""
+"Share your company, products and services through the popular social media "
+"channels like Youtube, LinkedIn, Facebook and Twitter. Stay informed about "
+"what people say on your social media pages and react through a single "
+"mouseclick."
+msgstr ""
+"Share your company, products and services through the popular social media "
+"channels like Youtube, LinkedIn, Facebook and Twitter. Stay informed about "
+"what people say on your social media pages and react through a single "
+"mouseclick."
+
+#: View/Users/welcome.ctp:116
+msgid "Connect to social media"
+msgstr "Connect to social media"
+
+#: View/Users/welcome.ctp:121
+msgid "STEP 3. LET THE WORLD KNOW"
+msgstr "STEP 3. LET THE WORLD KNOW"
+
+#: View/Users/welcome.ctp:122
+msgid ""
+"You are ready with your setup and now able to keep hundreds of people up-to-"
+"date on your business with one click. Reactions through social media are "
+"gathered automatically and shown in a single view. Replying to your "
+"(potential) customers is as simple as posting an update on social media. Try "
+"it now!"
+msgstr ""
+"You are ready with your setup and now able to keep hundreds of people up-to-"
+"date on your business with one click. Reactions through social media are "
+"gathered automatically and shown in a single view. Replying to your "
+"(potential) customers is as simple as posting an update on social media. Try "
+"it now!"
+
+#: View/Users/welcome.ctp:126
+msgid "Go to the social media monitor"
+msgstr "Go to the social media monitor"
+
+#: Model/AccessibilityOption.php:validation for field name_eng
+#: Model/Category.php:validation Model/Country.php:validation
+#: Model/Day.php:validation Model/Language.php:validation
+#: Model/OtherInformation.php:validation Model/PaymentMethod.php:validation
+#: Model/RelationType.php:validation
+msgid "Name (English) is required."
+msgstr "Name (English) is required."
+
+#: Model/AccessibilityOption.php:validation for field name_nld
+#: Model/Category.php:validation Model/Country.php:validation
+#: Model/Day.php:validation Model/Language.php:validation
+#: Model/OtherInformation.php:validation Model/PaymentMethod.php:validation
+#: Model/RelationType.php:validation
+msgid "Name (Dutch) is required."
+msgstr "Name (Dutch) is required."
+
+#: Model/AdvertisementLinkType.php:validation for field name
+#: Model/Company.php:validation Model/MarkAsOffensive.php:validation
+#: Model/MediaWidgetType.php:validation Model/Message.php:validation
+#: Model/PortfolioItem.php:validation
+#: Model/PortfolioItemCategory.php:validation Model/Product.php:validation
+#: Model/ProductCategory.php:validation Model/Review.php:validation reviewer
+#: Model/Service.php:validation Model/ServiceCategory.php:validation
+#: Model/SystemMessage.php:validation
+msgid "Name is required."
+msgstr "Name is required."
+
+#: Model/Album.php:validation for field company_id
+#: Model/MediaWidget.php:validation media_widget_type_id;validation
+#: widget_number Model/PollAnswer.php:validation answer
+#: Model/ProductAdvertisementLink.php:validation
+#: advertisement_link_type_id;validation advertisement_number
+#: Model/ProfileAccessibility.php:validation name_nld;validation name_eng
+#: Model/ServiceAdvertisementLink.php:validation Model/Unit.php:validation
+msgid "notEmpty"
+msgstr "notEmpty"
+
+#: Model/Album.php:validation for field company_id
+msgid "required"
+msgstr "required"
+
+#: Model/Company.php:validation for field category_id
+msgid "Category is required."
+msgstr "Category is required."
+
+#: Model/Company.php:validation for field header_color
+msgid "Header is not a valid color."
+msgstr "Header is not a valid color."
+
+#: Model/Company.php:validation for field link_color
+msgid "Links is not a valid color."
+msgstr "Links is not a valid color."
+
+#: Model/Company.php:validation for field background_color
+msgid "Background is not a valid color."
+msgstr "Background is not a valid color."
+
+#: Model/Company.php:validation for field email
+msgid "Email is not a valid email address."
+msgstr "Email is not a valid email address."
+
+#: Model/Company.php:validation for field website
+msgid "Website is not a valid url."
+msgstr "Website is not a valid url."
+
+#: Model/Company.php:validation for field facebook_url;validation
+#: twitter_url;validation linkedin_url;validation youtube_url;validation
+#: foursquare_url;validation googleplus_url;validation tumblr_url;validation
+#: hyves_url;validation pinterest_url;validation yelp_url;validation
+#: flickr_url;validation ebay_url;validation itunes_url;validation
+#: googleplay_url;validation instagram_url
+msgid "Please supply a valid url."
+msgstr "Please supply a valid url."
+
+#: Model/Faq.php:validation for field question Model/Poll.php:validation
+msgid "Question is required."
+msgstr "Question is required."
+
+#: Model/Faq.php:validation for field answer
+#: Model/PollAnswersPoll.php:validation poll_answer_id
+msgid "Answer is required."
+msgstr "Answer is required."
+
+#: Model/FriendsUser.php:validation for field friend_id
+msgid "unique"
+msgstr "unique"
+
+#: Model/FriendsUser.php:validation for field friend_id
+msgid "areNotEqual"
+msgstr "areNotEqual"
+
+#: Model/Image.php:validation for field filename
+msgid "Filename is required."
+msgstr "Filename is required."
+
+#: Model/Image.php:validation for field file
+msgid "Image (chunk) must be less than 200KB"
+msgstr "Image (chunk) must be less than 200KB"
+
+#: Model/Image.php:validation for field file
+msgid "Invalid mime type."
+msgstr "Invalid mime type."
+
+#: Model/Image.php:validation for field file
+msgid "Please supply a valid image."
+msgstr "Please supply a valid image."
+
+#: Model/Image.php:validation for field file_size
+msgid "Image must be less than 5MB"
+msgstr "Image must be less than 5MB"
+
+#: Model/MarkAsOffensive.php:validation for field email
+#: Model/Message.php:validation Model/User.php:validation username
+msgid "Email is required."
+msgstr "Email is required."
+
+#: Model/MarkAsOffensive.php:validation for field email
+msgid "Email is not a valid email address"
+msgstr "Email is not a valid email address"
+
+#: Model/MarkAsOffensive.php:validation for field subject
+#: Model/Message.php:validation
+msgid "Subject is required."
+msgstr "Subject is required."
+
+#: Model/MarkAsOffensive.php:validation for field contents
+#: Model/Message.php:validation
+msgid "Message is required."
+msgstr "Message is required."
+
+#: Model/MediaWidget.php:validation for field url
+#: Model/PortfolioItemLink.php:validation
+#: Model/ProductAdvertisementLink.php:validation
+#: Model/ProductLink.php:validation
+#: Model/ServiceAdvertisementLink.php:validation
+#: Model/ServiceLink.php:validation
+msgid "Url is required."
+msgstr "Url is required."
+
+#: Model/MediaWidget.php:validation for field url
+#: Model/ProductAdvertisementLink.php:validation
+#: Model/ServiceAdvertisementLink.php:validation
+msgid "Url is not a valid url."
+msgstr "Url is not a valid url."
+
+#: Model/MediaWidget.php:validation for field url
+msgid "Url is not a valid video url."
+msgstr "Url is not a valid video url."
+
+#: Model/Message.php:validation for field email
+msgid "Email is not a valid email adress."
+msgstr "Email is not a valid email adress."
+
+#: Model/NewsItem.php:validation for field title
+msgid "Title is required."
+msgstr "Title is required."
+
+#: Model/OpeningHour.php:validation for field start_time
+msgid "From is required."
+msgstr "From is required."
+
+#: Model/OpeningHour.php:validation for field end_time
+msgid "Until is required."
+msgstr "Until is required."
+
+#: Model/OpeningHour.php:validation for field day_id
+msgid "Day is required."
+msgstr "Day is required."
+
+#: Model/PortfolioItem.php:validation for field company_id
+#: Model/Product.php:validation Model/Service.php:validation
+msgid "Company is required."
+msgstr "Company is required."
+
+#: Model/PortfolioItem.php:validation for field portfolio_item_category_id
+#: Model/Product.php:validation product_category_id
+#: Model/Service.php:validation service_category_id
+msgid "Category is not a natural number."
+msgstr "Category is not a natural number."
+
+#: Model/PortfolioItemLink.php:validation for field url
+#: Model/ProductLink.php:validation Model/ServiceLink.php:validation
+msgid "Url is not an url."
+msgstr "Url is not an url."
+
+#: Model/Post.php:validation for field message
+msgid "Wrong message length"
+msgstr "Wrong message length"
+
+#: Model/Product.php:validation for field facebook_account
+msgid "validateFacebook"
+msgstr "validateFacebook"
+
+#: Model/Product.php:validation for field price_floor;validation
+#: price_decimals Model/Service.php:validation
+msgid "Price should be numeric."
+msgstr "Price should be numeric."
+
+#: Model/Product.php:validation for field price_decimals
+#: Model/Review.php:validation score Model/Service.php:validation
+msgid "range"
+msgstr "range"
+
+#: Model/ProductAdvertisementLink.php:validation for field url
+#: Model/ServiceAdvertisementLink.php:validation
+msgid "Url is not a valid advertisement url."
+msgstr "Url is not a valid advertisement url."
+
+#: Model/Review.php:validation for field contents
+#: Model/SystemMessage.php:validation
+msgid "Contents is required."
+msgstr "Contents is required."
+
+#: Model/Review.php:validation for field score
+msgid "Score is required."
+msgstr "Score is required."
+
+#: Model/Review.php:validation for field score
+msgid "numeric"
+msgstr "numeric"
+
+#: Model/User.php:validation for field username
+msgid "Email should be a valid email address."
+msgstr "Email should be a valid email address."
+
+#: Model/User.php:validation for field username
+msgid "Email is already in use."
+msgstr "Email is already in use."
+
+#: Model/User.php:validation for field first_name
+msgid "First name is required."
+msgstr "First name is required."
+
+#: Model/User.php:validation for field last_name
+msgid "Last name is required."
+msgstr "Last name is required."
+
+#: Model/User.php:validation for field password;validation password_plain
+msgid "Password is required."
+msgstr "Password is required."
+
+#: Model/User.php:validation for field password_plain
+msgid "Password should have a minimal length of six charcters."
+msgstr "Password should have a minimal length of six charcters."
+
+#: Model/User.php:validation for field confirm_password_plain
+msgid "Confirm new password is required."
+msgstr "Confirm new password is required."
+
+#: Model/User.php:validation for field confirm_password_plain
+msgid "Confirm new password doesn't match."
+msgstr "Confirm new password doesn't match."
+
+#: Model/User.php:validation for field old_password_plain
+msgid "Current password is required."
+msgstr "Current password is required."
+
+#: Model/User.php:validation for field gender
+msgid "Gender is required."
+msgstr "Gender is required."
+
+#: Model/User.php:validation for field postal_code
+msgid "Postal code is required."
+msgstr "Postal code is required."
+
+#: Model/User.php:validation for field date_of_birth
+msgid "Date of birth should have format 'ymd'."
+msgstr "Date of birth should have format 'ymd'."
+
+#: Model/User.php:validation for field is_active;validation
+#: is_admin;validation is_confirmed
+msgid "boolean"
+msgstr "boolean"
+
+#: Model/User.php:validation for field profile_accessibility_id
+msgid "Profile accessibility is required."
+msgstr "Profile accessibility is required."
+
+#: Model/User.php:validation for field general_conditions
+msgid "You must verify you have read the general conditions"
+msgstr "You must verify you have read the general conditions"
+
+msgid "Features"
+msgstr "Features"
+
+msgid "Pricing"
+msgstr "Pricing"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Always Near"
+msgstr "Always Near"
+
+msgid "search for shops, businesses and interests"
+msgstr "search for shops, businesses and interests"
+
+msgid "Popular Neighborhoods"
+msgstr "Popular Neighborhoods"
+
+msgid "SIGN IN STORE"
+msgstr "SIGN IN STORE"
+
+msgid "Views"
+msgstr "Views"
+
+msgid "home_top_text"
+msgstr ""
+"A neighborhood connects people. A neighborhood brings people into contact "
+"with each. Mark with Youssef, the baker with his client, and that old woman "
+"on the third floor of the dormitory on the second. People feel at home. The "
+"neighborhood feels familiar and close."
+
+msgid "home_bottom_text"
+msgstr ""
+"Woodekees brings that familiar neighborhood online. Does the online grocer "
+"in contact with its customers and Sandra in touch with her cheese farmer. "
+"Woodekees is the connection that your street offers online. Woodekees is "
+"close, always close to where you are."
+
+msgid "Cities"
+msgstr "Cities"
+
+msgid "Neighborhoods"
+msgstr "Neighborhoods"
+
+msgid "Streets"
+msgstr "Streets"
+
+msgid "Newest"
+msgstr "Newest"
+
+msgid "Sort by"
+msgstr "Sort by"
+
+msgid "Add Company"
+msgstr "Add Company"
+
+msgid "most viewed profiles"
+msgstr "most viewed profiles"
+
+msgid "No companies"
+msgstr "No companies"
+
+msgid "profiles"
+msgstr "profiles"
+
+msgid "All Products"
+msgstr "All Products"
+
+msgid "Activity"
+msgstr "Activity"
+
+msgid "See all"
+msgstr "See all"
+
+msgid "Telephone"
+msgstr "Telephone"
+
+msgid "closed"
+msgstr "Closed"
+
+msgid "Activate your account"
+msgstr "Activate your account"
+
+msgid "You're almost done with the sign-up process."
+msgstr "You're almost done with the sign-up process."
+
+msgid "confirm your account"
+msgstr "confirm your account"
+
+msgid "Full Screen"
+msgstr "Full Screen"
+
+msgid "Exit Full Screen"
+msgstr "Exit Full Screen"
+
+msgid "There is no company added"
+msgstr "There is no company added"
+
+msgid "Repeat Password"
+msgstr "Repeat Password"
+
+msgid "minimal 8 characters"
+msgstr "minimal 8 characters"
+
+msgid "activity places"
+msgstr "activity places"
+
+msgid "Photos places"
+msgstr "Photos places"
+
+msgid "Write a review"
+msgstr "Write a review"
+
+msgid "All reviews"
+msgstr "All reviews"
+
+msgid "All Services"
+msgstr "All Services"
+
+msgid "you need to select stars for being able to post review"
+msgstr "you need to select stars for being able to post review"
+
+msgid "Place a description of these photos..."
+msgstr "Place a description of these photos..."
+
+msgid "place"
+msgstr "Post"
+
+msgid "share news with your visitors."
+msgstr "Share news with your visitors"
+
+msgid "profile photo"
+msgstr "profile picture"
+
+msgid "Layout colors"
+msgstr "Layout colors"
+
+msgid "background image"
+msgstr "background image"
+
+msgid "select files"
+msgstr "SELECT FILES"
+
+msgid "productname"
+msgstr "Product name"
+
+msgid "addTo"
+msgstr "Add to"
+
+msgid "companyName"
+msgstr "Company name"
+
+msgid "addTag"
+msgstr "Tag"
+
+msgid "Cityy"
+msgstr "City"
+
+msgid "street"
+msgstr "Street"
+
+msgid "neighborhood"
+msgstr "Neighborhood"
+
+msgid "details"
+msgstr "Details"
+
+msgid "Additional information"
+msgstr "Additional information"
+
+msgid "About us"
+msgstr "About us"
+
+msgid "Payment options"
+msgstr "Payment options"
+
+msgid "maximal"
+msgstr "maximal"
+
+msgid "choose file"
+msgstr "Choose file"
+
+msgid "address"
+msgstr "Address"
+
+msgid "number"
+msgstr "number"
+
+msgid "factuur"
+msgstr "billing"
+
+msgid "pinpas"
+msgstr "cash card"
+
+msgid ""
+"Before you can post a review you must first log on Wood Kees, Facebook or "
+"Twitter"
+msgstr ""
+"Before you can post a review you must first log on Wood Kees, Facebook or "
+"Twitter"
+
+msgid "Share your experience with us"
+msgstr "Share your experience with us"
+
+msgid "Send me an email when I received a review"
+msgstr "Send me an email when I received a review"
+
+msgid "Enter here the general conditions"
+msgstr "Enter here the general conditions"
+
+msgid "Write a short text about the company"
+msgstr "Write a short text about the company"
+
+msgid "addReview"
+msgstr ""
+"Before you can post a review you must first log in Woodekees, Facebook or "
+"Twitter"
+
+msgid "Your account has been activated"
+msgstr "Your account has been activated"
+
+msgid "Your username or password is incorrect, please try again."
+msgstr "Your username or password is incorrect, please try again."
+
+msgid "continue"
+msgstr "continue"
+
+msgid "Has posted a review about %s"
+msgstr "Has posted a review about %s"
+
+msgid "Select category"
+msgstr "Select category"
+
+msgid "Select Neighborhood"
+msgstr "Select Neighborhood"
+
+msgid "By clicking Sign Up you agree to our"
+msgstr "By clicking Sign Up you <br> agree to our"
+
+msgid "terms"
+msgstr "terms"
+
+msgid "By clicking Sign Up you <br> agree to our"
+msgstr "By clicking Sign Up you <br> agree to our"
+
+msgid "postal code is valid"
+msgstr "postal code is valid"
+
+msgid "postal code is invalid"
+msgstr "postal code is invalid"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "START THE TRIAL!"
+msgstr "START THE TRIAL!"
+
+msgid "How does it work?"
+msgstr "How does it work?"
+
+msgid "You can create a profile for your business."
+msgstr "You can create a profile for your business."
+
+msgid "You may try the deluxe subscription for 14 days."
+msgstr "You may try the deluxe subscription for 14 days."
+
+msgid "After 14 days you may choose the subscription that suits you."
+msgstr "After 14 days you may choose the subscription that suits you."
+
+msgid "Further information on subscriptions can be found on our pricing page."
+msgstr "Further information on subscriptions can be found on our pricing page."
+
+msgid "has received a review"
+msgstr "has received a review"
+
+msgid "has added a product"
+msgstr "has added a product"
+
+msgid "has added a service"
+msgstr "has added a service"
+
+msgid "has added a portfolio item"
+msgstr "has added a portfolio item"
+
+msgid "Company allready exists."
+msgstr "Company allready exists."
+
+msgid "click on the stars to rate"
+msgstr "click on the stars to rate"
+
+msgid ""
+"You have already added a company, are you sure you want to add another "
+"company?"
+msgstr ""
+"You have already added a company, are you sure you want to add another "
+"company?"
+
+msgid "No neighborhoods"
+msgstr "No neighborhoods"
+
+msgid "Legal form"
+msgstr "Legal form"
+
+msgid "Province"
+msgstr "Province"
+
+msgid "VAT nr"
+msgstr "VAT nr"
+
+msgid "COC nr"
+msgstr "COC nr"
+
+msgid "User Terms"
+msgstr "User Terms"
+
+msgid "Your account has been activated."
+msgstr "Your account has been activated."
+
+msgid "Subscription"
+msgstr "Subscription"
+
+msgid "Invoice"
+msgstr "Invoice"
+
+msgid "each month"
+msgstr "each month"
+
+msgid "each year"
+msgstr "each year"
+
+msgid "to go to the subscriptions page"
+msgstr "to go to the subscriptions page"
+
+msgid "Food/Grocery"
+msgstr "Food/Grocery"
+
+msgid "Restaurant/Cafe"
+msgstr "Restaurant/Cafe"
+
+msgid "Shopping/Retail"
+msgstr "Shopping/Retail"
+
+msgid "Personal Care"
+msgstr "Personal Care"
+
+msgid "Sports Venue"
+msgstr "Sports Venue"
+
+msgid "Can not add more than 5 tags"
+msgstr "Can not add more than 5 tags"
+
+msgid "maximal 5 tags"
+msgstr "maximal 5 tags"
+
+msgid "The form has been sent."
+msgstr "The form has been sent."
+
+msgid "Fields with (*) are required fields"
+msgstr "Fields with (*) are required fields"
+
+msgid "Added last"
+msgstr "Added last"
+
+#~ msgid "To reach your audience fill out this form."
+#~ msgstr "To reach your audience fill out this form."
+
+#~ msgid "added a portfolio item: <a href=\"%s\">%s</a>."
+#~ msgstr "added a portfolio item: <a href=\"%s\">%s</a>."
+
+#~ msgid "Forward"
+#~ msgstr "Retweet"

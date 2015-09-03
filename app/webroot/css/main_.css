@@ -1,0 +1,1297 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-decoration: none;
+    color: white;
+    box-sizing: border-box;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.fr {
+    float: right;
+}
+
+.fl {
+    float: left;
+}
+
+.mInput {
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid #464b4f;
+    box-shadow: inset 0px 2px 5px 0px rgba(0, 0, 0, 0.5);
+    color: #dfdfdf;
+    font-size: 18px;
+}
+
+.disabled {
+    background-color: rgba(255, 255, 255, 0.3) !important;
+    box-shadow: none !important;
+}
+
+body {
+    background-image: url(../img/bg.jpg);
+    min-height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#header_wrapper {
+    width: 100%;
+    height: 207px;
+    background-image: url(../img/darker_header.png);
+}
+
+#header {
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 0 20px 0 20px;
+}
+
+#logo {
+    margin-top: 20px;
+    float: left;
+}
+
+#menuButton {
+    float: right;
+    margin-top: 20px;
+}
+
+#banner_wrapper {
+    width: 100%;
+}
+
+#banner {
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 0 20px 0 20px;
+}
+
+#taglines {
+    margin: 0 auto;
+    margin-top: -60px;
+}
+
+h2.taglineTop {
+    max-width: 970px;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 7px;
+    padding: 5px 35px 5px 35px;
+    font-weight: 100;
+}
+
+h3.taglineBot {
+    max-width: 630px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 7px;
+    padding: 5px 35px 5px 35px;
+    font-weight: 100;
+}
+
+#button {
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+#buttonborder {
+    text-align: center;
+}
+
+a.mainButton {
+    position: relative;
+    background-color: #7dc242;
+    padding: 15px 50px 15px 50px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 28px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700;
+}
+
+a.mainButton:hover {
+    background-color: #87ce4a;
+}
+
+a.mainButton:before {
+    content: '';
+    position: absolute;
+    top: -3px;
+    left: -3px;
+    bottom: -3px;
+    right: -3px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    z-index: -1;
+}
+
+#map {
+    margin: 0 auto;
+    margin-top: 40px;
+    text-align: center;
+    z-index: -200;
+    max-width: 100%;
+    min-height: 500px;
+}
+
+#map svg {
+    max-width: 100%;
+}
+
+#footer_wrapper {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    min-height: 160px;
+}
+
+#footer {
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 0 20px 0 20px;
+}
+
+#statisctics {
+    width: 48%;
+    float: left;
+    margin-top: 30px;
+}
+
+#separator {
+    float: left;
+    width: 1%;
+    height: 157px;
+    background: url("../img/separator_footer.png") no-repeat;
+    background-position: center;
+    margin: 0 2% 0 2%;
+}
+
+ul#statsTitles,
+ul#stats {
+    float: left;
+    text-align: right;
+    color: white;
+    text-decoration: none;
+}
+
+ul#statsTitles li,
+ul#stats li {
+    list-style: none;
+    font-size: 26px;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+ul#stats {
+    margin-left: 20px;
+    text-align: left;
+}
+
+ul#stats li {
+    font-weight: 500;
+}
+
+#oxfam {
+    float: left;
+    width: 47%;
+}
+
+img.oxfam_logo {
+    margin-top: 35px;
+}
+
+#oLogo {
+    float: left;
+    min-height: 100px;
+}
+
+#info {
+    float: right;
+    min-height: 100px;
+    max-width: 420px;
+    margin-top: 30px;
+}
+
+#info p {
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+}
+
+#footer_buttons {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.footer_button {
+    border: 2px solid #fff;
+    border-radius: 10px;
+    padding: 8px 20px 8px 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.footer_button:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+@media screen and (max-width: 1180px) {
+    #info {
+        float: none;
+        width: 100%;
+        margin: 0 auto;
+    }
+    #oLogo {
+        text-align: center;
+        float: none;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    #statisctics {
+        margin-top: 80px;
+    }
+    #separator {
+        margin-top: 30px;
+    }
+}
+
+@media screen and (max-width: 890px) {
+    #info {
+        float: none;
+        width: 100%;
+        margin: 0 auto;
+    }
+    #oxfam {
+        float: none;
+        width: 100%;
+        margin: 0 auto;
+    }
+    #oLogo {
+        text-align: center;
+        float: none;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    #statisctics {
+        width: 400px;
+        text-align: center;
+        float: none;
+        margin: 0 auto;
+        margin-top: 80px;
+    }
+    #separator {
+        display: none;
+    }
+}
+/*ABOUT US*/
+
+.popup {
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    border: 3px solid rgba(255, 255, 255, 0.8);
+    box-shadow: 0px 0px 15px 0px #2e2e2e
+}
+
+.uboutUsPopup {
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 0 30px 20px 30px;
+}
+
+.popupHeader {
+    position: relative;
+}
+
+.cls_button {
+    width: 50px;
+    height: 50px;
+    border: 2px solid #fff;
+    border-radius: 7px;
+    position: absolute;
+    top: 5px;
+    right: 15px;
+    background: none;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.cls_button:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+h2.popupH {
+    font-size: 45px;
+    font-weight: 200;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.sepAU {
+    height: 1px;
+    width: 100%;
+    background-image: url(../img/popup_separator.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#par1 {
+    float: left;
+    width: 60%;
+    margin-top: 20px;
+}
+
+#avatar {
+    float: left;
+    width: 40%;
+    text-align: center;
+}
+
+#avatar img {
+    max-width: 100%;
+    margin-top: 20px;
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.8;
+}
+
+#par1 > p {
+    color: #b2b2b2;
+    line-height: 1.8;
+}
+
+ul.benefits {
+    list-style: none;
+    margin-top: 5px;
+}
+
+ul.benefits li {
+    color: #b2b2b2;
+    margin-bottom: 8px;
+    padding-left: 20px;
+    background-image: url(../img/arrow_list.png);
+    background-repeat: no-repeat;
+    background-position: 0px 7px;
+}
+
+section#enc {
+    margin: 30px 0 10px 0;
+}
+
+section#enc h4 {
+    text-align: center;
+}
+
+.green {
+    color: #649a35;
+}
+
+.aboutUsLink {
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+section#enc h5 {
+    font-size: 18px;
+    font-weight: 300;
+    text-align: center;
+}
+/*LOGIN*/
+
+label {
+    font-size: 20px;
+}
+
+#loginForm {
+    margin: 20px 20px 0 20px;
+}
+
+.loginPopup {
+    margin-top: 30px;
+    max-width: 620px;
+    padding: 0 20px 0 20px;
+}
+
+input[type=text].login {
+    margin-bottom: 15px;
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid #464b4f;
+    box-shadow: inset 0px 2px 5px 0px rgba(0, 0, 0, 0.5);
+}
+
+#loginButtons {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 45px;
+    margin-top: 30px;
+}
+
+.bfirst {
+    margin-right: 10px;
+}
+
+.lButton {
+    display: inline-block;
+    padding: 12px 10px 12px 10px;
+    width: 230px;
+    background: none;
+    border: 2px solid white;
+    border-radius: 10px;
+    font-size: 22px;
+}
+
+.white {
+    background-color: #fff;
+    border: 2px solid #7e8185;
+    color: #000;
+    font-weight: 700;
+}
+
+#lFooter {
+    text-align: center;
+    margin: 30px 0 60px 0;
+}
+
+#lLinks {
+    float: left;
+    width: 60%;
+}
+
+#lIcons {
+    float: left;
+    width: 40%;
+}
+
+#lIcons a {}
+
+#lLinks p {
+    text-align: center;
+    font-size: 18px;
+}
+
+#lIcons a:first-child {
+    margin-right: 10px;
+}
+
+.iconsContainer {
+    width: 90px;
+    margin: 0 auto;
+}
+/*REGISTER*/
+
+.registerPopup {
+    max-width: 1030px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.leftControls {
+    float: left;
+    width: 50%;
+    padding: 20px;
+}
+
+.rightControls {
+    float: right;
+    width: 50%;
+    padding: 20px;
+}
+
+.dashControlWrapL {
+    padding: 0 10px 0 0;
+}
+
+.dashControlWrapR {
+    padding: 0 0 0 10px;
+}
+
+.dashControlWrapC {
+    padding: 0;
+}
+
+form#register {
+    padding: 0 20px 0 20px;
+}
+
+form#register label {
+    font-size: 18px;
+}
+
+select.sel {
+    margin-bottom: 15px;
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.1) url(../img/dropdown_arrow.png) no-repeat 95% center;
+    border: 1px solid #464b4f;
+    box-shadow: inset 0px 2px 5px 0px rgba(0, 0, 0, 0.5);
+    text-indent: 0.01px;
+    /* Removes default arrow from firefox*/
+    
+    text-overflow: "";
+    /*Removes default arrow from firefox*/
+    /*My custom style for fonts*/
+    
+    -webkit-appearance: none;
+    /*Removes default chrome and safari style*/
+    
+    -moz-appearance: none;
+    /* Removes Default Firefox style*/
+    
+    font-size: 20px;
+    color: #bfbfbf;
+    padding-left: 15px;
+}
+
+option {
+    background: #3e4b55;
+}
+
+.YearSelect {
+    width: 31%;
+    float: left;
+    margin-right: 2.3%;
+}
+
+.genderRadios {
+    width: 100%;
+}
+
+.genderRadio {
+    float: left;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+
+.genderRadio label {}
+
+input[type="radio"] {
+    display: none;
+}
+
+input[type="radio"] + label span {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin: -4px 10px 0 0;
+    vertical-align: middle;
+    background: url('../img/radio_sprites.png') left top no-repeat;
+    cursor: pointer;
+}
+
+input[type="radio"]:checked + label span {
+    background: url('../img/radio_sprites.png') -20px top no-repeat;
+}
+
+h3.subhead {
+    font-size: 33px;
+    font-weight: 300;
+    width: 100%;
+    text-align: center;
+}
+
+p.lDescription {
+    text-align: center;
+    font-size: 18px;
+    color: #b9b9b9;
+}
+
+#rMap {
+    text-align: center;
+}
+
+#rMap img {
+    max-width: 100%;
+    display: inline-block;
+}
+
+#terms {
+    margin-bottom: 20px;
+}
+
+.term {
+    text-align: left;
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.term label {
+    font-size: 16px !important;
+}
+
+input[type=checkbox] {
+    display: none;
+}
+
+input[type=checkbox] + label {
+    background: url('../img/check_sprite.png') left top no-repeat;
+    height: 27px;
+    width: 27px;
+    display: inline-block;
+    padding: 0 0 0 0;
+    margin: -8px 10px;
+}
+
+input[type=checkbox]:checked + label {
+    background: url('../img/check_sprite.png') -27px top no-repeat;
+    height: 27px;
+    width: 27px;
+    display: inline-block;
+    margin: -8px 10px;
+}
+
+.tLabel {
+    line-height: 24px;
+}
+
+.greenbtn {
+    background-color: #7bc040;
+    border-radius: 7px;
+    padding: 12px 50px 12px 50px;
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0 auto;
+}
+
+.btn {
+    max-width: 250px;
+    height: 90px;
+}
+
+.register_button {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+@media screen and (max-width: 760px) {
+    .leftControls {
+        float: none;
+        width: 100%;
+    }
+    .rightControls {
+        float: none;
+        width: 100%;
+    }
+}
+/*MY ACCOUNT*/
+
+#popup_left {
+    min-width: 150px;
+    width: 350px;
+    margin-left: -350px;
+    overflow: hidden;
+    background: rgba(0, 0, 0, 0.2);
+    background-image: url('../img/dashboard_shadow.png');
+    background-position: right center;
+    background-repeat: repeat-y;
+    padding-top: 20px;
+    float: left;
+}
+
+.menuDisabled {
+    padding-left: 0!important;
+}
+
+.dashboardPopup {
+    margin-top: 20px;
+    padding-left: 350px;
+}
+
+#popup_right {
+    width: 100%;
+    float: left;
+}
+
+#popup_left,
+#popup_righmaint {
+    padding-bottom: 99999px;
+    margin-bottom: -99999px;
+}
+
+.dashButton {
+    margin: 0 auto;
+    display: block;
+    font-size: 20px;
+    margin-bottom: 20px;
+    width: 80%;
+    background-color: #7cc041;
+    border: none;
+    border-radius: 8px;
+    padding: 15px 0 15px 0;
+    text-align: center;
+}
+
+.dashboardPopup nav ul {}
+
+.dashboardPopup nav ul li {
+    height: 70px;
+    padding-left: 35px;
+    line-height: 70px;
+    border-top: 1px solid #535a5e;
+    font-size: 20px;
+    background-image: url('../img/dash_menu_arrow.png');
+    background-repeat: no-repeat;
+    background-position: 95% center;
+}
+
+.dashboardPopup nav ul li:last-child {
+    border-bottom: 1px solid #535a5e;
+}
+
+.dashboardPopup nav ul li:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.rightBtn {
+    left: 20px;
+}
+
+#dashContent {
+    width: 100%;
+    padding: 0 20px 0 20px;
+    margin-top: 20px;
+}
+
+.maProfileStatus {
+    margin: 20px 0 20px 0;
+}
+
+h3.dashSubhead {
+    font-size: 28px;
+    font-weight: 300;
+    margin-bottom: 15px;
+}
+
+.mTextarea {
+    margin-bottom: 15px;
+    width: 100%;
+    height: 120px;
+    padding: 10px 15px 10px 15px;
+}
+
+.dButton {
+    background-color: #fff;
+    border: 2px solid #81878c;
+    border-radius: 7px;
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px 40px 10px 40px;
+    outline: none;
+}
+
+#mChangePassword {
+    margin: 20px 0 20px 0;
+}
+
+#mNewsletter {
+    margin: 20px 0 20px 0;
+}
+
+#dashContent p {
+    font-size: 18px;
+}
+
+.hCenter {
+    width: 100%;
+    text-align: center;
+}
+
+#mStats {
+    margin: 20px 0 20px 0;
+}
+
+#mStats img {
+    max-width: 100%;
+    margin-bottom: 15px;
+}
+
+@media screen and (max-width: 1000px) {
+    #popup_left {
+        width: 250px;
+        margin-left: -250px;
+    }
+    .dashboardPopup {
+        padding-left: 250px;
+    }
+}
+
+@media screen and (max-width: 760px) {
+    #popup_left {
+        float: none;
+        padding-bottom: 0;
+        margin-bottom: 0;
+        width: auto;
+        margin: 0;
+    }
+    .dashboardPopup {
+        overflow: auto;
+        padding-left: 0;
+    }
+}
+/*Profile*/
+
+#pAvatar {
+    float: left;
+    width: 30%;
+    margin-right: 2%;
+}
+
+#pAvatar img {
+    max-width: 100%;
+}
+
+.mFileButton {
+    width: 100%;
+    text-align: center;
+}
+
+.chsFileBtn {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.mFileButton {
+    overflow: hidden;
+    margin-top: 10px;
+}
+
+#pUsernameEmail {
+    float: left;
+    width: 68%;
+    margin-top: 30px;
+}
+
+.profileInput {
+    width: 100%;
+    height: 50px;
+}
+
+#mMiddle {
+    margin-top: 20px;
+}
+
+.profileControls {
+    padding: 0 20px 0 0;
+}
+
+.mapDash {
+    margin-top: 20px;
+}
+
+#mLocation {
+    margin: 20px 0 30px 0;
+}
+
+#mBottom {
+    margin: 20px 0 20px 0;
+}
+
+.mBtn {
+    padding: 10px 40px 10px 40px!important;
+    display: inline-block;
+    text-align: center;
+}
+
+.mBtn:first-child {
+    margin-right: 20px;
+}
+
+#mButtons {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+@media screen and (max-width: 760px) {
+    #pAvatar {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    #pUsernameEmail {
+        width: 100%;
+    }
+    .gRadios {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .genderRadio {
+        float: none;
+        display: inline-block;
+    }
+    .dashControlWrapL {
+        padding: 0;
+    }
+    .dashControlWrapR {
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 455px) {
+    .mBtn {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+}
+/*My Meditations*/
+
+#meButtons {
+    text-align: center;
+    margin: 20px 0 20px 0;
+}
+
+#meButtons .outline_btn:first-child {
+    margin-right: 20px;
+}
+
+#meButtons .outline_btn {
+    display: inline-block;
+}
+
+.meLeftContainer {
+    text-align: right;
+}
+
+.meRightContainer {
+    text-align: left;
+}
+
+#meditationStats ul {
+    list-style: none;
+    margin: 35px 0 35px 0;
+}
+
+#meditationStats ul li {
+    font-size: 18px;
+    margin: 15px 0 15px 0;
+}
+
+#meditationStats ul li {}
+
+#meditationStats ul li {}
+
+#meditationStats ul li p:first-child {
+    font-weight: 600;
+}
+
+p.meStatLeft {
+    width: 50%;
+    float: left;
+    text-align: right;
+    padding-right: 10px;
+}
+
+p.meStatRight {
+    width: 50%;
+    float: left;
+    padding-left: 10px;
+}
+
+#meLastSessions {
+    margin: 20px 0 40px 0;
+}
+
+#meTable table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#meTable tr td {
+    text-align: center;
+}
+
+#meTable tr {
+    height: 48px;
+}
+
+#meTable tr td {
+    border: none;
+}
+
+#meTable tr:nth-of-type(odd) {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+#meTable tr:first-child {
+    background: none;
+}
+
+.subleft {
+    text-align: left!important;
+    font-size: 24px!important;
+    margin-bottom: 20px;
+}
+
+#msSetMeditation {
+    margin: 20px 0 20px 0;
+}
+
+#msTimeSelect {
+    float: left;
+    width: 70%;
+}
+
+#msButton {
+    float: left;
+    width: 30%;
+}
+
+#msLastTable table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#msLastTable tr td {
+    text-align: center;
+}
+
+#msLastTable tr {
+    height: 48px;
+}
+
+#msLastTable tr td {
+    border: none;
+}
+
+#msLastTable tr td:last-child {
+    padding-left: 0;
+}
+
+#msLastTable tr:nth-of-type(even) {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+#msBellSound,
+#msSetNewBellSound {
+    margin: 20px 0 40px 0;
+}
+
+#StartPopup {
+    width: 90%;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(0, 0, 0, 0.8);
+    position: absolute;
+    top: 0;
+    border-radius: 10px;
+    border: 3px solid rgba(255, 255, 255, 0.8);
+}
+
+#popupContainer {
+    position: relative;
+}
+
+.smTagline {
+    color: #b4b4b4;
+    text-align: center;
+    margin: 10px 0 15px 0;
+    font-size: 18px;
+}
+
+.smIcon {
+    float: left;
+    width: 40px;
+    margin-right: 20px;
+}
+
+.smInfo {
+    overflow: hidden;
+    font-size: 20px;
+}
+
+#smfeatures {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.smF {
+    margin-top: 20px;
+}
+
+#buttons {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#buttons a:first-child {
+    margin-right: 5px;
+}
+
+#buttons a {
+    padding: 10px 60px;
+}
+
+.startWL {
+    display: block;
+    font-size: 19px;
+    text-decoration: underline;
+}
+
+.smStartButtonWL {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.timerH {
+    font-size: 33px !important;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.stTimer {
+    margin: 20px 0;
+}
+
+.timeLeft {
+    font-size: 80px;
+    font-weight: 100;
+    text-align: center;
+}
+
+.smtButton {
+    text-align: center;
+    dis
+}
+
+#smButtons {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.smTile {
+    background-color: #fff;
+    float: left;
+    width: 90px;
+    border-radius: 7px;
+    text-align: center;
+    border: 3px solid #7f7f80;
+    margin-right: 20px;
+    display: inline;
+}
+
+.smMin {
+    color: #373737;
+    font-size: 70px;
+    font-weight: 300;
+    display: inline-block;
+}
+
+.smTit {
+    color: #373737;
+    width: 100%;
+    display: block;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#stTiles {
+    width: 80%;
+    margin: 0 auto;
+    margin: 50px auto;
+    overflow: hidden;
+}
+
+#tileList {}
+
+.feedbackMessageP {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+#sfIcons {
+    text-align: center;
+}
+
+#sendFeedback {
+    margin-top: 50px;
+}
+
+.feedback_form {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.feedbackButton {
+    padding: 12px 60px!important;
+}
+#sfButtons locButtons {
+    
+}
+
+.locButtons {
+    margin-top: 50px;
+}
+
+.contactHeader {
+    font-size: 18px;
+    text-align: center;
+    color: #cbcbcb;
+    margin: 20px 0 20px 0;
+}
+
+.lbContact {
+    font-size: 16px!important;
+}
+
+.contactTa {
+    padding: 30px;
+    width: 100%;
+        height: 150px
+}
+
+.contactControls {
+    padding: 20px;
+}
+
+.contactButton {
+    padding: 15px 70px;
+    background-color: #7cc041;
+    border-radius: 7px;
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+    text-shadow: 0px 2px 2px #434343;
+}
+
+.sendButton {
+    text-align: center;
+}

@@ -1,0 +1,35 @@
+
+@media screen and (max-width:470px) {.harvey-test{}}@media screen and (max-width:1022px) {.harvey-test{}}@media screen and (min-width:1023px) {.harvey-test{}}
+@font-face{
+    font-family:"Charter ITC W01 Italic";
+    src:url("http://fast.fonts.net/dv2/3/c17e88a4-2bac-4c58-8aea-2345de107ef7.woff?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b032a92c2e798914b11f906e624b01526dd09a53499842fe1514858d4816becabff52481ff73ff45fd231b5a11e9ee131adaba2fe51106eca1f3df5ca43ed91c212a29096bc&projectId=e1a0b6db-dab3-4ebb-ba75-895bcadf14f0") format('woff');}
+@font-face{
+    font-family:"ITC Charter W01 Bd SC";
+    src:url("http://fast.fonts.net/dv2/3/dd6d2583-5da7-46f5-baa6-7b9d36fcc523.woff?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b032a92c2e798914b11f906e624b01526dd09a53499842fe1514858d4816becabff52481ff73ff45fd231b5a11e9ee131adaba2fe51106eca1f3df5ca43ed91c212a29096bc&projectId=e1a0b6db-dab3-4ebb-ba75-895bcadf14f0") format('woff');}
+@font-face{
+    font-family:"ITC Charter W01 Reg SC";
+    src:url("http://fast.fonts.net/dv2/3/ec186456-c5f7-47d9-abc3-f94281a789c3.woff?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b032a92c2e798914b11f906e624b01526dd09a53499842fe1514858d4816becabff52481ff73ff45fd231b5a11e9ee131adaba2fe51106eca1f3df5ca43ed91c212a29096bc&projectId=e1a0b6db-dab3-4ebb-ba75-895bcadf14f0") format('woff');}
+@font-face{
+    font-family:"Charter ITC W01 Black";
+    src:url("http://fast.fonts.net/dv2/3/fabc29b0-3776-4b3d-922c-cdbe3ad31146.woff?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b032a92c2e798914b11f906e624b01526dd09a53499842fe1514858d4816becabff52481ff73ff45fd231b5a11e9ee131adaba2fe51106eca1f3df5ca43ed91c212a29096bc&projectId=e1a0b6db-dab3-4ebb-ba75-895bcadf14f0") format('woff');}
+@font-face{
+    font-family:"Charter ITC W01";
+    src:url("http://fast.fonts.net/dv2/3/fcf607e0-9726-46de-99a0-3d80440fcad0.woff?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b032a92c2e798914b11f906e624b01526dd09a53499842fe1514858d4816becabff52481ff73ff45fd231b5a11e9ee131adaba2fe51106eca1f3df5ca43ed91c212a29096bc&projectId=e1a0b6db-dab3-4ebb-ba75-895bcadf14f0") format('woff');}
+@font-face{
+    font-family:"Proxima N W01SC Smbd";
+    src:url("http://fast.fonts.net/dv2/3/9d85e1ee-1cb6-4e49-98ab-3cea67c4bf7d.woff?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b032a92c2e798914b11f906e624b01526dd09a53499842fe1514858d4816becabff52481ff73ff45fd231b5a11e9ee131adaba2fe51106eca1f3df5ca43ed91c212a29096bc&projectId=e1a0b6db-dab3-4ebb-ba75-895bcadf14f0") format('woff');}
+@font-face{
+    font-family:"Proxima N W15 Reg";
+    src:url("http://fast.fonts.net/dv2/3/e8e438df-9715-40ed-b1ae-58760b01a3c0.woff?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b032a92c2e798914b11f906e624b01526dd09a53499842fe1514858d4816becabff52481ff73ff45fd231b5a11e9ee131adaba2fe51106eca1f3df5ca43ed91c212a29096bc&projectId=e1a0b6db-dab3-4ebb-ba75-895bcadf14f0") format('woff');}
+@font-face{
+    font-family:"CharterITCW01-BlackItal";
+    src:url("http://fast.fonts.net/dv2/3/c4cd5d84-191e-4241-b89f-b68e2761baa8.woff?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b032a92c2e798914b11f906e624b01526dd09a53499842fe1514858d4816becabff52481ff73ff45fd231b5a11e9ee131adaba2fe51106eca1f3df5ca43ed91c212a29096bc&projectId=e1a0b6db-dab3-4ebb-ba75-895bcadf14f0") format('woff');}
+@font-face{
+    font-family:"Charter ITC W01 Bold";
+    src:url("http://fast.fonts.net/dv2/3/10deb463-297b-4976-8a13-f9a98d7ea6de.woff?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b032a92c2e798914b11f906e624b01526dd09a53499842fe1514858d4816becabff52481ff73ff45fd231b5a11e9ee131adaba2fe51106eca1f3df5ca43ed91c212a29096bc&projectId=e1a0b6db-dab3-4ebb-ba75-895bcadf14f0") format('woff');}
+@font-face{
+    font-family:"CharterITCW01-BoldItali";
+    src:url("http://fast.fonts.net/dv2/3/291df853-a088-4f20-9bb4-ce8097a4011b.woff?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b032a92c2e798914b11f906e624b01526dd09a53499842fe1514858d4816becabff52481ff73ff45fd231b5a11e9ee131adaba2fe51106eca1f3df5ca43ed91c212a29096bc&projectId=e1a0b6db-dab3-4ebb-ba75-895bcadf14f0") format('woff');}
+@font-face{
+    font-family:"Proxima N W15 Smbd";
+    src:url("http://fast.fonts.net/dv2/3/91b14d48-ff2a-4a42-87df-b04c76cfb67f.woff?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b032a92c2e798914b11f906e624b01526dd09a53499842fe1514858d4816becabff52481ff73ff45fd231b5a11e9ee131adaba2fe51106eca1f3df5ca43ed91c212a29096bc&projectId=e1a0b6db-dab3-4ebb-ba75-895bcadf14f0") format('woff');}

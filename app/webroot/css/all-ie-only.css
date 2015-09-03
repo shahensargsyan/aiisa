@@ -1,0 +1,121 @@
+/*body {
+    background: url("../img/bg2.jpg") repeat fixed center bottom rgb(0, 0, 0);
+}*/
+.lightModalOverlaydefault {
+	-ms-filter: "alpha(opacity=45)"; /* ie 8 */
+}
+.logo_wrapper img {
+    border: none;
+}
+.twitter_icon {
+	border:none;
+}
+.closeLogin a img {
+	border:none;
+}
+.login_popup {
+    /*background: none repeat scroll 0 0 rgb(0, 0, 0);*/
+	background:rgb(0,0,0);
+	background: transparent\9;
+	background:rgba(0,0,0,0.3);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4c000000,endColorstr=#4c000000);
+	zoom: 1;
+}
+.timer_wrapper { 
+	background:rgb(0,0,0);
+	background: transparent\9;
+	background:rgba(0,0,0,0.3);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4c000000,endColorstr=#4c000000);
+	zoom: 1;
+}
+.close_button {
+    cursor: pointer;
+    float: right;
+    height: 21px;
+    line-height: 0;
+    width: 21px;
+}
+.timer_wrapper {
+	width: 570px !important;
+	border-right: 2px solid #5c5c5c !important; 
+}
+.login_container_bg { 
+	background:rgb(0,0,0);
+	background: transparent\9;
+	background:rgba(0,0,0,0.3);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4c000000,endColorstr=#4c000000);
+	zoom: 1;
+}
+#locationNotificationPopup {
+	background:rgb(0,0,0);
+	background: transparent\9;
+	background:rgba(0,0,0,0.3);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4c000000,endColorstr=#4c000000);
+	zoom: 1;
+}
+
+/* ======================= Inner pages ======================= */
+
+#middle-panel {
+	background:rgb(0,0,0);
+	background: transparent\9;
+	background:rgba(0,0,0,0.3);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4c000000,endColorstr=#4c000000);
+	zoom: 1;
+}
+.menu_tab li.user_tab_selected a {
+    /*background-image: url("../img/selected_arrow.png") no-repeat scroll right 10px center #7bd454;*/
+    background-image: url("../img/selected_arrow.png");
+	background-repeat: no-repeat;
+	background-position: right center;
+	background-color: #7bd454;
+	background-attachment: scroll;
+}
+.menu_tab li a {
+    /*background-image: url("../img/arrow.png") no-repeat scroll right 10px center #fff;*/
+    background-image: url("../img/arrow.png");
+	background-repeat: no-repeat; 
+	background-position: right center;
+	background-color: #fff;
+	background-attachment: scroll;
+} 
+.menu_tab li a:hover { 
+	background-color: #7bd454;
+	background-image: url("../img/selected_arrow.png");
+	background-repeat: no-repeat;
+	background-position: right center;
+	background-attachment: scroll;
+}
+.container_bg .register_frame {
+	background:rgb(0,0,0);
+	background: transparent\9;
+	background:rgba(0,0,0,0.3);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4c000000,endColorstr=#4c000000);
+	zoom: 1;
+}
+.timer_form_container {
+	background:rgb(0,0,0);
+	background: transparent\9;
+	background:rgba(0,0,0,0.3);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4c000000,endColorstr=#4c000000);
+	zoom: 1;
+}
+.uploadError em {
+	 width:auto;
+}
+
+.edit_profile_btn {
+	padding:0px !important;
+}
+.session-msg-holder {
+    background: url("../img/success_icon.png");
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+	background-position:8px 10px / 20px auto; 
+	background-color:#000;
+}
+#uploadError {
+	width: 550px;
+	float:right;
+	margin:0px -170px 0px 0px;
+}

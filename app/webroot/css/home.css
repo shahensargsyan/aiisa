@@ -1,0 +1,155 @@
+body{
+    margin-bottom:160px;
+}
+#footer_wrapper,.popup_0_container {
+    zoom: 75%;
+}
+
+.box{
+    -webkit-box-shadow: 0 0 49px rgba(0,0,0,.53);
+    -moz-box-shadow: 0 0 49px rgba(0,0,0,.53);
+    box-shadow: 0 0 49px rgba(0,0,0,.53);
+    border: solid 10px rgba(255,255,255,.3);
+    /*width: 1268px;*/
+    height: 592px;
+    background-image: url("/img/popup-background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    max-height: 495px;
+    display: none;
+    margin-top: -60px;
+    position: relative;
+    z-index: 99;
+}
+.box .cls_button{
+    width: 50px;
+    height: 50px;
+    top: -31px;
+    right: -25px;
+}
+.min-title{
+    font-family: OpenSans;
+    font-size: 36px;
+    text-transform: uppercase;
+    color: #fff;
+    border: solid 2px #fff;
+    padding: 7px 60px;
+    max-width: 690px;
+    display: block;
+    margin: 35px auto 0 auto;
+    background: rgba(0, 0, 0, 0.24);
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.form-bg{
+    -webkit-box-shadow: 0 0 29px rgba(0,0,0,.24);
+    -moz-box-shadow: 0 0 29px rgba(0,0,0,.24);
+    box-shadow: 0 0 29px rgba(0,0,0,.24);
+    width: 494px;
+    /*width: 68%;*/
+    /*height: 422px;*/
+    background: #fff;
+    margin: 55px auto 0 auto;
+    position: relative;
+}
+.popup-header{
+    background: #fff;
+    -webkit-box-shadow: 0 2px 5px rgba(0,0,0,.14);
+    -moz-box-shadow: 0 2px 5px rgba(0,0,0,.14);
+    box-shadow: 0 2px 5px rgba(0,0,0,.14);
+    width: 100%;
+    height: 72px;
+    text-align: center;
+
+}
+.popup-header div{
+    font-family: OpenSans;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    color: #595959;
+    text-shadow: -1px 1px rgba(0,0,0,.23);
+    margin: 28px auto;
+    display: inline-table;
+}
+.form-bg .free{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.minput{
+    width: 376px;
+    height: 52px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background-color: #f1f1f1;
+    -webkit-box-shadow: inset 0 2px 4px rgba(0,0,0,.15);
+    -moz-box-shadow: inset 0 2px 4px rgba(0,0,0,.15);
+    box-shadow: inset 0 2px 4px rgba(0,0,0,.15);
+    border: solid 1px rgba(0,0,0,.19);
+    margin-top: 15px;
+    color: black;
+    font-size: 20px;
+    padding-left: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.minput::-webkit-input-placeholder {
+    font-size: 20px;
+    line-height:18px;
+    color: #3a3a3a;
+}
+
+.minput:-moz-placeholder { /* Firefox 18- */
+    font-size: 20px;
+    line-height:18px;
+    color: #3a3a3a;
+}
+
+.minput::-moz-placeholder {  /* Firefox 19+ */
+    font-size: 20px;
+    line-height:18px;
+    color: #3a3a3a;
+}
+
+.minput:-ms-input-placeholder {  
+    font-size: 20px;
+    line-height:18px;
+    color: #3a3a3a;
+}
+
+.sign-up-form{
+    margin: 10px auto;
+    text-align: center;
+}
+.submit-signup{
+    font-size: 24px;
+    color: #fff;
+    text-shadow: 0 2px rgba(0,0,0,.35);
+    width: 267px;
+    height: 56px;
+    background-color: #7dc242;
+    border: solid 1px #599525;
+    background-image: -webkit-linear-gradient(bottom, rgba(0,0,0,.02), rgba(255,255,255,.02));
+    background-image: -moz-linear-gradient(bottom, rgba(0,0,0,.02), rgba(255,255,255,.02));
+    background-image: -o-linear-gradient(bottom, rgba(0,0,0,.02), rgba(255,255,255,.02));
+    background-image: -ms-linear-gradient(bottom, rgba(0,0,0,.02), rgba(255,255,255,.02));
+    background-image: linear-gradient(to top, rgba(0,0,0,.02), rgba(255,255,255,.02));
+    margin-top: 35px;
+    /*margin-bottom: 60px;*/
+    border-radius: 5px;
+}
+.newtomeditat,.newtomeditation{
+    text-align: center;
+    margin-top: 24px;
+    cursor: pointer;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.box-info{
+    padding: 10px 20px 50px 20px;
+    color: #7dc242;
+}

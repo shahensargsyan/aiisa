@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    background-image: url("/img/bg-opacity.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100%;
+    width: 100%;
+}
+.notFoundText{
+    position: absolute;
+    top: 35%;
+    right: 37%;
+    color: #fff;
+    text-align: center;
+    font-size: 70px;
+}
+.errorPageCont{
+
+}

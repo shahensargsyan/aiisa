@@ -1,0 +1,43 @@
+.flash-message{background:none repeat scroll 0 0 rgba(0, 0, 0, 0.6);border:2px solid #5c5c5c;border-radius:8px;height:34px;margin:0 auto;position:relative;width:450px;z-index:4;}
+.success-message{background:url("../img/success.png") no-repeat scroll 10px 5px rgba(0, 0, 0, 0);color:#fff;line-height:34px;padding:0 0 0 50px;text-align:left;}
+#registration_message{
+    left:0;
+    position:absolute;
+    top:80px;
+    width:100%;
+}
+.flash-message{background:none repeat scroll 0 0 rgba(0, 0, 0, 0.6);border:2px solid #5c5c5c;border-radius:8px;height:34px;margin:0 auto;position:relative;width:450px;z-index:4;}
+#profile_message{margin:-111px 79px;}
+.session-msg-holder h1{font-size:16px;}
+.session-msg-holder{
+    background:rgba(0, 0, 0, 0.6);
+    border:2px solid #5c5c5c;
+    border-radius:8px;
+    color:#fff;
+    float:left;
+    font-size:16px;
+    font-weight:normal;
+    opacity:1;
+    padding:0 38px;
+    position:absolute;
+    z-index:999;
+    left: 35%;
+    height: 40px;
+}
+.success-message{background:url("../img/success.png") no-repeat scroll 10px 5px rgba(0, 0, 0, 0);color:#fff;line-height:34px;padding:0 0 0 50px;text-align:left;}
+.message{
+    background:url("../img/success.png") no-repeat scroll 10px 5px rgba(0, 0, 0, 0);
+    color:#fff;
+    padding: 6px 0 0 50px;
+    text-align:left;
+    height: 28px;
+}
+.failure-message{background:url("../img/failure.png") no-repeat scroll 10px 5px rgba(0, 0, 0, 0);color:#fff;line-height:34px;padding:0 0 0 50px;text-align:left;}
+
+.error-message{color:red;font-size:14px;font-weight:normal;}
+term .error-message {
+    margin-top: 10px;
+}
+.contact-us{
+    height: 60px;
+}

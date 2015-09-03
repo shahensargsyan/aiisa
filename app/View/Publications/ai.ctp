@@ -1,0 +1,41 @@
+<div class="row">
+    <header class="page-content-level page-content-header">
+        <div class="breadcrumb"><span class="breadcrumb-link breadcrumb-depth-0 breadcrumb-even breadcrumb-first"><a href="/">Home</a></span><i class="fa fa-angle-right"></i><span class="breadcrumb-link breadcrumb-depth-1 breadcrumb-odd"><a href="/publications" title="">Publications</a></span><i class="fa fa-angle-right"></i><span class="breadcrumb-link breadcrumb-depth-2 breadcrumb-even breadcrumb-last">Volume 91 Number 2 March 2015</span></div>
+        <div class="tabs">
+        </div>
+    </header>
+    <section class="page-content-level column page-content-main ia_section_index" id="page-content-main">
+        <header class="page-content-container main-title" id="main-title">
+        </header>
+        <section class="page-content-container drupal-messages" id="drupal-messages">
+        </section>
+        <section class="page-content-container main-content" id="main-content">
+            <div class="ds-1col node node-section-index view-mode-ia_section_index clearfix">
+                <div class="field field-name-title"><h1>Volume 91 Number 2 March 2015</h1></div><section class="featured-listing"><article class="features primary-highlight one-listing"><div class=" feature listing-item cf view-mode-primary_highlight_teaser" onclick="location.href = '/publication/chronic-protection-problem-dprk-and-responsibility-protect'">
+                            <div class="left-aligned-image"><img src="http://www.chathamhouse.org/sites/files/chathamhouse/styles/large_square_/public/UN%20general%20assembly%202.jpg?itok=3-coaQvr" width="600" height="600" alt="UN general assembly"></div><div id="node-publication-primary-highlight-teaser-group-primary-link-text" class="link-text"><h2>A chronic protection problem: the DPRK and the Responsibility to Protect</h2><div class="body-text"><p>Last December, the United Nations General Assembly voted in favour of referring North Korea to the International Criminal Court to face charges of crimes against humanity. The March issue of <em>International Affairs</em> leads with Alex Bellamy’s exploration of how the doctrine of the Responsibility to Protect relates to the situation in North Korea.</p></div><span class="expert"><p>Alex J. Bellamy</p></span></div></div>
+                    </article></section><section class="in-this-issue listing main-content-listing"><div class="label-container"><h2 class="label-above underlined label">Also in this issue</h2></div><aside class="listing-item" onclick="location.href = '/publication/securing-china%E2%80%99s-core-interests-state-debate-china'">
+                        <h2 class="listing-title">Securing China’s core interests: the state of the debate in China</h2><span class="expert"><p>Jinghan Zeng, Yuefan Xiao and Shaun Breslin</p></span></aside>
+                    <aside class="listing-item" onclick="location.href = '/publication/engagement-without-recognition-limits-diplomatic-interaction-contested-states'">
+                        <h2 class="listing-title">Engagement without recognition: the limits of diplomatic interaction with contested states</h2><span class="expert"><p>James Ker-Lindsay</p></span></aside>
+                    <aside class="listing-item" onclick="location.href = '/publication/why-wealthy-countries-must-not-drop-nuclear-energy-coal-power-climate-change-and-fate'">
+                        <h2 class="listing-title">Why wealthy countries must not drop nuclear energy: coal power, climate change and the fate of the global poor</h2><span class="expert"><p>Reinhard Wolf</p></span></aside>
+                    <aside class="listing-item" onclick="location.href = '/publication/why-british-referendum-eu-membership-will-not-solve-europe-question'">
+                        <h2 class="listing-title">Why a British referendum on EU membership will not solve the Europe question</h2><span class="expert"><p>Andrew Glencross</p></span></aside>
+                    <aside class="listing-item" onclick="location.href = '/publication/scholarship-and-ship-state-rethinking-anglo-american-strategic-decline-analogy'">
+                        <h2 class="listing-title">Scholarship and the ship of state: rethinking the Anglo-American strategic decline analogy</h2><span class="expert"><p>Katherine C. Epstein</p></span></aside>
+                    <aside class="listing-item" onclick="location.href = '/publication/global-multipolarity-european-security-and-implications-uk-grand-strategy-back-future'">
+                        <h2 class="listing-title">Global multipolarity, European security and implications for UK grand strategy: back to the future, once again</h2><span class="expert"><p>David Blagden</p></span></aside>
+                    <aside class="listing-item" onclick="location.href = '/publication/complex-security-and-strategic-latency-uk-strategic-defence-and-security-review-2015'">
+                        <h2 class="listing-title">Complex security and strategic latency: the UK Strategic Defence and Security Review 2015</h2><span class="expert"><p>Paul Cornish and Andrew M. Dorman</p></span></aside>
+                    <aside class="listing-item" onclick="location.href = '/publication/terrorism-%E2%80%98radicalization%E2%80%99-%E2%80%98extremism%E2%80%99-counterterrorism-imperative-or-loss-focus'">
+                        <h2 class="listing-title">From terrorism to ‘radicalization’ to ‘extremism’: counterterrorism imperative or loss of focus?</h2><span class="expert"><p>Anthony Richards</p></span></aside>
+                    <aside class="listing-item" onclick="location.href = '/publication/review-article-troublemakers-laura-poitras-and-problem-dissent'">
+                        <h2 class="listing-title">Review article: Troublemakers: Laura Poitras and the problem of dissent</h2><span class="expert"><p>Alex Danchev</p></span></aside>
+                    <aside class="listing-item" onclick="location.href = '/publication/review-article-100-billion-dollar-brain-central-intelligence-machinery-uk-and-us'">
+                        <h2 class="listing-title">Review article: The 100 billion dollar brain: central intelligence machinery in the UK and the US</h2><span class="expert"><p>Richard J. Aldrich</p></span></aside>
+                    <aside class="listing-item" onclick="location.href = '/publication/book-reviews-5'">
+                        <h2 class="listing-title">Book reviews </h2></aside>
+                </section><div class="also"><div class="label-container"><h2 class="label-above underlined label">Read more</h2></div><div class="event-docs"><ul><li><a href="//www.chathamhouse.org/sites/files/chathamhouse/field/field_document/INTA91_2_00CContributors.pdf"><span style="line-height: 1.538em;">Contributors</span></a></li><li><a href="//www.chathamhouse.org/sites/files/chathamhouse/field/field_document/INTA91_2_00DAbstracts.pdf"><span style="line-height: 1.538em;">Abstracts</span></a></li><li><a href="//www.chathamhouse.org/sites/files/chathamhouse/field/field_document/INTA91_2_14_RevIndex.pdf">Index of books reviewed</a></li></ul></div></div><div class="testimonials"><div class="label-container"><h2 class="label-above label underlined">Testimonials</h2></div><blockquote><p>'In the depth of its analysis, as much as in the range of its policy discussion, there is no journal to match <em>International Affairs</em>.<span>'</span></p><p><span>- PROFESSOR FRED HALLIDAY (1945-2010)</span></p><p>&nbsp;</p></blockquote><blockquote><p>'<em>International Affairs</em>&nbsp;has the best book review section of any journal in the field. Many people subscribe to it for that reason alone.'</p><p>- PROFESSOR SIR MICHAEL HOWARD OM, CH, CBE, MC</p><p>&nbsp;</p></blockquote><blockquote><p>'<em>International Affairs</em> provides outstanding analysis of global politics. It is a journal that contributes to the foreign policy thinking within any serious political party. As a former Head of the International Economics Programme at Chatham House I contributed articles myself and valued the exposure to an informed and influential audience.'</p><p>- VINCENT CABLE MP, SECRETARY OF STATE FOR BUSINESS, INNOVATION AND SKILLS</p></blockquote></div></div>
+        </section>
+    </section>
+</div>

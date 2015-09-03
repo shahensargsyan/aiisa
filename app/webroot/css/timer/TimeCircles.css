@@ -1,0 +1,15 @@
+.textDiv_Seconds{left:145px;top:24px;width:53px;}
+.textDiv_Seconds h4{font-size:10px;line-height:8px;}
+.textDiv_Seconds span{font-size:15px;}
+.textDiv_Minutes h4{font-size:10px;line-height:8px;}
+.textDiv_Minutes span{font-size:15px;}
+.textDiv_Minutes{left:71px;top:24px;width:52px;}
+.time_circles canvas{}
+.time_circles{position:relative;width:100%;height:100%;color:#fff;}
+.time_circles > div{position:absolute;text-align:center;}
+.time_circles > div > h4{margin:0px;padding:0px;text-align:center;text-transform:uppercase;font-family:'Century Gothic', Arial;}
+.time_circles > div > span{display:block;width:100%;text-align:center;font-family:'Century Gothic', Arial;font-size:21px;font-weight:bold;}
+#custom-med-timer{width:144px !important;height:75px !important;margin:0 auto;padding-left:0 !important;overflow:hidden;}
+.textDiv_Minutes{left:10px !important;}
+.textDiv_Seconds{left:81px !important;}
+canvas{}

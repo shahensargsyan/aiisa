@@ -1,0 +1,54 @@
+.language-area .jcf-select {
+	padding:6px 0 8px;
+}
+.dropdown-menu {
+	font-size:14px;
+	padding:14px 0 0;
+	letter-spacing:-0.5px;
+}
+.dropdown-menu li a { padding:7px 25px 8px 15px; }
+.tab-content .tab { background:url(../images/none.png); }
+.tabset li a { padding:13px 30px 13px 40px; }
+.testimonials blockquote q { padding:0 0 19px 18px; }
+.testimonials blockquote q:after { margin-left:2; }
+.btn { min-width:162px; }
+.btn-next { min-width:106px; }
+.btn-back { min-width:125px; }
+.addnav li { padding:0; }
+.addnav li.help a { padding:13px 25px 15px; }
+.btn.btn-sighup { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d4e3a4', endColorstr='#afcb57',GradientType=0 ); }
+.btn.btn-sighup:focus,
+.btn.btn-sighup:hover { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#afcb57', endColorstr='#d4e3a4',GradientType=0 ); }
+.nav-panel { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#516075', endColorstr='#263246',GradientType=0 ); }
+.dropdown-menu li a:hover,
+.dropdown-menu li a:focus { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aecc47', endColorstr='#86ae1f',GradientType=0 ); }
+.addnav li.help a { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cee098', endColorstr='#a4c43f',GradientType=0 ); }
+.addnav li.help a:hover { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a4c43f', endColorstr='#cee098',GradientType=0 ); }
+.tabs-area .head { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#505f75', endColorstr='#273246',GradientType=0 ); }
+.tabset li a.active,
+.tabset li a:hover { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8da63b', endColorstr='#5f7b18',GradientType=0 ); }
+.steps-area .steps li a { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e9e9e9', endColorstr='#dbd9d9',GradientType=0 ); }
+.steps-area .steps li.completed a { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c2c2c2', endColorstr='#9f9f9f',GradientType=0 ); }
+.steps-area .steps li.current a { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#516075', endColorstr='#263246',GradientType=0 ); }
+.btn-next,
+.btn-back { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d4e4a5', endColorstr='#afcb57',GradientType=0 ); }
+.btn-next:hover,
+.btn-back:hover { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c8d2ab', endColorstr='#98aa62',GradientType=0 ); }
+.btn-next.disabled,
+.btn-back.disabled { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e9e9e9', endColorstr='#dbd9d9',GradientType=0 ); }
+.btn { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d4e4a5', endColorstr='#afcb57',GradientType=0 ); }
+.btn:hover,
+.btn.btn-hover { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c8d2ab', endColorstr='#98aa62',GradientType=0 ); }
+.btn.disabled { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e9e8e8', endColorstr='#d9d8d8',GradientType=0 ); }
+.btn.btn-warning { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4daae', endColorstr='#eabb68',GradientType=0 ); }
+.btn.btn-warning:hover { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e4cca4', endColorstr='#cba156',GradientType=0 ); }
+.btn.btn-danger { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4b6b5', endColorstr='#e97775',GradientType=0 ); }
+.btn.btn-danger:hover { filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ddaaa9', endColorstr='#c0605f',GradientType=0 ); }
+@media only screen and (max-width: 992px) {
+	#nav > li { padding:0 7px; }
+	#main .steps-area .steps { font-weight:normal; }
+}
+@media only screen and (max-width: 767px) {
+	#nav > li { padding:0 0 5px; }
+	.addnav li { padding:0; }
+}
